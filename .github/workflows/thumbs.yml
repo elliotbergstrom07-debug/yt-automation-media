@@ -1,0 +1,24 @@
+name: fetch-thumbnails
+# YT Automation: hämtar konkurrenternas miniatyrer (i.ytimg.com är spärrat i arbetsytan).
+# Skriv video-ID:n (ett per rad) i want.txt och pusha – bilderna hamnar i thumbs/<id>.jpg.
+on:
+  push:
+    paths: ["want.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Hämta miniatyrer
+        run: |
+          mkdir -p thumbs
+          grep -oE '^[A-Za-z0-9_-]{11}$' want.txt | while read id; do
+            curl -sfL -o "thumbs/$id.jpg" "https://i.ytimg.com/vi/$id/mqdefault.jpg" || true
+          done
+      - name: Spara
+        run: |
+          git config user.name "YT Automation"; git config user.email "yt-automation@users.noreply.github.com"
+          git add thumbs && git commit -m "thumbs" && git push || echo "inget nytt"
