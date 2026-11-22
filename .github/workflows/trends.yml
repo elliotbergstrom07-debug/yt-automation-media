@@ -48,27 +48,31 @@ jobs:
               for q in qs:
                   item = {"query": q, "suggest": suggest(q), "vecka": [], "manad": []}
                   for per, sp in SP.items():
-                      url = "https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(q) + "&sp=" + sp
+                      url = "https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(q) + "&sp=" + sp + "&gl=US&hl=en"
                       for e in flat(url, 15):
                           if not e.get("id"): continue
                           v = {"id": e["id"], "title": e.get("title"), "channel": e.get("channel") or e.get("uploader"),
                                "views": e.get("view_count"), "duration": e.get("duration")}
                           item[per].append(v); seen.setdefault(e["id"], v)
                   out["queries"].append(item)
-              top = sorted(seen.values(), key=lambda v: v.get("views") or 0, reverse=True)[:12]
-              for v in top:
-                  v.update({x: y for x, y in full(v["id"]).items() if y is not None})
-                  f = v.get("channel_follower_count") or 0
-                  v["visn_per_pren"] = round((v.get("views") or 0) / f, 1) if f else None
-                  v.pop("tags", None) if not v.get("tags") else v.update(tags=v["tags"][:15])
-              out["topp"] = top
+              import re
+              BAD = re.compile(r"[^\x00-\u024f]|\b(hindi|mein|hai|kaise|diya|tak|zinda|explained in|manhua|gta|minecraft|roblox|fortnite)\b", re.I)
+              ok = lambda v: v.get("title") and not BAD.search(v["title"])
+              def topof(per):
+                  d = {}
+                  for it in out["queries"]:
+                      for v in it[per]:
+                          if ok(v): d.setdefault(v["id"], v)
+                  return sorted(d.values(), key=lambda v: v.get("views") or 0, reverse=True)[:10]
+              out["topp_vecka"], out["topp_manad"] = topof("vecka"), topof("manad")
               json.dump(out, open(f"trend/{k}.json", "w"), indent=1, ensure_ascii=False)
               md.append(f"\n## {k}\n")
               for it in out["queries"]:
                   md.append(f"- **{it['query']}** – förslag: {', '.join(it['suggest'][:8])}")
-              md.append("\n| visningar | pren | ×pren | längd | datum | titel | kanal | id |\n|---|---|---|---|---|---|---|---|")
-              for v in top:
-                  md.append(f"| {v.get('views')} | {v.get('channel_follower_count')} | {v.get('visn_per_pren')} | {round((v.get('duration') or 0)/60,1)} | {v.get('upload_date')} | {v.get('title')} | {v.get('channel')} | {v['id']} |")
+              for per, rubrik in (("topp_vecka", "Störst DENNA VECKA (trendar nu)"), ("topp_manad", "Störst DENNA MÅNAD")):
+                  md.append(f"\n**{rubrik}**\n\n| visningar | min | titel | kanal | id |\n|---|---|---|---|---|")
+                  for v in out[per]:
+                      md.append(f"| {v.get('views')} | {round((v.get('duration') or 0)/60,1)} | {v.get('title')} | {v.get('channel')} | {v['id']} |")
           open("trend/sammanfattning.md", "w").write("\n".join(md) + "\n")
           PY
           ls -la trend
