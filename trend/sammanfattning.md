@@ -1,107 +1,187 @@
-# Trender 2026-11-22 03:02 UTC
+# Trender 2026-11-22 03:05 UTC
 
 
 ## ls
 
 - **zombie survival story** – förslag: zombie survival story, zombie survival story game, zombie survival story no ai, zombie survival story stickman, zombie survival story farm, zombie survival story no ads, zombie survival story full, zombie survival story ai
-- **zombie apocalypse animation** – förslag: zombie apocalypse animation, zombie apocalypse animation school, zombie apocalypse animation story, zombie apocalypse animation stickman, zombie apocalypse animation farm, zombie apocalypse animation full movie, zombie apocalypse animation costco, zombie apocalypse animation meme
-- **stuck at work zombie outbreak** – förslag: 
+- **zombie apocalypse full story** – förslag: zombie apocalypse full story, zombie apocalypse full story hindi, zombie apocalypse full movie - minecraft story animation, zombie apocalypse love story full movie
+- **night shift zombie** – förslag: night shift zombie game, night shift zombie, night shift zombie shooter, night shift zombie movie, nighttime zombie, nighttime zombie gameplay, asylum night shift zombie, night shift rock
+- **day 1 to day 100 zombie** – förslag: day 1 to day 100 zombie, 1 day to 100 days in minecraft zombie apocalypse, day 1 to 100 minecraft zombie
 
-| visningar | pren | ×pren | längd | datum | titel | kanal | id |
-|---|---|---|---|---|---|---|---|
-| 8680523 | None | None | 28.5 | None | Zombie Outbreak | Maizen | UH1HSIN4L20 |
-| 4892621 | None | None | 150.0 | None | 1000 Players Simulate Minecraft's Deadliest Containment Zone... | SpeedSilver | KnlAF_djhdc |
-| 4179421 | None | None | 33.1 | None | Dinosaur Horror Mod | Maizen | XWmq_XG6aXM |
-| 3813088 | None | None | 48.8 | None | Trapped In Walmart After Closing 1 Year (Full Story) | One Year Inside | 3pkkFlH7-pU |
-| 1933586 | None | None | 67.3 | None | Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!) | DoodleSurvivals | 9LVdlATk5Zw |
-| 1905151 | None | None | 16.9 | None | Absolute Zero: 100 Hours Survival in a Frozen City | Headlamp Guy | oxj91T7Li34 |
-| 1876774 | None | None | 23.6 | None | Zombie Outbreak: What If YOU Were Patient Zero? (Full Story) | IfYou Films | 6qIJI38aTmE |
-| 1317473 | None | None | 19.0 | None | GTA 5 : ZOMBIE APOCALYPSE! 🧟‍♂️ Defending Shinchan & Franklin's House | GTA 5 Bangla Gameplay | Somen Vai Gaming | v_Ha1y28nfQ |
-| 1290820 | None | None | 73.0 | None | I Survived 100 Days On A Zombie Cruise Ship. The Final Day Changes Everything. (Full Movie) | Kit vs The End | xdj5PL0t61k |
-| 1154970 | None | None | 19.5 | None | Samundar Jab Dharti Ko Apne Andar Sama Liya | Movie Explained In Hindi | Filmigo | Hbe30GNkjhw |
-| 1078016 | None | None | 32.4 | None | 100 Din Tak Maut Ke Is Barfile Registan Mein Kaise Zinda Raha Ye Aadmi | Flick Movies | _ZG35Yz8ZZQ |
-| 812364 | None | None | 24.7 | None | Duniya Ab Khatam Ho Chuki Thi, Zinda Bachne Ke Lie Log BUNKERS Me Chupe The ! | MoBieTV Hindi | T7BW3xcncf4 |
+**Störst DENNA VECKA (trendar nu)**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 96526 | 95.0 | Zombie King is a Babysitter to a Reborn Goddess [Season: 1] | Reels & Story Universe | 4-uo6CLybTs |
+| 67533 | 94.3 | Creature Return | Zombie Survival Full Movie in English | Blockbuster Action | The Infection Is Back | Blue Orbit Media | eapo4SQzB6k |
+| 63639 | 43.3 | Zombie Outbreak Survival: Trapped In A Walmart For 1 Year (Full Movie) | RedVest Survives | gQ6wJbQWFSI |
+| 61767 | 57.6 | Zombieworld 3 - Hunting the Undead | Full Movie | 4K | CineBox | kLaprFmde8w |
+| 56229 | 94.3 | The Last Cure - Hollywood English Full HD Movie | Zombie Survival Apocalyptic Thriller & Dark Secret | HollyTube | kmIge3IjpYA |
+| 53426 | 15.1 | They Escaped Zombies by Boat and Found a Secret Canyon Bunker | The Shelter Girl | The Shelter Girl and The Revival Girl | 5ctfIcKq5-I |
+| 36178 | 137.2 | Apocalypse Z: New World (2026) Zombie Action Movie in English HD | Full Movie Explained | Film Perspective Media | WWMG2N645Rg |
+| 35124 | 17.4 | Nuclear Apocalypse: 1 Year Locked In an Amazon Warehouse | Undead Survived | RZCL6wqENOk |
+| 32911 | 15.3 | An Experiment Turned The Entire City Into Zombies | Dawn Of The Dead (2004) | Klimax Movies  and Filmdrift | DdsDXbgzK0c |
+| 31184 | 33.9 | Zombie Apocalypse: SWAT Officer - Mission of Doom | Your Surviving Job | HIx4h_eKMoY |
+
+**Störst DENNA MÅNAD**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 8681045 | 28.5 | Zombie Outbreak | Maizen | UH1HSIN4L20 |
+| 4179850 | 33.1 | Dinosaur Horror Mod | Maizen | XWmq_XG6aXM |
+| 3813660 | 48.8 | Trapped In Walmart After Closing 1 Year (Full Story) | One Year Inside | 3pkkFlH7-pU |
+| 3478581 | 27.6 | KM Part 1 Apocalypse Z: The Beginning of the End 2026 1080p 24f 11/09/2026 07:10:25 | IQ7 | N-DArSZye8I |
+| 1933776 | 67.3 | Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!) | DoodleSurvivals | 9LVdlATk5Zw |
+| 1905365 | 16.9 | Absolute Zero: 100 Hours Survival in a Frozen City | Headlamp Guy | oxj91T7Li34 |
+| 1877755 | 23.6 | Zombie Outbreak: What If YOU Were Patient Zero? (Full Story) | IfYou Films | 6qIJI38aTmE |
+| 1290820 | 73.0 | I Survived 100 Days On A Zombie Cruise Ship. The Final Day Changes Everything. (Full Movie) | Kit vs The End | xdj5PL0t61k |
+| 711237 | 18.9 | Surviving the Zombie Apocalypse Behind a Waterfall | A Cozy Family Life | Zenvival | bIpkItEdwdA |
+| 703249 | 67.7 | Bunker Survival - The Explosion {Full Movie} | Bunker Days | hgTR1eeEeFQ |
 
 ## ste
 
-- **could you survive history** – förslag: could you survive history, could you survive history hit, can you survive story, can you survive history galileo, can you survive history pest, would you survive history
-- **how long would you survive** – förslag: how long would you survive, how long would you survive on each planet, how long would you survive in each era, how long would you survive in these liquids, how long would you survive without body parts, how long would you survive without these things, how long would you survive on other planets, how long would you survive without these body parts
+- **could you survive** – förslag: could you survive, could you survive a zombie apocalypse, could you survive a springlock failure, could you survive the dinosaur era, could you survive as a victorian factory worker, could you survive as a girl, could you survive mortal kombat, could you survive home alone
+- **how long would you survive in** – förslag: how long would you survive in each era, how long would you survive in these liquids, how long would you survive in each prehistoric era reaction, how long would you survive in each prehistoric ocean, how long would you survive in each planet, how long would you survive in liquids, how long would you survive in a zombie apocalypse, how long would you survive in each earth era
 - **worst time to be alive history** – förslag: worst time to be alive in history, worst times to be alive in history reaction, worst times to be alive in history joe bart, worst times to be alive in human history, worst time ever to be alive in history, worst time to be alive
+- **survive 100 days history** – förslag: 
 
-| visningar | pren | ×pren | längd | datum | titel | kanal | id |
-|---|---|---|---|---|---|---|---|
-| 2021680 | None | None | 19.5 | None | How Fast You'd Die in Every Prehistoric Ocean | Fossil | JjGcTqLEIuE |
-| 1441892 | None | None | 4.8 | None | 90 days in the dark? Survival expert warns Americans to prepare | NewsNation | DA4TswHWKmU |
-| 1290820 | None | None | 73.0 | None | I Survived 100 Days On A Zombie Cruise Ship. The Final Day Changes Everything. (Full Movie) | Kit vs The End | xdj5PL0t61k |
-| 1062844 | None | None | 15.1 | None | How Long You'd Last on Every Planet (Real Science) | FAR SIGNAL | 11Ie3hQXhhA |
-| 848732 | None | None | 9.2 | None | What If You and Your Best Friend Lived a Googolplex Years? | Alternate You  | UgIdpJG13Gc |
-| 846299 | None | None | 21.8 | None | You Spent 10 Years in a Bunker. You Only Needed 5. | Your Other Life | f5SN1UFS6VA |
-| 522258 | None | None | 27.2 | None | Analog Horror Entities You DEFINITELY Cannot Survive | MrUnnerving | vqljKkRjqNM |
-| 520947 | None | None | 7.7 | None | Grid Down: What Your Family Needs to Survive 90 Days Without Power | Gun Fighter Academy | S-aBuS1x8NA |
-| 500855 | None | None | 12.5 | None | Bunker Survival 1 Year | Mr. DoomStick | C3oUR0nys5E |
-| 466884 | None | None | 13.9 | None | How Long Would Ice Age Giants Survive in Today's World | Era Swap | g0KyIyw2anA |
-| 377055 | None | None | 36.4 | None | What If It Was -100°C for 10 Years? | Your Other Life | cXqWcScqpqc |
-| 353367 | None | None | 12.7 | None | How Long Would Prehistoric Sea Monsters Survive in Today's World | Era Swap | x5yoEyu2ZoI |
+**Störst DENNA VECKA (trendar nu)**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 377055 | 36.4 | What If It Was -100°C for 10 Years? | Your Other Life | cXqWcScqpqc |
+| 223182 | 19.1 | Ranking 11 Prehistoric Oceans: How Long Would You Survive? | Hà Chưa Biết | LBXtxOtszcU |
+| 217889 | 21.1 | How Long Would the Scariest Prehistoric Monsters Survive in Today's World | Era Swap | 6uehnpBjKOs |
+| 143532 | 63.1 | Would you survive a blackout? Trezoitão analyzes the scenarios | Rotina do Trezoitão | lpxbpQ8i6wo |
+| 130093 | 81.7 | Can You Survive 7 Nights Without Breaking a Single Rule? | Lullorin | C57DIR7QFkw |
+| 128296 | 35.5 | Would You Last 24 Hours in a Victorian Workhouse? | History Hit | nKceAxUSBpM |
+| 90323 | 16.6 | Would You SURVIVE in the Yu-Gi-Oh! Anime? | Multiversal Studios | EC-cBYBykuU |
+| 86790 | 25.0 | You Have 30 Days Before Nuclear War. Can You Survive? | Your Other Life | n9fEU5ZNUY0 |
+| 48861 | 9.4 | How Many _____ Could You Survive? | Luke Davidson | yuYZHrLrkdQ |
+| 48770 | 25.2 | Could you survive a nanosecond inside a Black Hole? | TheBioGuys | YIsQkdM7JH0 |
+
+**Störst DENNA MÅNAD**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 16958983 | 28.1 | Surviving HOT vs COLD For 24 Hours! | Stay Wild | J8deTV5sfKE |
+| 4723799 | 84.8 | How Fast Could You Eat An Entire Grocery Store Of Food? | Joe Bartolozzi | FaZaYrbEMDY |
+| 3848762 | 35.5 | Can I Survive on Japan's Vending Machines for 7 Days? | Addie Bowley | 1FG-s32V-qM |
+| 3813660 | 48.8 | Trapped In Walmart After Closing 1 Year (Full Story) | One Year Inside | 3pkkFlH7-pU |
+| 3310304 | 47.0 | Is Final Destination Even Survivable? | Joe Bartolozzi | gYbDmPVVeiE |
+| 3195980 | 19.4 | How Long You Would Survive in Every Prehistoric Era (Not AI) | Sebastián Schiller | CUjqN3b7oGM |
+| 2021814 | 19.5 | How Fast You'd Die in Every Prehistoric Ocean | Fossil | JjGcTqLEIuE |
+| 1933776 | 67.3 | Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!) | DoodleSurvivals | 9LVdlATk5Zw |
+| 1905365 | 16.9 | Absolute Zero: 100 Hours Survival in a Frozen City | Headlamp Guy | oxj91T7Li34 |
+| 1803510 | 67.1 | Every Movie I Would BARELY Survive 2 | Tyler Vitelli 3 and 2 more | fu0mb3PmOoE |
 
 ## qm
 
 - **how are americans affording** – förslag: how are americans affording, how are americans affording $600 000 homes on average salaries, how are americans affording $500 000 homes on average salaries, how are americans affording $100 000 trucks on average salaries, how are americans, how are american people, how broke are americans
-- **salary breakdown usa** – förslag: salary breakdown usa, salary breakdown, salary breakdown nyc, salary breakdown uk, salary in us
-- **cost of living america 2026** – förslag: cost of living america 2026, cost of living usa 2026, cost of living us 2026, cost of living crisis usa 2026
+- **how much house can you afford** – förslag: how much house can you afford, how much house can you afford by salary, how much house can you afford in the uk, how much house can i afford, how much house can i afford uk, how much house can i afford with 200k salary, how much home can you afford, how much house can i afford with 50k salary
+- **can you afford on salary** – förslag: what can you afford with 100k salary
+- **cost of living usa 2026** – förslag: cost of living usa 2026, cost of living us 2026, cost of living crisis usa 2026
 
-| visningar | pren | ×pren | längd | datum | titel | kanal | id |
-|---|---|---|---|---|---|---|---|
-| 1067696 | None | None | 17.5 | None | How Are Americans Buying $80,000 Trucks on a $70,000 Salary? | The Infographics Show | yv-xKJVXrLE |
-| 675456 | None | None | 14.8 | None | How Are Americans Affording $500,000 Homes on Average Salaries? | The Infographics Show | AvyHU0m8vdE |
-| 512641 | None | None | 35.6 | None | Can Zohran Mamdani Fix the Cost of Living in New York City? | The New York Times | xS9eltccFAY |
-| 309829 | None | None | 19.4 | None | Why So Many Americans REGRET Moving to Mexico | Where America Sleeps and 4 more | h1mnIfy00uc |
-| 278085 | None | None | 3.5 | None | Millions of workers are juggling multiple jobs to afford America | NBC Bay Area | XLZDmui8iCE |
-| 265178 | None | None | 8.8 | None | 'A lot of people don't realize it's coming': Americans brace for HIGHER health care costs next year | MS NOW | 8eMxFl35gik |
-| 245831 | None | None | 19.5 | None | Why So Many Americans Have Nowhere Left to Sleep | Where America Sleeps and 3 more | 9esldvAqsw0 |
-| 228878 | None | None | 15.2 | None | America Can't Afford a Used Car Anymore | Logically Answered | I1Lf5vFHarQ |
-| 180649 | None | None | 20.0 | None | Why So Many Working Americans Are Secretly Living in Their Cars | Cartor Raay | BxtkFkALKM8 |
-| 160444 | None | None | 21.4 | None | Number Of Homeless Americans Has Exploded! People Are On The Streets With No Hope! | Priced Out America  | gW7YlpVPHyk |
-| 117765 | None | None | 11.8 | None | Inside the Future of American Neighborhoods | City Aesthetics ⛩️ | qzINsW8VjDg |
-| 107757 | None | None | 25.9 | None | How Are Americans Buying $80,000 Trucks on a $70,000 Salary? | Untamed Motors | rrxNXHnMBsg |
+**Störst DENNA VECKA (trendar nu)**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 309850 | 19.4 | Why So Many Americans REGRET Moving to Mexico | Where America Sleeps and 4 more | h1mnIfy00uc |
+| 107782 | 25.9 | How Are Americans Buying $80,000 Trucks on a $70,000 Salary? | Untamed Motors | rrxNXHnMBsg |
+| 78806 | 10.5 | Toyota Scion Kei-01 | Are Affordable Cars Back? | savagegeese | tb5_tQOvrO0 |
+| 77518 | 58.5 | Do You Earn Enough To Afford The American Dream in 2026? | The Money Guy Show | k6bJNCvvTTY |
+| 46342 | 38.4 | 17 Cheapest American Cars Of The 1950s And Who Really Bought Them | Dead Brands & Classic Cars | gZdmV0UE0vw |
+| 36393 | 4.0 | Affording America: Bay Area woman priced out of San Francisco | NBC Bay Area | RD_BYjxLjFc |
+| 34217 | 16.4 | America's price shock: When everyday life becomes unaffordable! REACTION | Sissi die Auswanderin | _ZAHcWKvVEk |
+| 18391 | 6.4 | The REAL Cost of Living in Da Nang, Vietnam (My $2,500 Veteran Budget) | Nomad Day | u75WJHUGcio |
+| 13110 | 17.6 | THE COST OF LIVING IN THE US IN 2026 IS NOT WHAT YOU IMAGINE | Julia Prado | M1QQFh7oogs |
+| 11231 | 11.8 | Protesters rally in France for sixth straight weekend over cost of living, police violence | USA TODAY | rneSI1sqcYo |
+
+**Störst DENNA MÅNAD**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 7743146 | 11.4 | Republicans turn against Hegseth after election losses | CNN | 0cPRdwHWf64 |
+| 1680318 | 38.7 | Obama SLAMS Trump directly for rising cost of living as he stumps for Democrats in Ohio  | MS NOW | UK_ogAXDjiM |
+| 1647511 | 33.7 | A blue tsunami sweeps the US midterms as Democrats take control of the House and Senate | 7.30 | ABC News In-depth | -h6XHqyzyjU |
+| 1082893 | 20.1 | I Ranked TOP Cars based on your Salary! from 50k to 3lakh/month! | Biturbo Media | NCjp0b-TYO8 |
+| 1067702 | 17.5 | How Are Americans Buying $80,000 Trucks on a $70,000 Salary? | The Infographics Show | yv-xKJVXrLE |
+| 935409 | 10.4 | First voter poll: 75% angry or dissatisfied with how things are going | CNN | _1Np8de_s7I |
+| 931588 | 7.1 | JN: 'Power to the Test': rising cost of living is one of the main concerns for American voters | g1 | r2_CABwSUS0 |
+| 860991 | 8.7 | Trump claims election was rigged: Enten breaks down the data | CNN | B4SYVG3GIvo |
+| 772103 | 7.1 | 2026 Election Results: Democrats Win Control of House and Senate. What You Need to Know - November 4 | ABC News | fofOXOr9uQ8 |
+| 675457 | 14.8 | How Are Americans Affording $500,000 Homes on Average Salaries? | The Infographics Show | AvyHU0m8vdE |
 
 ## dac
 
 - **what happens after you get arrested** – förslag: what happens after you get arrested, what happens if you get arrested in red dead redemption 2, what happens when you get arrested in gta 5, what happens if you get arrested, what happens when you get arrested uk, what happens when you get arrested in red dead redemption 2, what happens if you get arrested in gta 6, what happens when you get arrested in schedule 1
-- **your life after** – förslag: your life after faking your death, your life after your investment, your life after winning the lottery, your life after marrying into royalty, your life after marrying into a billionaire family, your life after inheriting 10 billion, your life after, your life after getting rich
-- **what happens if you ignore** – förslag: what happens if you ignore lucia in gta 6, what happens if you ignore lucia, what happens if you ignore barney in animal hospital, what happens if you ignore verity, what happens if you ignore dandy, what happens if you ignore duolingo, what happens if you ignore barney, what happens if you ignore jury duty
+- **your life after every stage** – förslag: 
+- **what happens if you get sued** – förslag: what happens if you get sued, what happens when you get sued, what happens if you get in trouble, what to do when you get sued by a creditor, what to do if you get in trouble, what happens when you get in trouble, what to do if you get in trouble at school, what to do when you get in trouble at school
+- **what really happens in court** – förslag: what happens in court, what happens in a court trial
 
-| visningar | pren | ×pren | längd | datum | titel | kanal | id |
-|---|---|---|---|---|---|---|---|
-| 10893241 | None | None | 101.7 | None | WW3 Threat Expert: The Warning We Are Ignoring, The Only Way Out Is THIS! | Dr Sarah Paine | The Diary Of A CEO | 3kuNW8hRc2U |
-| 5820198 | None | None | 14.0 | None | Dying Is Complicated | Kurzgesagt – In a Nutshell | fEjvSbI_PT4 |
-| 4376348 | None | None | 37.3 | None | MAKE 2027 YOUR COMEBACK YEAR  | Raj shamani | Think with shamani  | QlFQTil6aOk |
-| 3369791 | None | None | 72.3 | None | Richard Hammond: I Never Wanted to Split From Clarkson and May | High Performance and DRIVETRIBE | nXn7nd97b0Q |
-| 2907550 | None | None | 35.1 | None | The Moment Abusive Teen Realizes He's Going to Jail | Sergeant Steve | tj78PPo08GY |
-| 2850922 | None | None | 103.2 | None | How To Make The Next 10 Years The Best Years Of Your Life | Mel Robbins | FO584 Raj Shamani | Raj Shamani and Mel Robbins | RR2bORcvzKs |
-| 2748703 | None | None | 11.8 | None | Crazy Karen Pepper Sprays Kid at Airport | Midwest Safety | iBtuFYeeg8c |
-| 2108535 | None | None | 45.4 | None | Cops Arrest Man For Refusing ID — Judge Finally Rules | The Civil Rights Lawyer | vtJ3RpU_eK4 |
-| 1794457 | None | None | 35.4 | None | Scammers Return to Tesla After Buying 3 $270K Luxury Cars with Stolen Credit Cards & Fake ID | Bodycam Rico and NYDETECTIVE | SrkfpugLwA4 |
-| 1781993 | None | None | 142.4 | None | Why People Ignore You: The Communication Mistakes You Need To Fix | Vinh Giang | FO588 Raj Shamani | Raj Shamani and Vinh Giang | BgeNDG5jD60 |
-| 1745896 | None | None | 17.8 | None | 6 Hidden Triggers of Sudden Decline After 70 (Don't Ignore These) | Liesa Harte, M.D. | Healthy Aging | AQ4NxjUCL5w |
-| 1639453 | None | None | 23.8 | None | If You Feel Stuck Watch THIS To Manifest Your DREAM Life (Part 01) | Raj Shamani Insights | Etm6S2nfbMs |
+**Störst DENNA VECKA (trendar nu)**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 258642 | 23.9 | We're Getting Sued. This Is The Last One | Are You OK? Finale | Sam Hyde | 4e78p2IVfHo |
+| 81528 | 23.1 | Lil Durk Denied Bond? What Really Happened Is Even More Serious | Ceddy Nash | wulM9D1h8oA |
+| 71896 | 28.1 | This Is What REALLY Happened In New 4K Surveillance Of King Von's Last Moments | Hookah Anonymous | NQxlYNaKW-M |
+| 64334 | 25.1 | Your Life at Every Level of Living in a Motel | The Last Level | t4M_HTAWLYc |
+| 53598 | 24.1 | Your Life at Every Level of Renting a $550 Room in a Boarding House at 62 | Dirt Cheap Levels | cGV9B3quQEQ |
+| 50631 | 19.5 | Your Life at Every Level as a House Flipper | Mateo POV Boy | 0WniyIsmbjo |
+| 48288 | 23.6 | Your Life at Every Level of Being a Car Salesman | Finance Expl. | O3ZQOuEqflU |
+| 47357 | 30.6 | Your Life at Every Level of Living Off-Grid on a £31K Plot in Britain | British Money Map | yxRAUuHLCqg |
+| 37955 | 36.6 | Your Life at Every Level of Starting Hotshot Trucking With a $12,000 Truck | Every Level HQ | 5AnSD2yXLhY |
+| 35974 | 24.5 | Your Life at Every Level of Retiring to the Philippines on $1,900 a Month | Life in Levels | V02RopMo1JQ |
+
+**Störst DENNA MÅNAD**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 2601158 | 22.4 | The Florida Learjet Crash: What Really Happened Inside The Cockpit? | Rewynd3D | lNA03U4litA |
+| 1019415 | 55.0 | BREAKING: EU Globalists Launch Coup In Poland - Riot Police ATTACKS Constitutional Court | Tousi TV | czaomyqNjnM |
+| 618411 | 78.5 | Everything You Need To Know About What's REALLY Happening at Russell Brand's UK Trial | Megyn Kelly | y4xirsHCtIw |
+| 614241 | 27.6 | Your Life at Every Level of Living Off the Grid | Honest Life POV | -2r1E9_4Dcc |
+| 590903 | 23.7 | Your Life at Every Level of Living in an RV Park for $650 a Month | Life in Levels | A616edx1j1c |
+| 372596 | 20.9 | Your Life at Every Level of Buying a $3,000 Quonset Hut | Plain Joe Levels | pb3eTHXYXnM |
+| 277336 | 94.5 | Planning a Baby After 35? WATCH THIS Before You Get Pregnant! Ft Gauahar Khan & Dr Rohan Palshetkar | Soha Ali Khan | jyHUEUFGvRo |
+| 251620 | 22.6 | Here's EXACTLY What Happened with the Prosecution's Closing Argument at Russell Brand Trial | Megyn Kelly | to5zK9Qiq9I |
+| 228661 | 20.0 | POV: Your Life at Every Level of Starting a Farm With No Money | Legend POV | vbYZbPbIScg |
+| 215786 | 18.7 | Your Life at Every Level of Living in a Storage Unit | Maven Life | RPJdZCLCqv8 |
 
 ## tli
 
-- **what if you** – förslag: what if you, what if your crush moved into your house, what if you had infinite iq, what if your crush was tokyos drift queen, what if you were stuck with your crush, what if you were the last man on earth, what if you and your crush got stuck in a sauna, what if you were born with infinite iq
+- **what if you could** – förslag: what if you could stop time, what if you could see how long everyone has left, what if you could feel your crush body, what if you could see everyones dating standards, what if you could edit anyone's body, what if you could, what if you could see through clothes, what if you could shapeshift
+- **what if you were** – förslag: what if you were stuck with your crush, what if you were the last man on earth, what if you were born with infinite iq, what if you were born as ghost, what if you were reborn as your little sisters baby, what if you were born as, what if you were, what if you were in a zombie apocalypse
 - **what if earth** – förslag: what if earth stopped spinning, what if earth had rings, what if earth, what if earth was in star wars, what if earth had two moons, what if earth is hell, what if earth orbited a pulsar, what if earth fell into a black hole
 - **what would happen if** – förslag: what would happen if the sun exploded, what would happen if, what would happen if yellowstone erupted, what would happen if the moon disappeared, what would happen if your crush moved into your house, what would happen if you fell into a black hole, what would happen if the sun disappeared, what would happen if humans disappeared
 
-| visningar | pren | ×pren | längd | datum | titel | kanal | id |
-|---|---|---|---|---|---|---|---|
-| 6294559 | None | None | 66.0 | None | Chris Learns What if you Don’t Brush your Teeth Good vs Bad Habits Story | Papa Joel | phjckBhHLxI |
-| 5820198 | None | None | 14.0 | None | Dying Is Complicated | Kurzgesagt – In a Nutshell | fEjvSbI_PT4 |
-| 5114676 | None | None | 17.5 | None | NATO's Plan If Russia Attacks Tomorrow | fern | kp0jkUqVuok |
-| 3129301 | None | None | 13.3 | None | What If You Were Born as Ghost? | Call of Duty | Born in Lore | pVUgJt1sDmI |
-| 2983223 | None | None | 3.5 | None | What if you set off a nuke in the Mariana Trench? | xkcd's What If? | alkJ7xScBiw |
-| 2898679 | None | None | 13.8 | None | What If You Could See Everyone's IQ? | ConChaser | 2TsZSQ77E9o |
-| 2388202 | None | None | 10.8 | None | What If You Could See Everyone's Future Wealth? | ConChaser | DK4EOHCrVvM |
-| 2033551 | None | None | 10.6 | None | What IF You Could See Who Has a Crush on You? |  Jeremy Bearimy | aV7_cA_xVXI |
-| 1905151 | None | None | 16.9 | None | Absolute Zero: 100 Hours Survival in a Frozen City | Headlamp Guy | oxj91T7Li34 |
-| 1877755 | None | None | 23.6 | None | Zombie Outbreak: What If YOU Were Patient Zero? (Full Story) | IfYou Films | 6qIJI38aTmE |
-| 1766317 | None | None | 6.0 | None | What Happens If You Get 6 Stars in GTA 6 | Lootward | ORYwlJXszi4 |
-| 1752978 | None | None | 60.3 | None | Playing Rivals But If you Break my 50 Streak you get Skin Case.. | Play With Deepx | l2bZtJh7Kq0 |
+**Störst DENNA VECKA (trendar nu)**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 3131518 | 13.3 | What If You Were Born as Ghost? | Call of Duty | Born in Lore | pVUgJt1sDmI |
+| 890222 | 9.9 | What If You Were Born With Infinite IQ? | What If Effect | _4UaoCZFXsQ |
+| 581795 | 10.7 | What If Goku Trained You for 1 Year? | Miko | bXSYcV6zW_g |
+| 538811 | 8.1 | What If You and Your Crush Got Stuck in a Sauna? | First Soul | LopYosFNpKk |
+| 489254 | 9.5 | What If You Were Reborn as Your Own Grandchild? | Real Aside | 2fP_sqkj5To |
+| 486397 | 10.3 | What If U Could Pick Your Speed Every Morning? | What1fy | SpO8Z48cKy0 |
+| 391316 | 3.3 | What Happens If You Stayed In A Bath Forever? | Benchmark Data | Xio4JxBK1o8 |
+| 387617 | 10.2 | What If You Were Stuck in a Time Loop Until You Beat Prime Usain Bolt? | Nero | VwLl_4M7bY4 |
+| 357928 | 10.0 | What If You Were Stuck in a Car With Your Crush? | Possiblo | W0XEzHIHOlw |
+| 343056 | 10.2 | What IF You Were HUNTED by The FBI, But Had Infinite IQ? |  Jeremy Bearimy | Xl4EgWShdIY |
+
+**Störst DENNA MÅNAD**
+
+| visningar | min | titel | kanal | id |
+|---|---|---|---|---|
+| 5821641 | 14.0 | Dying Is Complicated | Kurzgesagt – In a Nutshell | fEjvSbI_PT4 |
+| 5114710 | 17.5 | NATO's Plan If Russia Attacks Tomorrow | fern | kp0jkUqVuok |
+| 4454625 | 8.1 | If You Can Understand Him, Your English Is Perfect | British Education | PnMzjeoYrJk |
+| 3813660 | 48.8 | Trapped In Walmart After Closing 1 Year (Full Story) | One Year Inside | 3pkkFlH7-pU |
+| 3460303 | 16.4 | What If You Were Born in North Korea? | ¿Y si? | cA2reqjJwfY |
+| 3131518 | 13.3 | What If You Were Born as Ghost? | Call of Duty | Born in Lore | pVUgJt1sDmI |
+| 2898995 | 13.8 | What If You Could See Everyone's IQ? | ConChaser | 2TsZSQ77E9o |
+| 2388323 | 10.8 | What If You Could See Everyone's Future Wealth? | ConChaser | DK4EOHCrVvM |
+| 2033577 | 10.6 | What IF You Could See Who Has a Crush on You? |  Jeremy Bearimy | aV7_cA_xVXI |
+| 1905365 | 16.9 | Absolute Zero: 100 Hours Survival in a Frozen City | Headlamp Guy | oxj91T7Li34 |
