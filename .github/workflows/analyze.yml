@@ -1,0 +1,41 @@
+name: analyze-competitors
+# YT Automation: hämtar konkurrentvideors bildrutor i låg upplösning (YouTubes egna "storyboard"-bilder),
+# automatiska undertexter med tidskoder och metadata – för analys av tempo, bildutsnitt och krok.
+# Ingen video laddas ned. Skriv video-ID:n i analyze.txt och pusha – resultatet hamnar i analys/<id>/.
+on:
+  push:
+    paths: ["analyze.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera yt-dlp
+        run: pip install -U yt-dlp
+      - name: Hämta storyboard, undertexter och metadata
+        run: |
+          grep -oE '^[A-Za-z0-9_-]{11}$' analyze.txt | while read id; do
+            mkdir -p "analys/$id"
+            yt-dlp --skip-download --write-auto-subs --sub-langs "en.*,en" --sub-format vtt --write-info-json \
+              -o "analys/$id/v.%(ext)s" "https://www.youtube.com/watch?v=$id" || true
+            yt-dlp -f sb0 -o "analys/$id/sb.%(ext)s" "https://www.youtube.com/watch?v=$id" || \
+            yt-dlp -f sb1 -o "analys/$id/sb.%(ext)s" "https://www.youtube.com/watch?v=$id" || true
+            python3 - "$id" <<'PY'
+          import json,sys,os
+          d=f"analys/{sys.argv[1]}"
+          p=os.path.join(d,"v.info.json")
+          if os.path.exists(p):
+              j=json.load(open(p))
+              keep={k:j.get(k) for k in ("id","title","channel","duration","view_count","like_count","comment_count","upload_date","chapters","heatmap","description")}
+              json.dump(keep,open(os.path.join(d,"meta.json"),"w"),indent=1)
+              os.remove(p)
+          PY
+            ls -la "analys/$id"
+          done
+      - name: Spara
+        run: |
+          git config user.name "YT Automation"; git config user.email "yt-automation@users.noreply.github.com"
+          git add analys && git commit -m "analys" && git push || echo "inget nytt"
