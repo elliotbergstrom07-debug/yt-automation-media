@@ -1,0 +1,78 @@
+name: niche-trends
+# YT Automation: trendanalys före manus. Skriv rader "kanal|sökfras" i trends.txt och pusha.
+# För varje sökfras: YouTube-sökning sorterad på visningar för denna vecka och denna månad (bara videor),
+# YouTubes egna sökförslag (autocomplete) och metadata (visningar, kanalens prenumeranter, längd, datum)
+# för de största träffarna. Resultat: trend/<kanal>.json + trend/sammanfattning.md. Ingen video laddas ned.
+on:
+  push:
+    paths: ["trends.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  trends:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera yt-dlp
+        run: pip install -U yt-dlp
+      - name: Hämta trender
+        run: |
+          rm -rf trend && mkdir -p trend
+          python3 - <<'PY'
+          import json, subprocess, urllib.parse, urllib.request, time, collections, datetime
+          SP = {"vecka": "CAMSBAgDEAE%3D", "manad": "CAMSBAgEEAE%3D"}
+          rows = [l.strip() for l in open("trends.txt") if "|" in l and not l.startswith("#")]
+          byk = collections.defaultdict(list)
+          for l in rows:
+              k, q = [x.strip() for x in l.split("|", 1)]
+              byk[k].append(q)
+          def flat(url, n):
+              r = subprocess.run(["yt-dlp", "--flat-playlist", "-J", "--playlist-end", str(n), url], capture_output=True, text=True, timeout=180)
+              try: return json.loads(r.stdout).get("entries") or []
+              except Exception: return []
+          def full(vid):
+              r = subprocess.run(["yt-dlp", "--skip-download", "-j", f"https://www.youtube.com/watch?v={vid}"], capture_output=True, text=True, timeout=120)
+              try: j = json.loads(r.stdout)
+              except Exception: return {}
+              return {k: j.get(k) for k in ("upload_date", "channel_follower_count", "like_count", "comment_count", "tags", "duration")}
+          def suggest(q):
+              u = "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=" + urllib.parse.quote(q)
+              try: return json.loads(urllib.request.urlopen(u, timeout=20).read().decode("utf-8", "replace"))[1]
+              except Exception: return []
+          md = [f"# Trender {datetime.datetime.utcnow():%Y-%m-%d %H:%M} UTC\n"]
+          for k, qs in byk.items():
+              out = {"kanal": k, "queries": []}
+              seen = {}
+              for q in qs:
+                  item = {"query": q, "suggest": suggest(q), "vecka": [], "manad": []}
+                  for per, sp in SP.items():
+                      url = "https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(q) + "&sp=" + sp
+                      for e in flat(url, 15):
+                          if not e.get("id"): continue
+                          v = {"id": e["id"], "title": e.get("title"), "channel": e.get("channel") or e.get("uploader"),
+                               "views": e.get("view_count"), "duration": e.get("duration")}
+                          item[per].append(v); seen.setdefault(e["id"], v)
+                  out["queries"].append(item)
+              top = sorted(seen.values(), key=lambda v: v.get("views") or 0, reverse=True)[:12]
+              for v in top:
+                  v.update({x: y for x, y in full(v["id"]).items() if y is not None})
+                  f = v.get("channel_follower_count") or 0
+                  v["visn_per_pren"] = round((v.get("views") or 0) / f, 1) if f else None
+                  v.pop("tags", None) if not v.get("tags") else v.update(tags=v["tags"][:15])
+              out["topp"] = top
+              json.dump(out, open(f"trend/{k}.json", "w"), indent=1, ensure_ascii=False)
+              md.append(f"\n## {k}\n")
+              for it in out["queries"]:
+                  md.append(f"- **{it['query']}** – förslag: {', '.join(it['suggest'][:8])}")
+              md.append("\n| visningar | pren | ×pren | längd | datum | titel | kanal | id |\n|---|---|---|---|---|---|---|---|")
+              for v in top:
+                  md.append(f"| {v.get('views')} | {v.get('channel_follower_count')} | {v.get('visn_per_pren')} | {round((v.get('duration') or 0)/60,1)} | {v.get('upload_date')} | {v.get('title')} | {v.get('channel')} | {v['id']} |")
+          open("trend/sammanfattning.md", "w").write("\n".join(md) + "\n")
+          PY
+          ls -la trend
+      - name: Spara
+        run: |
+          git config user.name "YT Automation"; git config user.email "yt-automation@users.noreply.github.com"
+          git add trend && git commit -m "trender" && git push || echo "inget nytt"
