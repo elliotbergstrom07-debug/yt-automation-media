@@ -1,0 +1,745 @@
+{
+ "kanal": "ste",
+ "queries": [
+  {
+   "query": "could you survive history",
+   "suggest": [
+    "could you survive history",
+    "could you survive history hit",
+    "can you survive story",
+    "can you survive history galileo",
+    "can you survive history pest",
+    "would you survive history"
+   ],
+   "vecka": [
+    {
+     "id": "nKceAxUSBpM",
+     "title": "Could You Survive a Victorian Workhouse?",
+     "channel": "History Hit",
+     "views": 128270,
+     "duration": 2130
+    },
+    {
+     "id": "ZB0DEpvYqf8",
+     "title": "How Did US Soldiers Survive Freezing Nights in WW2?",
+     "channel": "Declassified",
+     "views": 137803,
+     "duration": 596
+    },
+    {
+     "id": "c6F20IX2Rio",
+     "title": "Could 10 Halo Spartans Survive History's 4 Deadliest Armies?",
+     "channel": "NerdHistory",
+     "views": 11056,
+     "duration": 1232
+    },
+    {
+     "id": "VtHyrmWqsAo",
+     "title": "Could You Survive Day 1 of the Tribulation? Grok Built a Test",
+     "channel": "TheOminiChronicle",
+     "views": 5327,
+     "duration": 1556
+    },
+    {
+     "id": "v3GXkSsVOZc",
+     "title": "Top 5 Worst Years to Be Alive in Human History (Salem, Jack the Ripper, Martians)",
+     "channel": "Do you mind?",
+     "views": 5118,
+     "duration": 584
+    },
+    {
+     "id": "CqwTV1eqhmk",
+     "title": "How Long Would You Survive in the Stone Age?",
+     "channel": "Uru",
+     "views": 4683,
+     "duration": 1480
+    },
+    {
+     "id": "AmX21xaxmBU",
+     "title": "Could You Survive One Night In The Prehistoric Ocean?",
+     "channel": "Fathomis",
+     "views": 1061,
+     "duration": 815
+    },
+    {
+     "id": "eHDVNNjihyk",
+     "title": "How Long Would You Survive In Every Era Of History? ⏳",
+     "channel": "history gone wrong ",
+     "views": 673,
+     "duration": 522
+    },
+    {
+     "id": "9WiHNk-aSX8",
+     "title": "Can You Survive What Four Generations of Women Survived?",
+     "channel": "Miss Liz’s Teatimes ",
+     "views": 374,
+     "duration": 4211
+    },
+    {
+     "id": "plxX5BRK4Yc",
+     "title": "How Long Would You Survive in Every Era of Earth?",
+     "channel": "The Stickman Story",
+     "views": 350,
+     "duration": 1198
+    },
+    {
+     "id": "aiMtE5kKcLY",
+     "title": "What If You Woke Up in the Aztec Empire? (Could You Survive?)",
+     "channel": "StickTales and 3 more",
+     "views": 609,
+     "duration": 833
+    },
+    {
+     "id": "K_v-8EbT3Ig",
+     "title": "How Long Would You Survive in Every Prehistoric Era",
+     "channel": "Glasher Light",
+     "views": 485,
+     "duration": 835
+    },
+    {
+     "id": "F2qyMOcgXrs",
+     "title": "Could You Survive Before the Umbrella?",
+     "channel": "Dumb Old Days",
+     "views": 262,
+     "duration": 213
+    },
+    {
+     "id": "b-AUJcyblAw",
+     "title": "How Long Would YOU Survive in Every Prehistoric Era?",
+     "channel": "YouVsDeepTime",
+     "views": 650,
+     "duration": 841
+    },
+    {
+     "id": "J2osUTg_9FQ",
+     "title": "Would You Survive an Encounter With Spinosaurus?",
+     "channel": "APEX DREADS",
+     "views": 266,
+     "duration": 741
+    }
+   ],
+   "manad": [
+    {
+     "id": "CUjqN3b7oGM",
+     "title": "How Long You Would Survive in Every Prehistoric Era (Not AI)",
+     "channel": null,
+     "views": null,
+     "duration": 1166
+    },
+    {
+     "id": "9LVdlATk5Zw",
+     "title": "Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!)",
+     "channel": null,
+     "views": null,
+     "duration": 4038
+    },
+    {
+     "id": "EEB0TJLpL-o",
+     "title": "How Long Would Your Dog Survive in Every Prehistoric Era? (NO AI)",
+     "channel": null,
+     "views": null,
+     "duration": 1243
+    },
+    {
+     "id": "aY9gD8_wQs4",
+     "title": "How Long Would You Survive in Every Era of Earth?",
+     "channel": null,
+     "views": null,
+     "duration": 1280
+    },
+    {
+     "id": "sVfH63_t0e8",
+     "title": "These WW1 Movie Tactics Would Get Everyone Killed",
+     "channel": null,
+     "views": null,
+     "duration": 2378
+    },
+    {
+     "id": "fj9eX87CBQs",
+     "title": "Can T.Rex Survive Every Prehistoric Era?",
+     "channel": null,
+     "views": null,
+     "duration": 1731
+    },
+    {
+     "id": "k6YFZ3ThEyA",
+     "title": "Which Ancient Kingdom Beats a Zombie Apocalypse?",
+     "channel": null,
+     "views": null,
+     "duration": 795
+    },
+    {
+     "id": "bCMRZhRsBGo",
+     "title": "What If Every Girl Could See Your Search History?",
+     "channel": null,
+     "views": null,
+     "duration": 273
+    },
+    {
+     "id": "7zQobuTHYz8",
+     "title": "How Long Could a Human Survive in Each Prehistoric Period? | Extinct World",
+     "channel": null,
+     "views": null,
+     "duration": 2572
+    },
+    {
+     "id": "uQFjmdCEI9Q",
+     "title": "How medieval people tried (and failed) to survive The Black Death",
+     "channel": null,
+     "views": null,
+     "duration": 3016
+    },
+    {
+     "id": "g8DgxvCxSss",
+     "title": "Could You Survive Prehistoric Oceans?",
+     "channel": null,
+     "views": null,
+     "duration": 1161
+    },
+    {
+     "id": "ZB0DEpvYqf8",
+     "title": "How Did US Soldiers Survive Freezing Nights in WW2?",
+     "channel": null,
+     "views": null,
+     "duration": 596
+    },
+    {
+     "id": "nKceAxUSBpM",
+     "title": "Could You Survive a Victorian Workhouse?",
+     "channel": null,
+     "views": null,
+     "duration": 2130
+    },
+    {
+     "id": "d8J9mvd_Ovg",
+     "title": "History’s Toughest Survivors and Others Who Weren’t So Lucky | Compilation",
+     "channel": null,
+     "views": null,
+     "duration": 3470
+    },
+    {
+     "id": "D0YZyt3sEWg",
+     "title": "Could You Survive 24 Hours on the Western Front? | WW1 Infantry, Cavalry & Tanks",
+     "channel": null,
+     "views": null,
+     "duration": 8690
+    }
+   ]
+  },
+  {
+   "query": "how long would you survive",
+   "suggest": [
+    "how long would you survive",
+    "how long would you survive on each planet",
+    "how long would you survive in each era",
+    "how long would you survive in these liquids",
+    "how long would you survive without body parts",
+    "how long would you survive without these things",
+    "how long would you survive on other planets",
+    "how long would you survive without these body parts",
+    "how long would you survive a zombie apocalypse",
+    "how long would you survive in each prehistoric era reaction"
+   ],
+   "vecka": [
+    {
+     "id": "cXqWcScqpqc",
+     "title": "What If It Was -100°C for 10 Years?",
+     "channel": "Your Other Life",
+     "views": 377055,
+     "duration": 2184,
+     "visn_per_pren": null
+    },
+    {
+     "id": "6uehnpBjKOs",
+     "title": "How Long Would the Scariest Prehistoric Monsters Survive in Today's World",
+     "channel": "Era Swap",
+     "views": 216550,
+     "duration": 1268
+    },
+    {
+     "id": "lpxbpQ8i6wo",
+     "title": "Would you survive a blackout? Trezoitão analyzes the scenarios",
+     "channel": "Rotina do Trezoitão",
+     "views": 143516,
+     "duration": 3786
+    },
+    {
+     "id": "C57DIR7QFkw",
+     "title": "Can You Survive 7 Nights Without Breaking a Single Rule?",
+     "channel": "Lullorin",
+     "views": 129987,
+     "duration": 4899
+    },
+    {
+     "id": "uyD-CDwiLg0",
+     "title": "How Long You’d SURVIVE In Every Prehistoric Era",
+     "channel": "Cash Nasty Live",
+     "views": 122037,
+     "duration": 2068
+    },
+    {
+     "id": "nKceAxUSBpM",
+     "title": "Would You Last 24 Hours in a Victorian Workhouse?",
+     "channel": "History Hit",
+     "views": 128270,
+     "duration": 2130
+    },
+    {
+     "id": "EC-cBYBykuU",
+     "title": "How Long Would You SURVIVE in the Yu-Gi-Oh! Anime?",
+     "channel": "Multiversal Studios",
+     "views": 90323,
+     "duration": 998
+    },
+    {
+     "id": "yuYZHrLrkdQ",
+     "title": "How Many _____ Could You Survive?",
+     "channel": "Luke Davidson",
+     "views": 48839,
+     "duration": 564
+    },
+    {
+     "id": "-gtzPbCz2tQ",
+     "title": "What If You Got Stuck on an Island With Your Enemy?",
+     "channel": "Mightly",
+     "views": 26823,
+     "duration": 690
+    },
+    {
+     "id": "h-xP2ndcBOQ",
+     "title": "HOW LONG WOULD YOU SURVIVE IN PREHISTORIC OCEANS? - Wilton Reacts",
+     "channel": "Mr.Wilton Lives",
+     "views": 28781,
+     "duration": 1178
+    },
+    {
+     "id": "0_GEo-ObM94",
+     "title": "Can You Survive 7 MORE Nights Without Breaking a Single Rule?",
+     "channel": "Lullorin",
+     "views": 25444,
+     "duration": 5291
+    },
+    {
+     "id": "ED1pcPa8ge0",
+     "title": "How Long You'd Survive Inside Every Prehistoric Animal",
+     "channel": "Dummy Vs Earth",
+     "views": 11340,
+     "duration": 788
+    },
+    {
+     "id": "YKVAAD6m_5g",
+     "title": "Would you survive this insane waterslide? | Planet Coaster 2",
+     "channel": "Cozy Old Minecraft",
+     "views": 5418,
+     "duration": 154
+    },
+    {
+     "id": "7aGdm4MB8sk",
+     "title": "$10,000 Every Day You Survive in the Wilderness… How Long Can They Last? 😱 | MrBeast Challenges",
+     "channel": "Quiet Birds Paradise",
+     "views": 4090,
+     "duration": 7926
+    },
+    {
+     "id": "YcRUJ4gWB9w",
+     "title": "I Ranked Batman's 15 Most TERRIFYING Villains… Who Would You Survive?",
+     "channel": "Winnie Mae ",
+     "views": 3509,
+     "duration": 3766
+    }
+   ],
+   "manad": [
+    {
+     "id": "CUjqN3b7oGM",
+     "title": "How Long You Would Survive in Every Prehistoric Era (Not AI)",
+     "channel": "Sebastián Schiller",
+     "views": 3195980,
+     "duration": 1166
+    },
+    {
+     "id": "9LVdlATk5Zw",
+     "title": "Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!)",
+     "channel": "DoodleSurvivals",
+     "views": 1933776,
+     "duration": 4038
+    },
+    {
+     "id": "xdj5PL0t61k",
+     "title": "I Survived 100 Days On A Zombie Cruise Ship. The Final Day Changes Everything. (Full Movie)",
+     "channel": "Kit vs The End",
+     "views": 1290820,
+     "duration": 4382,
+     "visn_per_pren": null
+    },
+    {
+     "id": "DA4TswHWKmU",
+     "title": "90 days in the dark? Survival expert warns Americans to prepare",
+     "channel": "NewsNation",
+     "views": 1441892,
+     "duration": 285,
+     "visn_per_pren": null
+    },
+    {
+     "id": "EEB0TJLpL-o",
+     "title": "How Long Would Your Dog Survive in Every Prehistoric Era? (NO AI)",
+     "channel": "Outlast History",
+     "views": 909429,
+     "duration": 1243
+    },
+    {
+     "id": "UgIdpJG13Gc",
+     "title": "What If You and Your Best Friend Lived a Googolplex Years?",
+     "channel": "Alternate You ",
+     "views": 848732,
+     "duration": 554,
+     "visn_per_pren": null
+    },
+    {
+     "id": "JjGcTqLEIuE",
+     "title": "How Fast You'd Die in Every Prehistoric Ocean",
+     "channel": "Fossil",
+     "views": 2021680,
+     "duration": 1169,
+     "visn_per_pren": null
+    },
+    {
+     "id": "11Ie3hQXhhA",
+     "title": "How Long You'd Last on Every Planet (Real Science)",
+     "channel": "FAR SIGNAL",
+     "views": 1062844,
+     "duration": 908,
+     "visn_per_pren": null
+    },
+    {
+     "id": "f5SN1UFS6VA",
+     "title": "You Spent 10 Years in a Bunker. You Only Needed 5.",
+     "channel": "Your Other Life",
+     "views": 846299,
+     "duration": 1308,
+     "visn_per_pren": null
+    },
+    {
+     "id": "aY9gD8_wQs4",
+     "title": "How Long Would You Survive in Every Era of Earth?",
+     "channel": "Ink Explainer",
+     "views": 953526,
+     "duration": 1280
+    },
+    {
+     "id": "S-aBuS1x8NA",
+     "title": "Grid Down: What Your Family Needs to Survive 90 Days Without Power",
+     "channel": "Gun Fighter Academy",
+     "views": 520947,
+     "duration": 460,
+     "visn_per_pren": null
+    },
+    {
+     "id": "C3oUR0nys5E",
+     "title": "Bunker Survival 1 Year",
+     "channel": "Mr. DoomStick",
+     "views": 500855,
+     "duration": 748,
+     "visn_per_pren": null
+    },
+    {
+     "id": "vqljKkRjqNM",
+     "title": "Analog Horror Entities You DEFINITELY Cannot Survive",
+     "channel": "MrUnnerving",
+     "views": 522258,
+     "duration": 1630,
+     "visn_per_pren": null
+    },
+    {
+     "id": "x5yoEyu2ZoI",
+     "title": "How Long Would Prehistoric Sea Monsters Survive in Today's World",
+     "channel": "Era Swap",
+     "views": 353367,
+     "duration": 762,
+     "visn_per_pren": null
+    },
+    {
+     "id": "g0KyIyw2anA",
+     "title": "How Long Would Ice Age Giants Survive in Today's World",
+     "channel": "Era Swap",
+     "views": 466884,
+     "duration": 834,
+     "visn_per_pren": null
+    }
+   ]
+  },
+  {
+   "query": "worst time to be alive history",
+   "suggest": [
+    "worst time to be alive in history",
+    "worst times to be alive in history reaction",
+    "worst times to be alive in history joe bart",
+    "worst times to be alive in human history",
+    "worst time ever to be alive in history",
+    "worst time to be alive"
+   ],
+   "vecka": [
+    {
+     "id": "2NMEkcgS7pE",
+     "title": "The Worst Time to Be Alive in Medieval History",
+     "channel": "Eternal Mysteries",
+     "views": 9945,
+     "duration": 10023
+    },
+    {
+     "id": "ZHHncBfAnxw",
+     "title": "When Was the Worst Time in Human History to Be Alive?",
+     "channel": "Accidentally Smarter",
+     "views": 155,
+     "duration": 637
+    },
+    {
+     "id": "IL3MTsFmP6U",
+     "title": "The Worst Time To Have Ever Been A Human",
+     "channel": "Human Backstory TV",
+     "views": 25,
+     "duration": 886
+    },
+    {
+     "id": "pqePXnrc6eQ",
+     "title": "Worst Year to Be Alive in History",
+     "channel": "FactNudge Lab",
+     "views": 14,
+     "duration": 112
+    },
+    {
+     "id": "pKX34YRmVQ8",
+     "title": "The Most Terrifying Time to Be Alive in History!",
+     "channel": "The Forgotten Era",
+     "views": 1,
+     "duration": 226
+    },
+    {
+     "id": "D1B7Ol1k1WA",
+     "title": "The Worst Year to Be Alive: 536 AD — The Year the Sun Disappeared",
+     "channel": "Cruel Eras",
+     "views": 1,
+     "duration": 495
+    },
+    {
+     "id": "Nxm5gsWA9DI",
+     "title": "This Was the WORST Time in History to Be Alive…",
+     "channel": "DRC_AP",
+     "views": 0,
+     "duration": 632
+    },
+    {
+     "id": "FbQgkJc2gFA",
+     "title": "2004 BC: The Worst Time to Be Alive in Ancient Mesopotamia",
+     "channel": "ZEVO",
+     "views": 1,
+     "duration": 544
+    }
+   ],
+   "manad": [
+    {
+     "id": "2NMEkcgS7pE",
+     "title": "The Worst Time to Be Alive in Medieval History",
+     "channel": "Eternal Mysteries",
+     "views": 9945,
+     "duration": 10023
+    },
+    {
+     "id": "nLFtf3f5Wwc",
+     "title": "The Worst Time to Be Alive on Earth 252 Million Years Ago",
+     "channel": "Nature Villains",
+     "views": 886,
+     "duration": 2099
+    },
+    {
+     "id": "uJjUrNIHw2o",
+     "title": "What Was the Worst Time to Be Alive in Human History?",
+     "channel": "Chalk Explainer",
+     "views": 1978,
+     "duration": 610
+    },
+    {
+     "id": "eHFy0epVM1k",
+     "title": "You Wouldn't Survive the 7 Worst Times in History to Be Alive",
+     "channel": "Human History Simplified",
+     "views": 418,
+     "duration": 695
+    },
+    {
+     "id": "aDrcz_V0HpA",
+     "title": "The WORST Time in History to Be Alive in Europe",
+     "channel": "Previously",
+     "views": 269,
+     "duration": 843
+    },
+    {
+     "id": "-WnWqD5rcS8",
+     "title": "When was the worst time to be ALIVE?",
+     "channel": "Plain Fold",
+     "views": 235,
+     "duration": 5074
+    },
+    {
+     "id": "y3FVfwUZ7mQ",
+     "title": "The Worst Time To Be Alive As A Human",
+     "channel": "Zoo Watch ",
+     "views": 118,
+     "duration": 1101
+    },
+    {
+     "id": "JLUl02C73fE",
+     "title": "The Worst Times to be Alive in Human History",
+     "channel": "Abnorman",
+     "views": 114,
+     "duration": 646
+    },
+    {
+     "id": "rmbyUbSypOg",
+     "title": "The Worst Times to Be Alive in History, Ranked",
+     "channel": "Worst on Record",
+     "views": 81,
+     "duration": 2929
+    },
+    {
+     "id": "MWeT57syRqg",
+     "title": "The Worst Times in History to Time Travel To (Ranked)",
+     "channel": "History’s Worst Intern",
+     "views": 56,
+     "duration": 1017
+    },
+    {
+     "id": "ZHHncBfAnxw",
+     "title": "When Was the Worst Time in Human History to Be Alive?",
+     "channel": "Accidentally Smarter",
+     "views": 155,
+     "duration": 637
+    },
+    {
+     "id": "kUcIxCSsS70",
+     "title": "The Worst Times in History to Be Alive",
+     "channel": "TheCuriousRaven",
+     "views": 33,
+     "duration": 868
+    },
+    {
+     "id": "TL6DffbXxMA",
+     "title": "The Worst Time to Be Alive in Human History",
+     "channel": "Denasi",
+     "views": 17,
+     "duration": 242
+    },
+    {
+     "id": "r57JsGDc-xM",
+     "title": "The Worst Time in Dark History to Be Born",
+     "channel": "Ancient Studio",
+     "views": 15,
+     "duration": 582
+    },
+    {
+     "id": "GajemJ7W9a4",
+     "title": "Ranking the Worst Times to Be Alive",
+     "channel": "QUIKhistory",
+     "views": 12,
+     "duration": 358
+    }
+   ]
+  }
+ ],
+ "topp": [
+  {
+   "id": "JjGcTqLEIuE",
+   "title": "How Fast You'd Die in Every Prehistoric Ocean",
+   "channel": "Fossil",
+   "views": 2021680,
+   "duration": 1169,
+   "visn_per_pren": null
+  },
+  {
+   "id": "DA4TswHWKmU",
+   "title": "90 days in the dark? Survival expert warns Americans to prepare",
+   "channel": "NewsNation",
+   "views": 1441892,
+   "duration": 285,
+   "visn_per_pren": null
+  },
+  {
+   "id": "xdj5PL0t61k",
+   "title": "I Survived 100 Days On A Zombie Cruise Ship. The Final Day Changes Everything. (Full Movie)",
+   "channel": "Kit vs The End",
+   "views": 1290820,
+   "duration": 4382,
+   "visn_per_pren": null
+  },
+  {
+   "id": "11Ie3hQXhhA",
+   "title": "How Long You'd Last on Every Planet (Real Science)",
+   "channel": "FAR SIGNAL",
+   "views": 1062844,
+   "duration": 908,
+   "visn_per_pren": null
+  },
+  {
+   "id": "UgIdpJG13Gc",
+   "title": "What If You and Your Best Friend Lived a Googolplex Years?",
+   "channel": "Alternate You ",
+   "views": 848732,
+   "duration": 554,
+   "visn_per_pren": null
+  },
+  {
+   "id": "f5SN1UFS6VA",
+   "title": "You Spent 10 Years in a Bunker. You Only Needed 5.",
+   "channel": "Your Other Life",
+   "views": 846299,
+   "duration": 1308,
+   "visn_per_pren": null
+  },
+  {
+   "id": "vqljKkRjqNM",
+   "title": "Analog Horror Entities You DEFINITELY Cannot Survive",
+   "channel": "MrUnnerving",
+   "views": 522258,
+   "duration": 1630,
+   "visn_per_pren": null
+  },
+  {
+   "id": "S-aBuS1x8NA",
+   "title": "Grid Down: What Your Family Needs to Survive 90 Days Without Power",
+   "channel": "Gun Fighter Academy",
+   "views": 520947,
+   "duration": 460,
+   "visn_per_pren": null
+  },
+  {
+   "id": "C3oUR0nys5E",
+   "title": "Bunker Survival 1 Year",
+   "channel": "Mr. DoomStick",
+   "views": 500855,
+   "duration": 748,
+   "visn_per_pren": null
+  },
+  {
+   "id": "g0KyIyw2anA",
+   "title": "How Long Would Ice Age Giants Survive in Today's World",
+   "channel": "Era Swap",
+   "views": 466884,
+   "duration": 834,
+   "visn_per_pren": null
+  },
+  {
+   "id": "cXqWcScqpqc",
+   "title": "What If It Was -100°C for 10 Years?",
+   "channel": "Your Other Life",
+   "views": 377055,
+   "duration": 2184,
+   "visn_per_pren": null
+  },
+  {
+   "id": "x5yoEyu2ZoI",
+   "title": "How Long Would Prehistoric Sea Monsters Survive in Today's World",
+   "channel": "Era Swap",
+   "views": 353367,
+   "duration": 762,
+   "visn_per_pren": null
+  }
+ ]
+}

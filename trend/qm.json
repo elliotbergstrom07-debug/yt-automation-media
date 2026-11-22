@@ -1,0 +1,760 @@
+{
+ "kanal": "qm",
+ "queries": [
+  {
+   "query": "how are americans affording",
+   "suggest": [
+    "how are americans affording",
+    "how are americans affording $600 000 homes on average salaries",
+    "how are americans affording $500 000 homes on average salaries",
+    "how are americans affording $100 000 trucks on average salaries",
+    "how are americans",
+    "how are american people",
+    "how broke are americans"
+   ],
+   "vecka": [
+    {
+     "id": "rrxNXHnMBsg",
+     "title": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+     "channel": "Untamed Motors",
+     "views": 107757,
+     "duration": 1556,
+     "visn_per_pren": null
+    },
+    {
+     "id": "tb5_tQOvrO0",
+     "title": "Toyota Scion Kei-01 | Are Affordable Cars Back?",
+     "channel": "savagegeese",
+     "views": 78806,
+     "duration": 630
+    },
+    {
+     "id": "gZdmV0UE0vw",
+     "title": "17 Cheapest American Cars Of The 1950s And Who Really Bought Them",
+     "channel": "Dead Brands & Classic Cars",
+     "views": 46337,
+     "duration": 2301
+    },
+    {
+     "id": "RD_BYjxLjFc",
+     "title": "Affording America: Bay Area woman priced out of San Francisco",
+     "channel": "NBC Bay Area",
+     "views": 36393,
+     "duration": 238
+    },
+    {
+     "id": "hypgP7ozPt4",
+     "title": "11 Affordable Perfumes French Women Over 60 Wear (Most Americans Have Never Heard Of)",
+     "channel": "Scent For Her",
+     "views": 9489,
+     "duration": 1201
+    },
+    {
+     "id": "9r1SrCBUpUM",
+     "title": "Jeffries says House Democrats will 'fight for an affordable America'",
+     "channel": "NBC News",
+     "views": 4665,
+     "duration": 205
+    },
+    {
+     "id": "DjhnEMkhe-Q",
+     "title": "Vacant St. Louis building transformed into affordable apartments as rents rise",
+     "channel": "KMOV St. Louis",
+     "views": 4150,
+     "duration": 297
+    },
+    {
+     "id": "b9TMUTxs0-Y",
+     "title": "America's New Car Inventory Problem Is Getting OUT OF CONTROL!",
+     "channel": "The Drive Right Reviews",
+     "views": 4714,
+     "duration": 627
+    },
+    {
+     "id": "SqHFw7DHOVs",
+     "title": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+     "channel": "Ben Vs Money",
+     "views": 4767,
+     "duration": 701
+    },
+    {
+     "id": "xO_KkeZPl4Y",
+     "title": "How Are Americans Affording To Skip Work For GTA 6 (The Real Math)",
+     "channel": "Wealth Logic ",
+     "views": 4062,
+     "duration": 989
+    },
+    {
+     "id": "nmbqmT69Zho",
+     "title": "The Best American Classic Cars for Sale by Owners at Affordable Prices!!",
+     "channel": "Timeless Wheels",
+     "views": 1641,
+     "duration": 2022
+    },
+    {
+     "id": "3lVEg5kR-RY",
+     "title": "10 Affordable Homes on Huge Land in America  Country Homes Under $210K",
+     "channel": "Urban Wealth Atlas and Roof Line",
+     "views": 730,
+     "duration": 1692
+    },
+    {
+     "id": "L7wjBM9w-2g",
+     "title": "How Are Americans Affording Teslas on $65,000 Salaries?",
+     "channel": "Broke Brain Show",
+     "views": 1206,
+     "duration": 436
+    },
+    {
+     "id": "TuYluDpfMIA",
+     "title": "50 Farmhouses With Land That Are Surprisingly Affordable",
+     "channel": "Retiree Estates",
+     "views": 778,
+     "duration": 3226
+    },
+    {
+     "id": "iJh-5uktyxU",
+     "title": "The Most Affordable European Beach Cities",
+     "channel": "TopClub",
+     "views": 785,
+     "duration": 1020
+    }
+   ],
+   "manad": [
+    {
+     "id": "yv-xKJVXrLE",
+     "title": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+     "channel": "The Infographics Show",
+     "views": 1067696,
+     "duration": 1051,
+     "visn_per_pren": null
+    },
+    {
+     "id": "AvyHU0m8vdE",
+     "title": "How Are Americans Affording $500,000 Homes on Average Salaries?",
+     "channel": "The Infographics Show",
+     "views": 675456,
+     "duration": 891,
+     "visn_per_pren": null
+    },
+    {
+     "id": "8eMxFl35gik",
+     "title": "'A lot of people don't realize it's coming': Americans brace for HIGHER health care costs next year",
+     "channel": "MS NOW",
+     "views": 265178,
+     "duration": 525,
+     "visn_per_pren": null
+    },
+    {
+     "id": "XLZDmui8iCE",
+     "title": "Millions of workers are juggling multiple jobs to afford America",
+     "channel": "NBC Bay Area",
+     "views": 278085,
+     "duration": 212,
+     "visn_per_pren": null
+    },
+    {
+     "id": "I1Lf5vFHarQ",
+     "title": "America Can't Afford a Used Car Anymore",
+     "channel": "Logically Answered",
+     "views": 228878,
+     "duration": 912,
+     "visn_per_pren": null
+    },
+    {
+     "id": "BxtkFkALKM8",
+     "title": "Why So Many Working Americans Are Secretly Living in Their Cars",
+     "channel": "Cartor Raay",
+     "views": 180649,
+     "duration": 1200,
+     "visn_per_pren": null
+    },
+    {
+     "id": "qzINsW8VjDg",
+     "title": "Inside the Future of American Neighborhoods",
+     "channel": "City Aesthetics ⛩️",
+     "views": 117765,
+     "duration": 711,
+     "visn_per_pren": null
+    },
+    {
+     "id": "rrxNXHnMBsg",
+     "title": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+     "channel": "Untamed Motors",
+     "views": 107757,
+     "duration": 1556
+    },
+    {
+     "id": "dTY4DUcpCXY",
+     "title": "Can’t Afford to Retire in America? These 5 Countries Want You!",
+     "channel": "Adventure Freaksss ",
+     "views": 86461,
+     "duration": 1064
+    },
+    {
+     "id": "tb5_tQOvrO0",
+     "title": "Toyota Scion Kei-01 | Are Affordable Cars Back?",
+     "channel": "savagegeese",
+     "views": 78806,
+     "duration": 630
+    },
+    {
+     "id": "u0cEMgEiFtY",
+     "title": "How Are Americans Affording $45,000 Side-by-Sides on a $60K Salary?",
+     "channel": "Money Mechanics",
+     "views": 55808,
+     "duration": 1026
+    },
+    {
+     "id": "RD_BYjxLjFc",
+     "title": "Affording America: Bay Area woman priced out of San Francisco",
+     "channel": "NBC Bay Area",
+     "views": 36362,
+     "duration": 238
+    },
+    {
+     "id": "l6FmS7lhEGw",
+     "title": "Danish Guy Reacts to AMAZING Affordable American Home (I Want This!)",
+     "channel": "Danish Guy Reacts",
+     "views": 33104,
+     "duration": 1373
+    },
+    {
+     "id": "O4mSePmQ0rk",
+     "title": "Affording America: The rising costs of family farming",
+     "channel": "NBC News",
+     "views": 37415,
+     "duration": 485
+    },
+    {
+     "id": "sUA21kwt1Xw",
+     "title": "Affording America: For a traveling carnival, rising costs mean a bumpy ride",
+     "channel": "NBC News",
+     "views": 34900,
+     "duration": 359
+    }
+   ]
+  },
+  {
+   "query": "salary breakdown usa",
+   "suggest": [
+    "salary breakdown usa",
+    "salary breakdown",
+    "salary breakdown nyc",
+    "salary breakdown uk",
+    "salary in us"
+   ],
+   "vecka": [
+    {
+     "id": "AggpLbKf0mQ",
+     "title": "EXIM Bank Salary 2026 🔥 ₹2.5 Million+ CTC? Complete Salary & Benefits Breakdown",
+     "channel": "Exam Wings",
+     "views": 1141,
+     "duration": 530
+    },
+    {
+     "id": "BaeOdndviBQ",
+     "title": "USA Aana Chahte Ho? Pehle Ye Reality Zaroor Dekho!  $100K Salary in USA : Savings Kitni?",
+     "channel": "Indian vlogger in usa",
+     "views": 22,
+     "duration": 1198
+    },
+    {
+     "id": "OD1lbHpU07M",
+     "title": "How Much Does a Drywall Installer Actually Make in 2026? ($58,930 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 6,
+     "duration": 570
+    },
+    {
+     "id": "W76J9333lvQ",
+     "title": "How to Budget on $3,000/Month in the USA (Exact Breakdown)",
+     "channel": "MrVickeeFinance",
+     "views": 5,
+     "duration": 655
+    },
+    {
+     "id": "v2tX1bD4caY",
+     "title": "How Much Does a Power Plant Operator Actually Make in 2026? ($105,080 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 7,
+     "duration": 582
+    },
+    {
+     "id": "6JWjiDvI_Qg",
+     "title": "How Much Does a Painter Actually Make in 2026? ($49,400 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 10,
+     "duration": 571
+    },
+    {
+     "id": "nY4ZVgkeSkI",
+     "title": "Dietitian Pay vs Master's Cost: Is $76K Worth It?",
+     "channel": "HowMuchSalaryUS",
+     "views": 5,
+     "duration": 440
+    },
+    {
+     "id": "qPuiKINkOG4",
+     "title": "Japan vs US Salary: A Nurse Earns a Third as Much. Why?",
+     "channel": "Japan Undercurrent",
+     "views": 1,
+     "duration": 510
+    },
+    {
+     "id": "L5K8gZv2eIQ",
+     "title": "How Much Does an Insulation Worker Actually Make in 2026? ($51,330 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 1,
+     "duration": 550
+    },
+    {
+     "id": "qafGW7vcUDQ",
+     "title": "How to Budget a $4,000 Salary in the US (Realistic 50/30/20 Breakdown)",
+     "channel": "THE ASCEND LAB",
+     "views": 0,
+     "duration": 201
+    },
+    {
+     "id": "s5PBL6tI_sk",
+     "title": "How to Save Money on a $3,000 Salary in the USA (2026) | Save $300 Every Month",
+     "channel": "nobody 2.1",
+     "views": 0,
+     "duration": 352
+    }
+   ],
+   "manad": [
+    {
+     "id": "E0T4uDQw5FE",
+     "title": "Odisha Police OISF Salary | OISF Odisha Police Salary Slip 2026 | OISF Constable ଦରମା କେତେ ? OUSSSC",
+     "channel": "AD Naresh sir",
+     "views": 7037,
+     "duration": 394
+    },
+    {
+     "id": "bdmbjFgyA_8",
+     "title": "Software Engineers in the USA 🇺🇸 | Salary, Monthly Expenses & Savings Breakdown #usa #tech #job",
+     "channel": "Umang Chaudhary",
+     "views": 8095,
+     "duration": 529
+    },
+    {
+     "id": "lX-N3O--bzw",
+     "title": "Lead Data Analyst in the US 🇺🇸 | Salary, Savings & $200K US vs ₹40 Lakh India #usa #tech #jobs",
+     "channel": "Umang Chaudhary",
+     "views": 7312,
+     "duration": 482
+    },
+    {
+     "id": "AggpLbKf0mQ",
+     "title": "EXIM Bank Salary 2026 🔥 ₹2.5 Million+ CTC? Complete Salary & Benefits Breakdown",
+     "channel": "Exam Wings",
+     "views": 1134,
+     "duration": 530
+    },
+    {
+     "id": "7nS65SYdkc8",
+     "title": "US CMA Course Complete Guide 2026 | Eligibility, Salary, Career & Preparation | Satyamedh Sir",
+     "channel": "Plutus Education by Testbook",
+     "views": 354,
+     "duration": 268
+    },
+    {
+     "id": "mrBlizKOdcg",
+     "title": "MBA in International Business: Jobs, Salary & Career Scope",
+     "channel": "Everything For MBA and vidhyaa.in",
+     "views": 379,
+     "duration": 618
+    },
+    {
+     "id": "4CN1yxJ7pxw",
+     "title": "What a $60K Salary Actually Looks Like in America",
+     "channel": "Normal Money Moves",
+     "views": 211,
+     "duration": 907
+    },
+    {
+     "id": "NKmoIRWSpNE",
+     "title": "The Truth About U.S. Navy Salaries in 2026",
+     "channel": "USA Fighter Jets",
+     "views": 80,
+     "duration": 626
+    },
+    {
+     "id": "UfqUqbz1_NA",
+     "title": "You Earn $75K: Where Every Dollar Really Goes (2026)",
+     "channel": "Dollar Chronicles US",
+     "views": 235,
+     "duration": 1026
+    },
+    {
+     "id": "sNfOvsLRV9M",
+     "title": "How Much Does a Mason Actually Make in 2026? ($58,270 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 75,
+     "duration": 575
+    },
+    {
+     "id": "QToF9k1OeZs",
+     "title": "Why a $100K Salary Still Feels Broke in America (The Math Is Brutal)",
+     "channel": "Broke Maths",
+     "views": 110,
+     "duration": 1330
+    },
+    {
+     "id": "DMNUBva-Feo",
+     "title": "Six Figures, Zero Savings: The $100K Salary Breakdown for 2026",
+     "channel": "FinTech Shehzad ",
+     "views": 154,
+     "duration": 520
+    },
+    {
+     "id": "Xsf5yE-4t4s",
+     "title": "How Much Does a Carpenter Actually Make in 2026? ($60,580 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 40,
+     "duration": 593
+    },
+    {
+     "id": "KbiZ-hPAdFE",
+     "title": "How Much Does an Electrician Actually Make in 2026? ($63,190 Salary Explained)",
+     "channel": "Real Trade Pay",
+     "views": 70,
+     "duration": 596
+    },
+    {
+     "id": "Rqh1uNcsNp0",
+     "title": "Software Engineer Salary: How Much Do Software Engineers Make?",
+     "channel": "SalaryCue",
+     "views": 88,
+     "duration": 179
+    }
+   ]
+  },
+  {
+   "query": "cost of living america 2026",
+   "suggest": [
+    "cost of living america 2026",
+    "cost of living usa 2026",
+    "cost of living us 2026",
+    "cost of living crisis usa 2026"
+   ],
+   "vecka": [
+    {
+     "id": "xS9eltccFAY",
+     "title": "Can Zohran Mamdani Fix the Cost of Living in New York City?",
+     "channel": "The New York Times",
+     "views": 512641,
+     "duration": 2139,
+     "visn_per_pren": null
+    },
+    {
+     "id": "h1mnIfy00uc",
+     "title": "Why So Many Americans REGRET Moving to Mexico",
+     "channel": "Where America Sleeps and 4 more",
+     "views": 309829,
+     "duration": 1162,
+     "visn_per_pren": null
+    },
+    {
+     "id": "9esldvAqsw0",
+     "title": "Why So Many Americans Have Nowhere Left to Sleep",
+     "channel": "Where America Sleeps and 3 more",
+     "views": 245831,
+     "duration": 1170,
+     "visn_per_pren": null
+    },
+    {
+     "id": "gW7YlpVPHyk",
+     "title": "Number Of Homeless Americans Has Exploded! People Are On The Streets With No Hope!",
+     "channel": "Priced Out America ",
+     "views": 160444,
+     "duration": 1285,
+     "visn_per_pren": null
+    },
+    {
+     "id": "UtMcDEFXacA",
+     "title": "Why So Many Americans REGRET Moving to Europe",
+     "channel": "Where America Sleeps and 3 more",
+     "views": 88998,
+     "duration": 1154
+    },
+    {
+     "id": "nHGhR3R2hY8",
+     "title": "The BRUTAL Reality of Life in the CHEAPEST Region in LATIN AMERICA: You WON'T BELIEVE What You Ca...",
+     "channel": "FlyCuriosities Español",
+     "views": 87054,
+     "duration": 2776
+    },
+    {
+     "id": "w9wVGMkkAiY",
+     "title": "Americans Are Tapping Out… The Cost of Living Is Breaking Them",
+     "channel": "A Homestead Journey",
+     "views": 66460,
+     "duration": 963
+    },
+    {
+     "id": "aKO9sVZ4muw",
+     "title": "Millions of Americans Are Canceling Christmas — And Everyone Knows Why",
+     "channel": "Fired Carl",
+     "views": 62361,
+     "duration": 1336
+    },
+    {
+     "id": "v1v_Udr6CYo",
+     "title": "Why So Many Americans REGRET Living in RV Parks",
+     "channel": "Where America Sleeps and 3 more",
+     "views": 56296,
+     "duration": 1162
+    },
+    {
+     "id": "JWFZWQyF4P0",
+     "title": "Why So Many Americans REGRET Moving to the Philippines",
+     "channel": "Where America Sleeps and 2 more",
+     "views": 56525,
+     "duration": 1175
+    },
+    {
+     "id": "RSR9bVvzGYg",
+     "title": "The Average Person in America Is Running Out of Money",
+     "channel": "A Homestead Journey",
+     "views": 19031,
+     "duration": 5291
+    },
+    {
+     "id": "SeOpWWXjPXg",
+     "title": "2027 Is Going To Be HELL For Millions Of Americans",
+     "channel": "TAP Media Now and TAP Media 2.0",
+     "views": 21520,
+     "duration": 1198
+    },
+    {
+     "id": "DKwtFO2fUS4",
+     "title": "Americans Are Skipping Meals and Giving Up Meat To Afford To Eat!",
+     "channel": "Priced Out America ",
+     "views": 20513,
+     "duration": 868
+    },
+    {
+     "id": "156eHG7Hqa0",
+     "title": "Investigate Trump or tackle living costs? | This is America",
+     "channel": "Al Jazeera English",
+     "views": 18014,
+     "duration": 1602
+    },
+    {
+     "id": "qemxlo1mCP8",
+     "title": "The Cost of Living Is Breaking Americans… Even the Basics Are Out of Reach",
+     "channel": "BROKE AMERICA and 2 more",
+     "views": 10368,
+     "duration": 1687
+    }
+   ],
+   "manad": [
+    {
+     "id": "UK_ogAXDjiM",
+     "title": "Obama SLAMS Trump directly for rising cost of living as he stumps for Democrats in Ohio ",
+     "channel": null,
+     "views": null,
+     "duration": 2322
+    },
+    {
+     "id": "j-F0v5BppzI",
+     "title": "America’s Price Shock: When Daily Life Becomes Unaffordable | auslandsjournal",
+     "channel": null,
+     "views": null,
+     "duration": 408
+    },
+    {
+     "id": "-h6XHqyzyjU",
+     "title": "A blue tsunami sweeps the US midterms as Democrats take control of the House and Senate | 7.30",
+     "channel": null,
+     "views": null,
+     "duration": 2024
+    },
+    {
+     "id": "Ck2OlqZQSHI",
+     "title": "Thousands of American restaurants closing over rising costs, declining sales",
+     "channel": null,
+     "views": null,
+     "duration": 155
+    },
+    {
+     "id": "_1Np8de_s7I",
+     "title": "First voter poll: 75% angry or dissatisfied with how things are going",
+     "channel": null,
+     "views": null,
+     "duration": 627
+    },
+    {
+     "id": "B4SYVG3GIvo",
+     "title": "Trump claims election was rigged: Enten breaks down the data",
+     "channel": null,
+     "views": null,
+     "duration": 520
+    },
+    {
+     "id": "r2_CABwSUS0",
+     "title": "JN: 'Power to the Test': rising cost of living is one of the main concerns for American voters",
+     "channel": null,
+     "views": null,
+     "duration": 425
+    },
+    {
+     "id": "WgkCAS9rZJw",
+     "title": "Why So Many Americans REGRET Buying RVs & Vans",
+     "channel": null,
+     "views": null,
+     "duration": 1131
+    },
+    {
+     "id": "6Nql6PywDQI",
+     "title": "Why So Many Americans REGRET Living in Sheds",
+     "channel": "Where America Sleeps",
+     "views": null,
+     "duration": 1152
+    },
+    {
+     "id": "wMZTQLwcgLU",
+     "title": "US Midterm Elections 2026: अमेरिकी जनता ने पलट दिया Results, Democrats से हार गए ट्रंप | Republicans",
+     "channel": null,
+     "views": null,
+     "duration": 818
+    },
+    {
+     "id": "xS9eltccFAY",
+     "title": "Zohran Mamdani on His Relationship With Trump",
+     "channel": null,
+     "views": null,
+     "duration": 2139
+    },
+    {
+     "id": "SO8MwBgliR0",
+     "title": "Eye-popping CNN midterm polling stats: Trump, cost of living, Iran & more",
+     "channel": null,
+     "views": null,
+     "duration": 812
+    },
+    {
+     "id": "h1mnIfy00uc",
+     "title": "Why So Many Americans REGRET Moving to Mexico",
+     "channel": "Where America Sleeps",
+     "views": null,
+     "duration": 1162
+    },
+    {
+     "id": "Js9PiFEZPjs",
+     "title": "What the data actually shows about America's affordability crisis",
+     "channel": "CBS News",
+     "views": null,
+     "duration": 535
+    },
+    {
+     "id": "23M9S2CCUbQ",
+     "title": "I Left Miami for Vietnam. Here’s What Life Costs!",
+     "channel": "PassportHeavy",
+     "views": null,
+     "duration": 2487
+    }
+   ]
+  }
+ ],
+ "topp": [
+  {
+   "id": "yv-xKJVXrLE",
+   "title": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+   "channel": "The Infographics Show",
+   "views": 1067696,
+   "duration": 1051,
+   "visn_per_pren": null
+  },
+  {
+   "id": "AvyHU0m8vdE",
+   "title": "How Are Americans Affording $500,000 Homes on Average Salaries?",
+   "channel": "The Infographics Show",
+   "views": 675456,
+   "duration": 891,
+   "visn_per_pren": null
+  },
+  {
+   "id": "xS9eltccFAY",
+   "title": "Can Zohran Mamdani Fix the Cost of Living in New York City?",
+   "channel": "The New York Times",
+   "views": 512641,
+   "duration": 2139,
+   "visn_per_pren": null
+  },
+  {
+   "id": "h1mnIfy00uc",
+   "title": "Why So Many Americans REGRET Moving to Mexico",
+   "channel": "Where America Sleeps and 4 more",
+   "views": 309829,
+   "duration": 1162,
+   "visn_per_pren": null
+  },
+  {
+   "id": "XLZDmui8iCE",
+   "title": "Millions of workers are juggling multiple jobs to afford America",
+   "channel": "NBC Bay Area",
+   "views": 278085,
+   "duration": 212,
+   "visn_per_pren": null
+  },
+  {
+   "id": "8eMxFl35gik",
+   "title": "'A lot of people don't realize it's coming': Americans brace for HIGHER health care costs next year",
+   "channel": "MS NOW",
+   "views": 265178,
+   "duration": 525,
+   "visn_per_pren": null
+  },
+  {
+   "id": "9esldvAqsw0",
+   "title": "Why So Many Americans Have Nowhere Left to Sleep",
+   "channel": "Where America Sleeps and 3 more",
+   "views": 245831,
+   "duration": 1170,
+   "visn_per_pren": null
+  },
+  {
+   "id": "I1Lf5vFHarQ",
+   "title": "America Can't Afford a Used Car Anymore",
+   "channel": "Logically Answered",
+   "views": 228878,
+   "duration": 912,
+   "visn_per_pren": null
+  },
+  {
+   "id": "BxtkFkALKM8",
+   "title": "Why So Many Working Americans Are Secretly Living in Their Cars",
+   "channel": "Cartor Raay",
+   "views": 180649,
+   "duration": 1200,
+   "visn_per_pren": null
+  },
+  {
+   "id": "gW7YlpVPHyk",
+   "title": "Number Of Homeless Americans Has Exploded! People Are On The Streets With No Hope!",
+   "channel": "Priced Out America ",
+   "views": 160444,
+   "duration": 1285,
+   "visn_per_pren": null
+  },
+  {
+   "id": "qzINsW8VjDg",
+   "title": "Inside the Future of American Neighborhoods",
+   "channel": "City Aesthetics ⛩️",
+   "views": 117765,
+   "duration": 711,
+   "visn_per_pren": null
+  },
+  {
+   "id": "rrxNXHnMBsg",
+   "title": "How Are Americans Buying $80,000 Trucks on a $70,000 Salary?",
+   "channel": "Untamed Motors",
+   "views": 107757,
+   "duration": 1556,
+   "visn_per_pren": null
+  }
+ ]
+}
