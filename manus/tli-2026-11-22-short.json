@@ -1,0 +1,312 @@
+{
+ "channel": "The Long If",
+ "title": "What If You Could Stop Time? (One Breath Only) #shorts",
+ "style": "qm",
+ "look": "stickman_day",
+ "vertical": true,
+ "format": "1080x1920",
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lang": "en-us",
+ "music": "calm",
+ "music_level": 0.06,
+ "headline": "41 seconds of air. One truck.",
+ "long_video": "automation/manus/tli-2026-11-22.json (What If You Could Stop Time While Holding Your Breath?)",
+ "scenes": [
+  {
+   "say": "Time stops while you hold your breath. A truck slides toward 5 people.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "shot": "wide",
+    "sky": "winter_day",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "x": 0.45,
+     "expr": "shock",
+     "arms": "down",
+     "walk_to": 0.52
+    },
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.2,
+      "skid": true,
+      "wheels": "locked",
+      "drive_to": 0.3
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "threat": "truck_skid",
+    "hud": {
+     "a": [
+      "AIR",
+      "0:41"
+     ]
+    }
+   },
+   "sfx": "horn"
+  },
+  {
+   "say": "You have 41 seconds of air. The truck is 9 feet away.",
+   "visual": {
+    "type": "plan",
+    "title": "ONE BREATH",
+    "items": [
+     {
+      "box": [
+       0.08,
+       0.2,
+       0.84,
+       0.14
+      ],
+      "label": "AIR: 0:41",
+      "hot": true
+     },
+     {
+      "box": [
+       0.08,
+       0.38,
+       0.84,
+       0.14
+      ],
+      "label": "TRUCK: 9 FT"
+     },
+     {
+      "box": [
+       0.08,
+       0.56,
+       0.84,
+       0.14
+      ],
+      "label": "PEOPLE: 5"
+     }
+    ]
+   }
+  },
+  {
+   "say": "You push it with everything you have. It doesn't move an inch.",
+   "silence": true,
+   "visual": {
+    "type": "closeup",
+    "location": "halsted_street",
+    "expr": "worried",
+    "look": -1,
+    "thought": "NOTHING",
+    "bad": true,
+    "frozen": true,
+    "hud": {
+     "a": [
+      "AIR",
+      "0:30"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Then you see the wheels. Locked wheels can't steer, NHTSA warns.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "LOCKED = NO STEERING",
+    "text": "hard braking without ABS can lock the wheels",
+    "source": "NHTSA, 'Antilock Brake Systems (ABS)'"
+   }
+  },
+  {
+   "say": "So you climb into the cab and lift the driver's boots off the brake.",
+   "visual": {
+    "type": "scene",
+    "location": "truck_cab",
+    "shot": "wide",
+    "sky": "winter_day",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "x": 0.4,
+     "expr": "worried",
+     "arms": "reach",
+     "walk_to": 0.46
+    },
+    "props": [
+     {
+      "type": "pedal",
+      "x": 0.5,
+      "pressed": false
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "a": [
+      "AIR",
+      "0:24"
+     ]
+    }
+   }
+  },
+  {
+   "say": "20 seconds left. You turn the wheel toward the snowbank.",
+   "visual": {
+    "type": "label",
+    "big": "AIR 0:20",
+    "text": "a quarter turn toward the snowbank",
+    "bad": true
+   }
+  },
+  {
+   "say": "But the back corner still points at the old man inside. Full video on the channel.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "shot": "wide",
+    "sky": "winter_day",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "x": 0.5,
+     "expr": "shock",
+     "arms": "down",
+     "walk_to": 0.56
+    },
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.2,
+      "skid": true,
+      "wheels": "locked",
+      "steer": "left"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "a": [
+      "AIR",
+      "0:04"
+     ]
+    },
+    "friends": [
+     {
+      "name": "Hal",
+      "x": 0.76,
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "frozen": true
+     }
+    ]
+   }
+  }
+ ],
+ "beats": [
+  {
+   "t": "0:00",
+   "typ": "hot",
+   "text": "lastbilen glider mot 5 personer"
+  },
+  {
+   "t": "0:03",
+   "typ": "vändning",
+   "text": "du håller andan – allt fryser"
+  },
+  {
+   "t": "0:05",
+   "typ": "hot",
+   "text": "41 s luft, 9 fot"
+  },
+  {
+   "t": "0:10",
+   "typ": "hot",
+   "text": "lastbilen rör sig inte"
+  },
+  {
+   "t": "0:15",
+   "typ": "vändning",
+   "text": "låsta hjul = ingen styrning (NHTSA)"
+  },
+  {
+   "t": "0:20",
+   "typ": "lösning",
+   "text": "foten av bromsen"
+  },
+  {
+   "t": "0:26",
+   "typ": "hot",
+   "text": "20 s luft kvar, ratten"
+  },
+  {
+   "t": "0:30",
+   "typ": "gåta",
+   "text": "cliffhanger: hörnet siktar fortfarande på Hal"
+  },
+  {
+   "t": "0:35",
+   "typ": "callback",
+   "text": "Full video on the channel"
+  }
+ ],
+ "seo": {
+  "title": "What If You Could Stop Time? (One Breath Only) #shorts",
+  "sokfras": "what if you could stop time",
+  "sokfras_kalla": "YouTubes sökförslag nr 1 för 'what if you could' (trend/tli.json, 22 nov 2026)",
+  "summary": "Full video: https://youtu.be/<id>\n\nTime only stays stopped while you hold your breath, and a box truck is sliding on black ice toward a bus shelter. You can't push it. But its wheels are locked, and NHTSA says that without antilock brakes, hard braking can lock the wheels and take away steering. A fictional What If story with a real fact.\n\nNever practice holding your breath in water or alone.",
+  "description": "Full video: https://youtu.be/<id>\n\nTime only stays stopped while you hold your breath, and a box truck is sliding on black ice toward a bus shelter. You can't push it. But its wheels are locked, and NHTSA says that without antilock brakes, hard braking can lock the wheels and take away steering. A fictional What If story with a real fact.\n\nNever practice holding your breath in water or alone.",
+  "hashtags": [
+   "shorts",
+   "whatif",
+   "story"
+  ],
+  "keywords": [
+   "what if you could stop time",
+   "freeze time",
+   "what if",
+   "black ice",
+   "locked wheels"
+  ],
+  "sources": [
+   "https://corpora.tika.apache.org/base/docs/govdocs1/144/144771.html"
+  ],
+  "disclaimer": "Fictional What If story; the NHTSA fact is real.",
+  "long_video_url": "https://youtu.be/<id>"
+ },
+ "thumb": {
+  "kind": "short_cover",
+  "text": "[gul] 41 SEC|OF AIR",
+  "klickfraga": "Hur stoppar man en lastbil man inte kan rubba – med 41 sekunder luft?",
+  "hot_i_bild": "Lastbilen fryst i sladd mot glaskuren, uppifrån-ned i vertikalt format.",
+  "skiljer_sig": "Första TLI-Shorten: vertikal, lastbilen överst och kuren nederst, rubrik i mitten.",
+  "jamfor_ark": "chk/jamfor-tli-2026-11-22-short.png",
+  "forsta_scen_matchar": "Scen 1 visar exakt långa videons öppningsbild (lastbil, kur, frusen snö) i vertikalt format."
+ },
+ "forbattring": {
+  "forra_videon": "Ingen tidigare TLI-Short (Shorts pausade 16/11; TLI startade 16/11).",
+  "problem": "TLI:s långa videor får 0 exponeringar; Shorts gav LS/STE nästan all tidig trafik (KANALANALYS_2026-11-22).",
+  "andring": "DISTRIBUTIONSORDER 2: första TLI-Shorten – titel med sökförslag nr 1 + #shorts, EN vändning (låsta hjul), länk till långa videon först i beskrivningen, cliffhanger.",
+  "forvantat": "≥ 300 visningar i Shorts-flödet på 48 h och klick till den långa videon.",
+  "referens": "QM-Shorten 22/11 (samma mall: en vändning + 'Full video on the channel'); egen billån-short 6,7 % CTR.",
+  "vi_slår_den_med": "Ett fysiskt problem som syns i varje bild (lastbilen, klockan AIR i hörnet räknar ned) och en verklig fakta som löser det, men slutet bara i långa videon."
+ },
+ "notes": {
+  "moment": "Nivå 7 ur långa videon: 41 s luft, 9 fot, lastbilen rör sig inte → låsta hjul (NHTSA) → foten av bromsen → ratten → hörnet siktar fortfarande på Hal.",
+  "langd": "≈ 88 ord ≈ 37 s med am_puck 1,05 (20–45 s).",
+  "uppladdning": "Via Studio i ägarens Chrome (Create → Upload), kodad ≤ 3,7 MB (720×1280, ~550 kbit/s, 64 kbit/s ljud) – inte via vidIQ. Render-körningen ersätter <id> med den långa videons id.",
+  "kontroll": "monetisering.py GODKÄNT. granskning.py: allt godkänt utom långformens ordgräns (2 000–2 800 ord för TLI) och thumb.jamfor_ark – spärren saknar Shorts-gren, så en 20–45 s Short kan aldrig nå ordgränsen. Spärren ändrades inte (samma som QM-Shorten 22/11)."
+ }
+}

@@ -1,0 +1,4707 @@
+{
+ "channel": "The Long If",
+ "title": "What If You Could Stop Time While Holding Your Breath?",
+ "standard": "TLI_STANDARD",
+ "style": "qm",
+ "look": "stickman_day",
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lang": "en-us",
+ "music": "calm",
+ "music_level": 0.07,
+ "beats": [
+  {
+   "t": "0:00",
+   "typ": "hot",
+   "text": "box truck glider mot busskuren, 5 inne"
+  },
+  {
+   "t": "0:06",
+   "typ": "vändning",
+   "text": "du håller andan – allt fryser"
+  },
+  {
+   "t": "0:12",
+   "typ": "gåta",
+   "text": "löftet: varje nivå + verklig vetenskap"
+  },
+  {
+   "t": "0:18",
+   "typ": "hot",
+   "text": "9 fot, 41 sekunder luft (slutlöfte)"
+  },
+  {
+   "t": "0:29",
+   "typ": "gåta",
+   "text": "Hal ler bakom glaset – han lärde dig"
+  },
+  {
+   "t": "0:37",
+   "typ": "hot",
+   "text": "5 personer behöver mer än du klarar"
+  },
+  {
+   "t": "1:03",
+   "typ": "humor",
+   "text": "hicka, alla skrattar"
+  },
+  {
+   "t": "1:10",
+   "typ": "människor",
+   "text": "Marisol och stoppuret (planterat)"
+  },
+  {
+   "t": "1:34",
+   "typ": "vändning",
+   "text": "tiden stannar – stoppuret på 14"
+  },
+  {
+   "t": "1:41",
+   "typ": "hot",
+   "text": "kaffet hänger i luften"
+  },
+  {
+   "t": "1:59",
+   "typ": "vändning",
+   "text": "38 sekunder – du andas, kaffet faller"
+  },
+  {
+   "t": "2:15",
+   "typ": "gåta",
+   "text": "Marisol märker hoppet i sekunderna"
+  },
+  {
+   "t": "2:22",
+   "typ": "hot",
+   "text": "dom nivå 1: 38 s"
+  },
+  {
+   "t": "2:43",
+   "typ": "vändning",
+   "text": "telefonens stoppur fryser också"
+  },
+  {
+   "t": "2:50",
+   "typ": "humor",
+   "text": "Mississippi-räkningen (planterad)"
+  },
+  {
+   "t": "3:06",
+   "typ": "vändning",
+   "text": "verklig fysik: ljus och ljud stannar"
+  },
+  {
+   "t": "3:38",
+   "typ": "vändning",
+   "text": "regel 3: du kan flytta det du orkar bära"
+  },
+  {
+   "t": "3:46",
+   "typ": "hot",
+   "text": "trött = 30 s"
+  },
+  {
+   "t": "3:53",
+   "typ": "hot",
+   "text": "dom nivå 2"
+  },
+  {
+   "t": "4:15",
+   "typ": "humor",
+   "text": "Dex kallar dig Hiccup"
+  },
+  {
+   "t": "4:22",
+   "typ": "hot",
+   "text": "Dex kör mot rött, sedanen glider"
+  },
+  {
+   "t": "4:32",
+   "typ": "vändning",
+   "text": "du fryser tiden – 2 fot kvar"
+  },
+  {
+   "t": "4:40",
+   "typ": "gåta",
+   "text": "ratten vriden – bilen glider rakt (planterat)"
+  },
+  {
+   "t": "4:56",
+   "typ": "lösning",
+   "text": "du drar Dex två fot åt sidan"
+  },
+  {
+   "t": "5:05",
+   "typ": "vändning",
+   "text": "sedanen glider förbi"
+  },
+  {
+   "t": "5:27",
+   "typ": "människor",
+   "text": "Dex säger ditt namn"
+  },
+  {
+   "t": "5:36",
+   "typ": "hot",
+   "text": "dom nivå 3 (låsta hjul – planterat)"
+  },
+  {
+   "t": "5:56",
+   "typ": "hot",
+   "text": "GPS: 3 kvarter på 0 sekunder"
+  },
+  {
+   "t": "6:19",
+   "typ": "vändning",
+   "text": "utan korrigering: 10 km fel per dag"
+  },
+  {
+   "t": "6:40",
+   "typ": "vändning",
+   "text": "Marisol frågar inte hur – hon vill köpa det"
+  },
+  {
+   "t": "6:58",
+   "typ": "hot",
+   "text": "30 frysningar/dag, $1 840"
+  },
+  {
+   "t": "7:06",
+   "typ": "hot",
+   "text": "huvudvärk, grått i kanterna"
+  },
+  {
+   "t": "7:31",
+   "typ": "hot",
+   "text": "dom nivå 4: kraften tar något tillbaka"
+  },
+  {
+   "t": "7:52",
+   "typ": "människor",
+   "text": "Hal och mintpastillerna (planterat 4:40)"
+  },
+  {
+   "t": "8:10",
+   "typ": "gåta",
+   "text": "'Breathe, kid. Never past the edge alone.' (planterat)"
+  },
+  {
+   "t": "8:17",
+   "typ": "hot",
+   "text": "CDC: 16 simmare, 4 döda"
+  },
+  {
+   "t": "8:50",
+   "typ": "vändning",
+   "text": "dykreflexen"
+  },
+  {
+   "t": "9:05",
+   "typ": "vändning",
+   "text": "gränsen 0:38 → 1:25"
+  },
+  {
+   "t": "9:38",
+   "typ": "vändning",
+   "text": "rekordet med rent syre"
+  },
+  {
+   "t": "9:45",
+   "typ": "humor",
+   "text": "Hals rekord är en tupplur"
+  },
+  {
+   "t": "9:54",
+   "typ": "gåta",
+   "text": "dom nivå 5: glaslådan kl 4:40"
+  },
+  {
+   "t": "10:17",
+   "typ": "hot",
+   "text": "du halkar baklänges"
+  },
+  {
+   "t": "10:24",
+   "typ": "vändning",
+   "text": "tomma lungor – tiden stannar inte"
+  },
+  {
+   "t": "10:49",
+   "typ": "vändning",
+   "text": "forskarna som släppte folk 150 fot"
+  },
+  {
+   "t": "11:19",
+   "typ": "hot",
+   "text": "dom nivå 6: ingen luft, ingen kraft"
+  },
+  {
+   "t": "11:27",
+   "typ": "gåta",
+   "text": "$500-paketet kl 4:45 – Hal väntar 4:40"
+  },
+  {
+   "t": "11:49",
+   "typ": "hot",
+   "text": "sprint 6 kvarter"
+  },
+  {
+   "t": "12:06",
+   "typ": "hot",
+   "text": "lastbilen sladdar mot busskuren"
+  },
+  {
+   "t": "12:22",
+   "typ": "vändning",
+   "text": "fryst – men sprinten tog luften"
+  },
+  {
+   "t": "12:30",
+   "typ": "hot",
+   "text": "41 s, 9 fot, 5 personer"
+  },
+  {
+   "t": "12:38",
+   "typ": "hot",
+   "text": "lastbilen rör sig inte"
+  },
+  {
+   "t": "12:47",
+   "typ": "callback",
+   "text": "Dex och sedanen – låsta hjul"
+  },
+  {
+   "t": "13:04",
+   "typ": "lösning",
+   "text": "du lyfter förarens fot från bromsen"
+  },
+  {
+   "t": "13:12",
+   "typ": "callback",
+   "text": "Mississippi-räkningen"
+  },
+  {
+   "t": "13:19",
+   "typ": "hot",
+   "text": "ett andetag = en fot närmare"
+  },
+  {
+   "t": "13:27",
+   "typ": "vändning",
+   "text": "hjulen rullar, men för sakta"
+  },
+  {
+   "t": "13:42",
+   "typ": "hot",
+   "text": "hörnet träffar Hals plats"
+  },
+  {
+   "t": "13:57",
+   "typ": "gåta",
+   "text": "valet: förbi gränsen eller andas"
+  },
+  {
+   "t": "14:06",
+   "typ": "callback",
+   "text": "Hals regel"
+  },
+  {
+   "t": "14:14",
+   "typ": "lösning",
+   "text": "20 Mississippi i taget"
+  },
+  {
+   "t": "14:32",
+   "typ": "humor",
+   "text": "Hal glider som en soffa"
+  },
+  {
+   "t": "14:40",
+   "typ": "hot",
+   "text": "fem personer, ett andetag i taget"
+  },
+  {
+   "t": "14:49",
+   "typ": "vändning",
+   "text": "lastbilen i snövallen, kuren tom"
+  },
+  {
+   "t": "14:57",
+   "typ": "callback",
+   "text": "'Breathe, kid.'"
+  },
+  {
+   "t": "15:06",
+   "typ": "hot",
+   "text": "4 minuter sen"
+  },
+  {
+   "t": "15:13",
+   "typ": "vändning",
+   "text": "du lämnar tillbaka kontraktet"
+  },
+  {
+   "t": "15:22",
+   "typ": "callback",
+   "text": "Dex stannar vid rött"
+  },
+  {
+   "t": "15:37",
+   "typ": "callback",
+   "text": "Hal sparar platsen längst från vägen"
+  },
+  {
+   "t": "16:01",
+   "typ": "gåta",
+   "text": "frågan till tittaren"
+  },
+  {
+   "t": "16:12",
+   "typ": "gåta",
+   "text": "Level 8: ???"
+  },
+  {
+   "t": "16:27",
+   "typ": "callback",
+   "text": "klockan – kraften utan andning"
+  }
+ ],
+ "scenes": [
+  {
+   "say": "A box truck slides on black ice toward a bus shelter with five people inside.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.42,
+     "expr": "shock",
+     "arms": "point",
+     "walk_to": 0.48
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked",
+      "drive_to": 0.3
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "threat": "truck_skid",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "chapter": "The truck on Halsted",
+   "sfx": "horn"
+  },
+  {
+   "say": "You breathe in and hold it. Every snowflake on Halsted Street stops in midair.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.48,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.54
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "threat": "truck_skid",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "This is every level of stopping time with one breath, and the science behind it.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.54,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.62
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The truck is frozen 9 feet from the glass. Your lungs give you about 41 seconds.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "point",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     },
+     {
+      "type": "measure",
+      "text": "9 FT"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That isn't much. Most people manage 30 seconds to a few minutes.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "30 SECONDS",
+    "text": "to a few minutes, for most people",
+    "source": "Smithsonian Magazine, 'Ask Smithsonian: What's the longest you can hold your breath?'",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Behind the glass, an old man named Hal is still smiling at you, because he taught you this.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.5
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.74,
+      "expr": "smirk"
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "On day 1 you couldn't hold it for 40 seconds. Today, five people need you to go longer.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.5,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.58
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "trained free divers have gone as deep as 700 feet on one breath",
+     "source": "Smithsonian Magazine, 'What's the longest you can hold your breath?'"
+    }
+   }
+  },
+  {
+   "say": "So, what if you could stop time, but only for as long as you hold your breath?",
+   "visual": {
+    "type": "label",
+    "big": "HOLD = STOP",
+    "text": "breathe out, and the world starts again",
+    "bad": false,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Day 1 is a Monday in December, at a bike courier depot in Chicago.",
+   "visual": {
+    "type": "daycard",
+    "day": 1,
+    "sub": "the hiccups",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "chapter": "Level 1: The hiccups"
+  },
+  {
+   "say": "Level one is the hiccups, which is how you find out about any of this.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 1",
+    "text": "THE HICCUPS: 38 seconds of nothing",
+    "bad": true,
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You've had the hiccups since breakfast, loud ones, and dispatch keeps laughing at you over the radio.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "head",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Couriers",
+      "x": 0.75,
+      "outfit": "courier",
+      "expr": "smirk"
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "rarely, hiccups can go on for months",
+     "source": "Mayo Clinic, 'Hiccups'"
+    }
+   }
+  },
+  {
+   "say": "Marisol Vance runs dispatch. She times every delivery with a silver stopwatch and says every second is a dollar.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "stopwatch",
+      "x": 0.68,
+      "say": "Every second is a dollar"
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Here's what a hiccup is. A spasm in your diaphragm makes your vocal cords snap shut, and that makes the sound.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "HIC",
+    "text": "diaphragm spasm, vocal cords snap shut",
+    "source": "Mayo Clinic, 'Hiccups: Symptoms and causes'",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "So you do what everyone's grandmother tells you to do. You take a big breath, and you hold it.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.34,
+     "expr": "neutral",
+     "arms": "head",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "stopwatch",
+      "x": 0.7
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The radio goes quiet mid-word. Marisol's stopwatch hangs at 14 seconds, and the hiccups are gone.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "shock",
+     "arms": "down",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "stopwatch",
+      "x": 0.7,
+      "frozen": true
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "Nobody in the depot is moving. A coffee is pouring out of a cup and has stopped halfway to the floor.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.46,
+     "expr": "shock",
+     "arms": "reach",
+     "walk_to": 0.58
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "coffee_frozen",
+      "x": 0.62
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "a clock's second hand can seem to stand still when you first look at it",
+     "source": "Wikipedia, 'Chronostasis'"
+    }
+   }
+  },
+  {
+   "say": "For most people, hiccups only last a few minutes. Mayo Clinic says to see a doctor if they last more than 48 hours.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "48 HOURS",
+    "text": "hiccups longer than that: see a doctor",
+    "source": "Mayo Clinic, 'Hiccups: Symptoms and causes'",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your chest starts to burn at about 38 seconds. You gasp, and the coffee hits the floor all at once.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.5,
+     "expr": "worried",
+     "arms": "head",
+     "walk_to": 0.52
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "stopwatch",
+      "x": 0.75,
+      "expr": "shock"
+     }
+    ],
+    "props": [
+     {
+      "type": "coffee_splash",
+      "x": 0.62
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "sfx": "splash"
+  },
+  {
+   "say": "That burn has a real cause. High carbon dioxide, not low oxygen, is what makes a long breath-hold hurt.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "CO2",
+    "text": "high carbon dioxide drives the burn, not low oxygen",
+    "source": "Smithsonian Magazine, quoting Mayo Clinic's Dr. Clayton Cowl",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Marisol stares at the puddle, then at her stopwatch, then at you, as if the numbers just skipped.",
+   "visual": {
+    "type": "closeup",
+    "location": "courier_depot",
+    "expr": "doubt",
+    "look": -1,
+    "thought": "0:14?",
+    "bad": true,
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level one verdict: you can stop the whole world for 38 seconds, and the only price is a burning chest.",
+   "visual": {
+    "type": "scene",
+    "location": "courier_depot",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "pre-breathing pure oxygen before a hold is 'a bit of a trick'",
+     "source": "Ohio State Wexner Medical Center, Dr. Jonathan Parsons"
+    }
+   }
+  },
+  {
+   "say": "Day 3, at home, with the bathroom door locked and a phone stopwatch running.",
+   "visual": {
+    "type": "daycard",
+    "day": 3,
+    "sub": "the rules",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "chapter": "Level 2: The rules"
+  },
+  {
+   "say": "Level two is the rules, because a power with no rules is going to get somebody hurt.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 2",
+    "text": "THE RULES: 3 of them",
+    "bad": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You start the stopwatch on your phone and hold your breath. The stopwatch freezes along with everything else.",
+   "visual": {
+    "type": "scene",
+    "location": "bathroom",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "doubt",
+     "arms": "hold",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.42,
+      "screen": "0:00.00"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "So you count in your head instead, one Mississippi at a time, like a kid playing hide and seek.",
+   "visual": {
+    "type": "scene",
+    "location": "bathroom",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "head"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "count_bubble",
+      "text": "1 MISSISSIPPI"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "light already on its way could reach you for up to 8 minutes after time stopped",
+     "source": "Discovery, 'What Would Happen If You Stopped Time?'"
+    }
+   }
+  },
+  {
+   "say": "Rule one: breathe in, and time stops. Rule two: breathe out, and it starts again exactly where it was.",
+   "visual": {
+    "type": "plan",
+    "title": "THE RULES",
+    "items": [
+     {
+      "box": [
+       0.08,
+       0.2,
+       0.38,
+       0.14
+      ],
+      "label": "1. BREATHE IN: TIME STOPS"
+     },
+     {
+      "box": [
+       0.08,
+       0.38,
+       0.38,
+       0.14
+      ],
+      "label": "2. BREATHE OUT: IT STARTS"
+     },
+     {
+      "box": [
+       0.08,
+       0.56,
+       0.38,
+       0.14
+      ],
+      "label": "3. ???",
+      "hot": true
+     }
+    ],
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Real physics is much harsher. If time really stopped, physicists point out, all light and sound would stop too.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "NO LIGHT, NO SOUND",
+    "text": "if time stopped, both would stop with it",
+    "source": "Discovery, 'What Would Happen If You Stopped Time?'",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Even the air would freeze in place, with every molecule stuck where it is. You couldn't take a single step.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "FROZEN AIR",
+    "text": "every molecule held in place, so you couldn't move",
+    "source": "Discovery, quoting physicist Sean Carroll",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "In our story, light and air still work for you. That part is made up. Everything on a card like this is real.",
+   "visual": {
+    "type": "label",
+    "big": "MADE UP",
+    "text": "the power is fiction. the cards are real.",
+    "bad": false,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "What does feel real is the silence. No traffic, no wind, no radiator, only your own heartbeat.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_window",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "window_city",
+      "frozen": true
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "with pure oxygen first, a diver held 20 min 21 s in 2010",
+     "source": "Scientific American, 'Breath-holding: the diving reflex'"
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "Rule three you learn by accident. You can move things while time is stopped, but only what you can carry.",
+   "visual": {
+    "type": "plan",
+    "title": "RULE 3",
+    "items": [
+     {
+      "box": [
+       0.08,
+       0.2,
+       0.38,
+       0.14
+      ],
+      "label": "YOU CAN MOVE THINGS",
+      "hot": true
+     },
+     {
+      "box": [
+       0.08,
+       0.38,
+       0.38,
+       0.14
+      ],
+      "label": "ONLY WHAT YOU CAN CARRY"
+     },
+     {
+      "box": [
+       0.08,
+       0.56,
+       0.38,
+       0.14
+      ],
+      "label": "A CAR: NO"
+     },
+     {
+      "box": [
+       0.08,
+       0.74,
+       0.38,
+       0.14
+      ],
+      "label": "A BIKE: YES"
+     }
+    ],
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your limit is still 38 seconds, and on days when you're tired it drops to about 30.",
+   "visual": {
+    "type": "closeup",
+    "location": "bathroom",
+    "expr": "worried",
+    "look": -1,
+    "thought": "0:30",
+    "bad": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level two verdict: the power is real, it has rules, and the only clock still running is the one in your lungs.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_window",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.42
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "the record before 2021: 24:03.45, Barcelona, 2016",
+     "source": "Guinness World Records"
+    }
+   }
+  },
+  {
+   "say": "Day 6, rush hour at Halsted and Madison, and you're racing another courier.",
+   "visual": {
+    "type": "daycard",
+    "day": 6,
+    "sub": "the red light",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   },
+   "chapter": "Level 3: Dex"
+  },
+  {
+   "say": "Level three is Dex Moreau, the fastest courier in the depot, and he wants every one of your routes.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 3",
+    "text": "DEX MOREAU: never brakes",
+    "bad": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Dex rides an orange bike, never stops at red lights, and has called you Hiccup since Monday.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.2,
+     "expr": "doubt",
+     "arms": "down",
+     "walk_to": 0.32
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Dex",
+      "outfit": "orange_courier",
+      "helmet": true,
+      "bike": "orange",
+      "x": 0.5,
+      "walk_to": 0.7,
+      "say": "Later, Hiccup!"
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "2024: 858 bicyclist deaths in urban areas, 200 in rural",
+     "source": "IIHS, 'Fatality Facts 2024: Bicyclists'"
+    }
+   }
+  },
+  {
+   "say": "He blows straight through a red light. A sedan is braking hard from the left, and it isn't going to stop in time.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.25,
+     "expr": "shock",
+     "arms": "point",
+     "walk_to": 0.3
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Dex",
+      "outfit": "orange_courier",
+      "helmet": true,
+      "bike": "orange",
+      "x": 0.55
+     }
+    ],
+    "props": [
+     {
+      "type": "sedan",
+      "x": 0.15,
+      "drive_to": 0.4,
+      "skid": true
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   },
+   "sfx": "horn"
+  },
+  {
+   "say": "You breathe in and hold it. The sedan stops two feet from Dex, its tires locked on the wet road.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.42
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Dex",
+      "outfit": "orange_courier",
+      "helmet": true,
+      "bike": "orange",
+      "x": 0.55,
+      "frozen": true
+     }
+    ],
+    "props": [
+     {
+      "type": "sedan",
+      "x": 0.4,
+      "skid": true,
+      "wheels": "locked"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "with ABS: practice NOT pumping the brake",
+     "source": "NHTSA, 'Antilock Brake Systems (ABS)'"
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "Then you notice something strange. The driver has the steering wheel turned hard right, and the car is sliding dead straight.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.42,
+     "expr": "doubt",
+     "arms": "point"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "sedan",
+      "x": 0.4,
+      "skid": true,
+      "wheels": "locked",
+      "steer": "right"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That's real. Without antilock brakes, NHTSA says a hard stop can lock the wheels and take away your steering.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "LOCKED = NO STEERING",
+    "text": "hard braking without ABS can lock the wheels",
+    "source": "NHTSA, 'Antilock Brake Systems (ABS)'",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You can't move a car, but you can move a bike. You drag Dex and his bike two feet to the right.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.5,
+     "expr": "neutral",
+     "arms": "reach",
+     "walk_to": 0.58
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Dex",
+      "outfit": "orange_courier",
+      "helmet": true,
+      "bike": "orange",
+      "x": 0.6,
+      "walk_to": 0.72,
+      "frozen": true
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "At 33 Mississippi you breathe. The sedan slides past, and Dex has no idea why he's still alive.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Dex",
+      "outfit": "orange_courier",
+      "helmet": true,
+      "bike": "orange",
+      "x": 0.72,
+      "expr": "shock"
+     }
+    ],
+    "props": [
+     {
+      "type": "sedan",
+      "x": 0.45,
+      "drive_to": 0.9
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Crashes like this aren't rare. In 2024, 1,075 bicyclists were killed in crashes with motor vehicles in the U.S.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1,075",
+    "text": "bicyclists killed in U.S. crashes, 2024",
+    "source": "IIHS, 'Fatality Facts 2024: Bicyclists'",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And 81 percent of them were killed in urban areas, on city streets a lot like this one.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "81% URBAN",
+    "text": "of U.S. bicyclist deaths in 2024",
+    "source": "IIHS, 'Fatality Facts 2024: Bicyclists'",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Dex looks at you, pale as the snow, and for the first time he calls you by your real name.",
+   "visual": {
+    "type": "closeup",
+    "location": "intersection",
+    "expr": "neutral",
+    "look": -1,
+    "thought": "MY NAME",
+    "bad": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level three verdict: one breath can save a life, and locked wheels go wherever they want to go.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.38
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "in winter, increase your following distance",
+     "source": "NHTSA, 'Winter Driving Tips'"
+    }
+   }
+  },
+  {
+   "say": "Day 11, and Marisol calls you into the dispatch office with a printout in her hand.",
+   "visual": {
+    "type": "daycard",
+    "day": 11,
+    "sub": "the printout",
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   },
+   "chapter": "Level 4: The stopwatch"
+  },
+  {
+   "say": "Level four is Marisol and her stopwatch, because numbers don't lie, and your numbers are impossible.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 4",
+    "text": "MARISOL VANCE: 1 stopwatch, 0 excuses",
+    "bad": true,
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your GPS log shows you three blocks away from a drop-off, and then at the drop-off, with zero seconds in between.",
+   "visual": {
+    "type": "scene",
+    "location": "dispatch_office",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.34
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "printout",
+      "x": 0.68
+     }
+    ],
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "relativity: satellite clocks lose 7 µs a day to speed, gain 45 µs to weaker gravity",
+     "source": "Ohio State University, Prof. Richard Pogge"
+    }
+   }
+  },
+  {
+   "say": "Your phone logged 4:12:07 at Jackson, then 4:12:07 again at Wacker. Same second, three blocks apart.",
+   "visual": {
+    "type": "plan",
+    "title": "GPS LOG, DAY 10",
+    "items": [
+     {
+      "box": [
+       0.08,
+       0.2,
+       0.38,
+       0.14
+      ],
+      "label": "4:12:07  JACKSON"
+     },
+     {
+      "box": [
+       0.08,
+       0.38,
+       0.38,
+       0.14
+      ],
+      "label": "4:12:07  WACKER"
+     },
+     {
+      "box": [
+       0.08,
+       0.56,
+       0.38,
+       0.14
+      ],
+      "label": "DISTANCE: 3 BLOCKS"
+     },
+     {
+      "box": [
+       0.08,
+       0.74,
+       0.38,
+       0.14
+      ],
+      "label": "TIME: 0 SEC",
+      "hot": true
+     }
+    ],
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "GPS is fussy about time anyway. Because of relativity, satellite clocks tick about 38 microseconds a day fast.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "38 MICROSECONDS",
+    "text": "per day, GPS clocks vs ground clocks",
+    "source": "Ohio State University, Prof. Richard Pogge, 'GPS and Relativity'",
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "If nobody corrected for that, GPS positions would drift by about 10 kilometers, roughly 6 miles, every day.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "10 KM A DAY",
+    "text": "the error if relativity were ignored",
+    "source": "Ohio State University, Prof. Richard Pogge, 'GPS and Relativity'",
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Time really does run at different speeds. In 1971, atomic clocks flown east around the world lost 59 nanoseconds.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "59 NANOSECONDS",
+    "text": "lost by atomic clocks flown east, 1971",
+    "source": "Hafele & Keating, Science (1972), via HyperPhysics, Georgia State University",
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Flown west, they gained 273 nanoseconds. Your problem is that you just gained three whole blocks.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "+273 NS",
+    "text": "gained flying west",
+    "source": "Hafele & Keating, Science (1972), via HyperPhysics",
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Marisol doesn't ask how you did it. She slides a contract across the desk and asks how much of it you can do.",
+   "visual": {
+    "type": "scene",
+    "location": "dispatch_office",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "contract",
+      "x": 0.66,
+      "expr": "smirk"
+     }
+    ],
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "1971: four cesium-beam clocks flew on regular airline flights",
+     "source": "HyperPhysics, Georgia State University"
+    }
+   }
+  },
+  {
+   "say": "Her offer is the rush route. Every package under 15 minutes pays 40 dollars, and the big ones pay 500.",
+   "visual": {
+    "type": "board",
+    "title": "THE RUSH ROUTE",
+    "lines": [
+     "under 15 minutes: $40",
+     "big clients: $500",
+     "rule: never late"
+    ],
+    "result": "how many can you do?",
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "So you start freezing time 30 times a day, and by Friday your pay for the week is 1,840 dollars.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.2,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.6
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "bike",
+      "x": 0.2
+     }
+    ],
+    "hud": {
+     "day": "11 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "uncorrected GPS would be wrong after only 2 minutes",
+     "source": "Ohio State University, Prof. Richard Pogge"
+    }
+   }
+  },
+  {
+   "say": "You also start getting headaches, and twice this week the edges of the room have gone gray before you breathed.",
+   "visual": {
+    "type": "closeup",
+    "location": "apartment_window",
+    "expr": "worried",
+    "look": -1,
+    "thought": "GRAY EDGES",
+    "bad": true,
+    "hud": {
+     "day": "13 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That's a real warning sign. An Ohio State doctor says that if you hold your breath long enough, you could pass out.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "YOU COULD PASS OUT",
+    "text": "from holding your breath too long",
+    "source": "Ohio State Wexner Medical Center, Dr. Jonathan Parsons (2024)",
+    "hud": {
+     "day": "13 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "He also says one minute is probably the limit, and that you might reach 90 seconds without getting into trouble.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1 MINUTE",
+    "text": "probably the limit; maybe 90 seconds",
+    "source": "Ohio State Wexner Medical Center, Dr. Jonathan Parsons (2024)",
+    "hud": {
+     "day": "13 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level four verdict: the power pays very well, but every freeze takes a little something back from you.",
+   "visual": {
+    "type": "scene",
+    "location": "dispatch_office",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "hud": {
+     "day": "13 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "predicted in 1971: −40 ns flying east, +275 ns flying west",
+     "source": "Hafele & Keating, Science (1972), via HyperPhysics"
+    }
+   }
+  },
+  {
+   "say": "Day 15, at the Route 8 bus stop on Halsted, at 4:40 in the afternoon.",
+   "visual": {
+    "type": "daycard",
+    "day": 15,
+    "sub": "the bench",
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   },
+   "chapter": "Level 5: Hal"
+  },
+  {
+   "say": "Level five is Hal Benning, who is 74 and the only person who ever notices you breathing.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 5",
+    "text": "HAL BENNING: 74, the 4:40 bus",
+    "bad": true,
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Hal waits for the same bus every day at 4:40. He sees you gasp after a freeze and offers you a mint.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "head",
+     "walk_to": 0.38
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.68,
+      "say": "Mint?"
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "He coached swimming at a YMCA for 40 years, and he says you breathe like a kid who just learned to dive.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.32,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.66,
+      "expr": "smirk"
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "NYC health code requires pool signs warning against hyperventilating",
+     "source": "CDC, MMWR Vol. 64, No. 19 (2015)"
+    }
+   }
+  },
+  {
+   "say": "Then he says something that stops you cold. Breathe, kid. Never hold it past the edge, and never alone.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.32,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.66,
+      "say": "Breathe, kid."
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "He isn't being dramatic. The CDC found 16 swimmers in New York State hurt in underwater breath-holding incidents, and 4 died.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "16 SWIMMERS",
+    "text": "dangerous breath-holding, New York State, 1988–2011: 4 died",
+    "source": "CDC, MMWR Vol. 64, No. 19 (2015)",
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Breathing fast before a breath-hold lowers your carbon dioxide, so the urge to breathe comes late, and you can black out first.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "HYPERVENTILATION",
+    "text": "lowers CO2, delays the urge, risks blackout",
+    "source": "CDC, MMWR Vol. 64, No. 19 (2015)",
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "So, for real: never practice holding your breath in water, and never hyperventilate before you try.",
+   "visual": {
+    "type": "label",
+    "big": "NEVER IN WATER",
+    "text": "and never breathe fast first",
+    "bad": true,
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Hal teaches you on dry land, on the bench, with slow breaths and loose shoulders, and you stop before it hurts.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.32,
+     "expr": "neutral",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.62,
+      "arms": "point"
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "He also shows you a trick. Cold water on your face can start the diving reflex, which slows the heart 10 percent or more.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "DIVING REFLEX",
+    "text": "cold water on the face: heart rate down 10% or more",
+    "source": "Scientific American, 'Breath-holding: the diving reflex'",
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "In some marine mammals, that same reflex slows the heart by roughly 90 percent.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "90%",
+    "text": "heart-rate drop in some diving mammals",
+    "source": "Scientific American, 'Breath-holding: the diving reflex'",
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "In one week your limit goes from 38 seconds to 1 minute and 25. You still stop the second it starts to burn.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_window",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "sink",
+      "x": 0.6
+     }
+    ],
+    "hud": {
+     "day": "15 / 30",
+     "a": [
+      "AIR",
+      "0:38"
+     ],
+     "b": [
+      "PAY",
+      "$1,840"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Trained free divers go much further, holding for 4 to 8 minutes or more without breathing oxygen first.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "4 TO 8 MINUTES",
+    "text": "trained free divers, no oxygen beforehand",
+    "source": "Smithsonian Magazine, 'What's the longest you can hold your breath?'",
+    "hud": {
+     "day": "21 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "In 2009, Stéphane Mifsud held his breath for 11 minutes and 35 seconds, with no pure oxygen beforehand.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "11:35",
+    "text": "static breath-hold, 2009, no oxygen",
+    "source": "Scientific American, 'Breath-holding: the diving reflex'",
+    "hud": {
+     "day": "21 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The Guinness record is 24 minutes and 37 seconds, set in 2021 in Croatia by a 56-year-old free diver, Budimir Šobat.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "24:37",
+    "text": "Guinness record breath-hold, 2021",
+    "source": "Guinness World Records (May 2021)",
+    "hud": {
+     "day": "21 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "But he breathed pure oxygen before the attempt, which the record's rules allow for up to 30 minutes.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "PURE OXYGEN",
+    "text": "allowed for 30 minutes before the attempt",
+    "source": "Guinness World Records (May 2021)",
+    "hud": {
+     "day": "21 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Hal hears all of this and says he's 74, his personal record is a nap, and his bus is late again.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.66,
+      "expr": "smirk",
+      "say": "My record is a nap."
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "21 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "15 of those 16 incidents happened at New York State bathing facilities",
+     "source": "CDC, MMWR Erratum (2015)"
+    }
+   }
+  },
+  {
+   "say": "Level five verdict: the power grows with training, and the man who trains you sits in that glass box every day at 4:40.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.7
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "21 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Day 22, on the icy stairs up to a train platform, with a package in each hand.",
+   "visual": {
+    "type": "daycard",
+    "day": 22,
+    "sub": "the fall",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "chapter": "Level 6: The fall"
+  },
+  {
+   "say": "Level six is the fall, and it teaches you the one thing your power can't do.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 6",
+    "text": "THE FALL: 0 seconds of air",
+    "bad": true,
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "diving reflex: blood vessels in skin and limbs narrow, saving blood for the core",
+     "source": "Scientific American, 'Breath-holding: the diving reflex'"
+    }
+   }
+  },
+  {
+   "say": "Your foot hits a patch of ice on the top step, and you go over backward down the stairs.",
+   "visual": {
+    "type": "scene",
+    "location": "train_stairs",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.5,
+     "expr": "shock",
+     "arms": "up",
+     "walk_to": 0.3
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "packages",
+      "x": 0.5,
+      "flying": true
+     }
+    ],
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "sfx": "boom"
+  },
+  {
+   "say": "You try to freeze it, but you just shouted, and your lungs are empty. Time doesn't stop at all.",
+   "visual": {
+    "type": "scene",
+    "location": "train_stairs",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "shock",
+     "arms": "up",
+     "walk_to": 0.3
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And yet the fall feels slow. You see every step, every rivet in the railing, and a pigeon taking off.",
+   "visual": {
+    "type": "scene",
+    "location": "train_stairs",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "shock",
+     "arms": "up",
+     "walk_to": 0.25
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "pigeon",
+      "x": 0.7
+     }
+    ],
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "divers with experience can strengthen the reflex (2000 study)",
+     "source": "Scientific American, 'Breath-holding: the diving reflex'"
+    }
+   }
+  },
+  {
+   "say": "You land on a pile of shoveled snow at the bottom, sore but whole, and lie there for a full minute.",
+   "visual": {
+    "type": "closeup",
+    "location": "train_stairs",
+    "expr": "worried",
+    "look": -1,
+    "thought": "NO AIR",
+    "bad": true,
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That slow feeling has been tested. In 2007, researchers dropped volunteers 150 feet into a safety net.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "150 FEET",
+    "text": "free fall into a net, 2007 study",
+    "source": "National Geographic, on Stetson, Fiesta & Eagleman, PLoS ONE (2007)",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "People guessed that their own fall had lasted 36 percent longer than the falls they watched other people take.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "+36%",
+    "text": "how much longer their own fall seemed",
+    "source": "National Geographic, on Stetson et al., PLoS ONE (2007)",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "But a flickering number on their wrists was just as hard to read as it was on the ground. Time didn't slow down.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "TIME DIDN'T SLOW",
+    "text": "they read the numbers no better than on the ground",
+    "source": "National Geographic, on Stetson et al., PLoS ONE (2007)",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The researchers think frightening moments leave denser memories, so the moment only seems longer afterward.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "MEMORY",
+    "text": "fear makes the moment seem longer later",
+    "source": "National Geographic, on Stetson et al., PLoS ONE (2007)",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level six verdict: no breath, no power. From now on, before every corner, you keep a full breath ready.",
+   "visual": {
+    "type": "scene",
+    "location": "train_stairs",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.38
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That night Marisol calls. Day 30 has a 500 dollar rush package for Wacker Drive, due at exactly 4:45.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_window",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "doubt",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.4,
+      "screen": "MARISOL"
+     }
+    ],
+    "hud": {
+     "day": "22 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "most black ice forms when temperatures hover around freezing",
+     "source": "National Geographic, 'What is black ice?' (2026)"
+    }
+   }
+  },
+  {
+   "say": "Day 30, 4:38 in the afternoon, 31 degrees with freezing drizzle, and Halsted is glazed with black ice.",
+   "visual": {
+    "type": "daycard",
+    "day": 30,
+    "sub": "the ice",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "chapter": "Level 7: The ice"
+  },
+  {
+   "say": "Level seven is the ice, and it's the moment you saw at the very start of this video.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 7",
+    "text": "THE ICE: 5 people, 9 feet",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You're 6 blocks from Wacker with the 500 dollar package, and you sprint the bike the whole way.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.1,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "bike",
+      "x": 0.1,
+      "drive_to": 0.4
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Winter driving guides put it plainly. It's harder to control or stop a vehicle on a slick surface, so leave more distance.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "SLOW DOWN",
+    "text": "slick roads: harder to control, harder to stop",
+    "source": "NHTSA, 'Winter Driving Tips'",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "At Halsted, a box truck brakes for the light, and its back end swings out toward the bus stop.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "shock",
+     "arms": "point",
+     "walk_to": 0.45
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.1,
+      "skid": true,
+      "wheels": "locked",
+      "drive_to": 0.3
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "threat": "truck_skid",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "black ice: a thin, clear layer of ice on dark asphalt",
+     "source": "National Geographic, 'What is black ice?' (2026)"
+    }
+   },
+   "sfx": "horn"
+  },
+  {
+   "say": "Hal is in the shelter with four other people: a nurse, a man with groceries, a student, and a mail carrier.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.45,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.74
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You breathe in and hold it. But you just sprinted 6 blocks, and the burn starts almost right away.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.42,
+     "expr": "worried",
+     "arms": "head",
+     "walk_to": 0.5
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "1:25"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "bridges and overpasses freeze before other surfaces",
+     "source": "National Weather Service, 'Ice Storms' safety page"
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "You count what you've got. About 41 seconds of air, a truck 9 feet from the glass, and five people inside.",
+   "visual": {
+    "type": "plan",
+    "title": "4:41 P.M.",
+    "items": [
+     {
+      "box": [
+       0.08,
+       0.2,
+       0.38,
+       0.14
+      ],
+      "label": "AIR: ~41 SEC"
+     },
+     {
+      "box": [
+       0.08,
+       0.38,
+       0.38,
+       0.14
+      ],
+      "label": "TRUCK: 9 FT",
+      "hot": true
+     },
+     {
+      "box": [
+       0.08,
+       0.56,
+       0.38,
+       0.14
+      ],
+      "label": "PEOPLE: 5"
+     },
+     {
+      "box": [
+       0.08,
+       0.74,
+       0.38,
+       0.14
+      ],
+      "label": "PACKAGE DUE: 4:45"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You can't push a truck that weighs as much as a small house. You try anyway, and nothing moves at all.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.25,
+     "expr": "worried",
+     "arms": "reach",
+     "walk_to": 0.28
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.18,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "a single vehicle rated 26,001 lb or more needs a commercial license",
+     "source": "FMCSA, 'Commercial Driver's License: Drivers'"
+    }
+   }
+  },
+  {
+   "say": "Then you remember Dex and the sedan. The truck's wheels aren't turning, because the driver is standing on the brake.",
+   "visual": {
+    "type": "scene",
+    "location": "truck_cab",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "doubt",
+     "arms": "point"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "pedal",
+      "x": 0.5,
+      "pressed": true
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "NHTSA's advice: with antilock brakes, keep firm pressure and steer. Without them, you may need to pump the brakes as wheels lock.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "PUMP OR STEER",
+    "text": "no ABS: wheels can lock. with ABS: press firmly and steer",
+    "source": "NHTSA, 'Antilock Brake Systems' and 'Winter Driving Tips'",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Locked wheels can't steer. So you climb into the cab and pull the driver's boots off the brake pedal.",
+   "visual": {
+    "type": "scene",
+    "location": "truck_cab",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "reach",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Driver",
+      "x": 0.65,
+      "outfit": "work",
+      "frozen": true
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Then you turn the steering wheel a quarter turn toward the snowbank, while you count 33 Mississippi, 34.",
+   "visual": {
+    "type": "scene",
+    "location": "truck_cab",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.42,
+     "expr": "worried",
+     "arms": "reach"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "steering_wheel",
+      "turn": 0.25
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "cold water on the face: the airway snaps shut, the diving reflex begins",
+     "source": "Scientific American, 'Breath-holding: the diving reflex'"
+    }
+   }
+  },
+  {
+   "say": "You breathe out. The world jumps forward one second, and the truck slides one more foot toward the glass.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.24,
+      "skid": true,
+      "wheels": "locked",
+      "drive_to": 0.3
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "measure",
+      "text": "8 FT"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "sfx": "horn"
+  },
+  {
+   "say": "You breathe in again. Now the wheels are rolling, and the truck has started to turn, but not fast enough.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "worried",
+     "arms": "point",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.3,
+      "skid": true,
+      "wheels": "locked",
+      "steer": "left"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "In breath-hold blackouts, the CDC says the cause is the oxygen in your arteries dropping too low.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "BLACKOUT",
+    "text": "caused by arterial oxygen dropping too low",
+    "source": "CDC, MMWR Vol. 64, No. 19 (2015)",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Its back corner will still clip the shelter, right where Hal is sitting with his paper bag of mints.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.5,
+     "expr": "shock",
+     "arms": "point",
+     "walk_to": 0.56
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.76,
+      "frozen": true
+     }
+    ],
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.3,
+      "skid": true,
+      "wheels": "locked"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Hal is a big man, and dragging him across the ice will take longer than your lungs can last.",
+   "visual": {
+    "type": "closeup",
+    "location": "bus_shelter",
+    "expr": "worried",
+    "look": -1,
+    "thought": "TOO HEAVY",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "frozen": true,
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "black ice is often clear, with the black road visible underneath",
+     "source": "National Weather Service, 'Ice Storms' safety page"
+    }
+   }
+  },
+  {
+   "say": "So you have a choice. Hold past the edge alone and maybe black out, or breathe and give the truck another second.",
+   "visual": {
+    "type": "board",
+    "title": "THE CHOICE",
+    "lines": [
+     "A: hold past the edge, alone",
+     "B: breathe, lose 1 second"
+    ],
+    "result": "Hal's rule?",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You hear Hal's voice in your head, and it's annoyingly calm. Breathe, kid. Never past the edge alone.",
+   "visual": {
+    "type": "closeup",
+    "location": "bus_shelter",
+    "expr": "neutral",
+    "look": -1,
+    "thought": "BREATHE, KID",
+    "bad": false,
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "So you breathe after every 20 Mississippi. Each breath, the truck slides a few inches. Each freeze, you drag Hal a little farther.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.55,
+     "expr": "worried",
+     "arms": "reach",
+     "walk_to": 0.42
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.62,
+      "walk_to": 0.48,
+      "frozen": true
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "black ice also forms on sidewalks, steps and decks",
+     "source": "National Geographic, 'What is black ice?' (2026)"
+    }
+   }
+  },
+  {
+   "say": "Doctors compare the last stage of a very long breath-hold to a kind of carbon dioxide narcosis, a foggy, heavy feeling.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "CO2 NARCOSIS",
+    "text": "how a very long breath-hold can feel",
+    "source": "Smithsonian Magazine, quoting Mayo Clinic's Dr. Clayton Cowl",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The ice helps here. Hal slides like a sofa on a polished floor, out of the shelter and into the snow.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.45,
+     "expr": "smirk",
+     "arms": "reach",
+     "walk_to": 0.3
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.55,
+      "walk_to": 0.35,
+      "frozen": true
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "underpasses shade the road and keep it from warming",
+     "source": "National Geographic, 'What is black ice?' (2026)"
+    }
+   }
+  },
+  {
+   "say": "Then the nurse, then the man with the groceries, then the student, then the mail carrier, one breath at a time.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.6,
+     "expr": "worried",
+     "arms": "reach",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED"
+     },
+     {
+      "type": "snow_frozen"
+     },
+     {
+      "type": "people_moved",
+      "n": 5
+     }
+    ],
+    "frozen": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "On the last breath you let go. The truck rolls into the snowbank, and the shelter glass cracks with nobody inside.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "box_truck",
+      "x": 0.55,
+      "skid": true,
+      "wheels": "locked",
+      "drive_to": 0.62,
+      "steer": "left"
+     },
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 0,
+      "route": "8 HALSTED",
+      "cracked": true
+     },
+     {
+      "type": "snowbank",
+      "x": 0.65
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "black ice is most common in the early morning hours",
+     "source": "National Weather Service, 'Ice Storms' safety page"
+    }
+   },
+   "sfx": "crash"
+  },
+  {
+   "say": "Hal sits up in the snow, looks at the empty shelter, then at you, and says it one more time. Breathe, kid.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.58,
+      "say": "Breathe, kid."
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 0,
+      "route": "8 HALSTED",
+      "cracked": true
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "You reach Wacker Drive at 4:49 with the package. Marisol's silver stopwatch says you're exactly 4 minutes late.",
+   "visual": {
+    "type": "scene",
+    "location": "dispatch_office",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "hold",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Marisol",
+      "outfit": "dispatch",
+      "hair": "bun",
+      "headset": true,
+      "hold": "stopwatch",
+      "x": 0.68,
+      "say": "4 minutes."
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "the 24:37 record was set in Sisak, Croatia, on 27 March 2021",
+     "source": "Guinness World Records"
+    }
+   },
+   "chapter": "The choice"
+  },
+  {
+   "say": "She says the rush route needs someone who never misses a deadline. You slide the contract back across her desk.",
+   "visual": {
+    "type": "closeup",
+    "location": "dispatch_office",
+    "expr": "smirk",
+    "look": -1,
+    "thought": "4 MINUTES",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Dex takes the rush route. On his first day he stops at a red light, and he waves at you with his whole arm.",
+   "visual": {
+    "type": "scene",
+    "location": "intersection",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "wave"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Dex",
+      "outfit": "orange_courier",
+      "helmet": true,
+      "bike": "orange",
+      "x": 0.6,
+      "arms": "wave"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The 2024 total of bicyclist deaths was the third-highest number IIHS has ever recorded.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "3RD HIGHEST",
+    "text": "U.S. bicyclist deaths, 2024",
+    "source": "IIHS, 'Fatality Facts 2024: Bicyclists'",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And every day at 4:40, Hal saves you the seat at the end of the bench, the one farthest from the road.",
+   "visual": {
+    "type": "scene",
+    "location": "bus_shelter",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "friends": [
+     {
+      "name": "Hal",
+      "outfit": "ymca_jacket",
+      "age": "old",
+      "hat": "cap",
+      "hold": "mints",
+      "x": 0.62,
+      "say": "Mint?"
+     }
+    ],
+    "props": [
+     {
+      "type": "bus_shelter",
+      "x": 0.72,
+      "people": 5,
+      "route": "8 HALSTED",
+      "cracked": false
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Hal, Marisol, Dex and the frozen truck are made up. The breathing, the brakes and the clocks are all real.",
+   "visual": {
+    "type": "label",
+    "big": "MADE UP",
+    "text": "the power and the people are fiction. the facts are real.",
+    "bad": false,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And one more time, because it's real: never practice breath-holding in water, and never on your own.",
+   "visual": {
+    "type": "label",
+    "big": "NEVER IN WATER",
+    "text": "never alone",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your turn. On day 30, would you hold past your limit to save Hal faster, or breathe every 20 seconds like he said? A or B.",
+   "visual": {
+    "type": "board",
+    "title": "WHAT WOULD YOU DO?",
+    "lines": [
+     "A: hold past the edge",
+     "B: breathe every 20"
+    ],
+    "result": "comment A or B",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level 8 is coming next. What if the Earth stopped spinning, for just one second?",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 8",
+    "text": "???",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And tonight, look at a clock with a second hand. That first tick can seem to hang, by up to half a second.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "STOPPED CLOCK",
+    "text": "the first second you see can last up to 0.5 s longer",
+    "source": "Wikipedia, 'Chronostasis' (Yarrow et al.)",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That's chronostasis, the closest any of us will get to stopping time, and you don't even have to hold your breath.",
+   "visual": {
+    "type": "scene",
+    "location": "halsted_street",
+    "hero": {
+     "outfit": "courier",
+     "helmet": true,
+     "bag": "courier",
+     "x": 0.35,
+     "expr": "smirk",
+     "arms": "wave",
+     "walk_to": 0.42
+    },
+    "shot": "wide",
+    "sky": "winter_day",
+    "props": [
+     {
+      "type": "street_clock",
+      "x": 0.7
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "AIR",
+      "0:41"
+     ],
+     "b": [
+      "PAY",
+      "$4,100"
+     ]
+    }
+   }
+  }
+ ],
+ "seo": {
+  "title": "What If You Could Stop Time While Holding Your Breath?",
+  "title_b": "You Can Stop Time, But Only While You Hold Your Breath",
+  "sokfras": "what if you could stop time",
+  "sokfras_kalla": "YouTubes sökförslag 22 nov 2026: förslag nr 1 för prefixet 'what if you could' (trend/tli.json i repot, GitHub Action niche-trends) + TREND_2026-11-22.md. Även 'what would happen if you could freeze time' bland förslagen för 'what would happen if'.",
+  "hook": "A box truck is sliding on black ice toward a bus shelter with five people inside. You breathe in and hold it. Every snowflake on Halsted Street stops in midair.",
+  "summary": "What if you could stop time, but only for as long as you can hold your breath? Breathe in and every snowflake on the street hangs in the air. Breathe out and the world starts again. You're a bike courier in Chicago in December, and in 30 days you find out the rules, save a rival from a skidding sedan, get paid to freeze time 30 times a day, learn to breathe from a 74-year-old swim coach at a bus stop, and fall down an icy staircase with empty lungs. On day 30 a box truck slides on black ice toward a bus shelter with five people inside, and you have about 41 seconds of air.\n\nThis is a fictional What If story. The power and every character (Hal, Marisol, Dex) are made up. The facts on screen are real:\n- Most people can hold their breath for 30 seconds to a few minutes; trained free divers 4–8 minutes or more; high carbon dioxide, not low oxygen, drives the burn (Smithsonian Magazine, quoting Mayo Clinic's Dr. Clayton Cowl)\n- A hiccup is a diaphragm spasm that snaps the vocal cords shut; see a doctor after 48 hours (Mayo Clinic)\n- \"One minute is probably the limit\"; holding too long can make you pass out (Ohio State Wexner Medical Center, Dr. Jonathan Parsons)\n- Diving reflex: cold water on the face can slow a person's heart 10% or more, roughly 90% in some marine mammals; Stéphane Mifsud 11:35 in 2009 (Scientific American)\n- Guinness record 24:37.36 by Budimir Šobat, 56, Sisak, Croatia, 27 March 2021, after breathing pure oxygen (Guinness World Records)\n- Dangerous underwater breath-holding, New York State 1988–2011: 16 swimmers, 4 deaths; hyperventilating first lowers CO2 and risks blackout (CDC MMWR, 2015)\n- If time truly stopped, light, sound and air would stop too (Discovery, quoting physicist Sean Carroll)\n- GPS satellite clocks run about 38 microseconds a day fast; uncorrected, positions would drift about 10 km a day (Prof. Richard Pogge, Ohio State)\n- Hafele–Keating 1971: atomic clocks lost 59 ns flying east and gained 273 ns flying west (HyperPhysics)\n- Volunteers dropped 150 feet guessed their fall lasted 36% longer, but time didn't slow down (National Geographic, on Stetson, Fiesta & Eagleman, PLoS ONE 2007)\n- Without ABS, hard braking can lock the wheels and take away steering (NHTSA); slow down and leave more distance on slick roads (NHTSA Winter Driving Tips)\n- 1,075 U.S. bicyclists killed in crashes with motor vehicles in 2024, 81% in urban areas (IIHS)\n- Black ice is thin, clear ice on dark asphalt; bridges and overpasses freeze first (National Geographic, National Weather Service)\n- Stopped-clock illusion (chronostasis): the first second you see can seem up to half a second longer (Wikipedia)\n\nNever practice holding your breath in water, never hyperventilate first, and never do it alone.",
+  "description": "What if you could stop time, but only for as long as you can hold your breath? Breathe in and every snowflake on the street hangs in the air. Breathe out and the world starts again. You're a bike courier in Chicago in December, and in 30 days you find out the rules, save a rival from a skidding sedan, get paid to freeze time 30 times a day, learn to breathe from a 74-year-old swim coach at a bus stop, and fall down an icy staircase with empty lungs. On day 30 a box truck slides on black ice toward a bus shelter with five people inside, and you have about 41 seconds of air.\n\nThis is a fictional What If story. The power and every character (Hal, Marisol, Dex) are made up. The facts on screen are real:\n- Most people can hold their breath for 30 seconds to a few minutes; trained free divers 4–8 minutes or more; high carbon dioxide, not low oxygen, drives the burn (Smithsonian Magazine, quoting Mayo Clinic's Dr. Clayton Cowl)\n- A hiccup is a diaphragm spasm that snaps the vocal cords shut; see a doctor after 48 hours (Mayo Clinic)\n- \"One minute is probably the limit\"; holding too long can make you pass out (Ohio State Wexner Medical Center, Dr. Jonathan Parsons)\n- Diving reflex: cold water on the face can slow a person's heart 10% or more, roughly 90% in some marine mammals; Stéphane Mifsud 11:35 in 2009 (Scientific American)\n- Guinness record 24:37.36 by Budimir Šobat, 56, Sisak, Croatia, 27 March 2021, after breathing pure oxygen (Guinness World Records)\n- Dangerous underwater breath-holding, New York State 1988–2011: 16 swimmers, 4 deaths; hyperventilating first lowers CO2 and risks blackout (CDC MMWR, 2015)\n- If time truly stopped, light, sound and air would stop too (Discovery, quoting physicist Sean Carroll)\n- GPS satellite clocks run about 38 microseconds a day fast; uncorrected, positions would drift about 10 km a day (Prof. Richard Pogge, Ohio State)\n- Hafele–Keating 1971: atomic clocks lost 59 ns flying east and gained 273 ns flying west (HyperPhysics)\n- Volunteers dropped 150 feet guessed their fall lasted 36% longer, but time didn't slow down (National Geographic, on Stetson, Fiesta & Eagleman, PLoS ONE 2007)\n- Without ABS, hard braking can lock the wheels and take away steering (NHTSA); slow down and leave more distance on slick roads (NHTSA Winter Driving Tips)\n- 1,075 U.S. bicyclists killed in crashes with motor vehicles in 2024, 81% in urban areas (IIHS)\n- Black ice is thin, clear ice on dark asphalt; bridges and overpasses freeze first (National Geographic, National Weather Service)\n- Stopped-clock illusion (chronostasis): the first second you see can seem up to half a second longer (Wikipedia)\n\nNever practice holding your breath in water, never hyperventilate first, and never do it alone.",
+  "disclaimer": "This is a fictional What If story. The power and all characters are made up; the breathing, safety, physics and traffic facts are real and sourced below. Never practice breath-holding in water or alone.",
+  "chapters": "00:00 The truck on Halsted · Level 1: The hiccups · Level 2: The rules · Level 3: Dex · Level 4: The stopwatch · Level 5: Hal · Level 6: The fall · Level 7: The ice · The choice",
+  "keywords": [
+   "what if you could stop time",
+   "what would happen if you could freeze time",
+   "stop time",
+   "freeze time",
+   "what if",
+   "holding your breath",
+   "how long can you hold your breath",
+   "diving reflex",
+   "time dilation",
+   "what if story",
+   "what if animation",
+   "stickman story",
+   "the long if",
+   "black ice"
+  ],
+  "sources": [
+   "https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-whats-longest-you-can-hold-your-breath-180960905/",
+   "https://www.mayoclinic.org/diseases-conditions/hiccups/symptoms-causes/syc-20352613",
+   "https://health.osu.edu/health/general-health/what-happens-when-you-hold-your-breath",
+   "https://www.scientificamerican.com/article/breath-holding-dive-reflex-extends",
+   "https://www.guinnessworldrecords.com/news/2021/5/freediver-holds-breath-for-almost-25-minutes-breaking-record-660285",
+   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6419a3.htm",
+   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6425a6.htm",
+   "https://www.discovery.com/science/What-Would-Happen-If-You-Stopped-Time",
+   "https://en.wikipedia.org/wiki/Chronostasis",
+   "https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps",
+   "https://hyperphysics.gsu.edu/hbase/Relativ/airtim.html",
+   "https://www.nationalgeographic.com/science/article/time-doesnt-actually-slow-down-in-a-crisis",
+   "https://corpora.tika.apache.org/base/docs/govdocs1/144/144771.html",
+   "https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-11/Winter%20Driving%20Tips_2022-2023_tag_0.pdf",
+   "https://www.iihs.org/research-areas/fatality-statistics/detail/bicyclists/trends",
+   "https://www.nationalgeographic.com/environment/article/black-ice",
+   "https://www.weather.gov/safety/winter-ice-frost",
+   "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/drivers"
+  ],
+  "question": "On day 30, would you hold past your limit to save Hal faster, or breathe every 20 seconds like he said? A or B.",
+  "pinned_comment": "A or B: hold past your limit to drag Hal out faster, or breathe every 20 seconds like he told you? Level 8 is coming: what if the Earth stopped spinning for one second?",
+  "hashtags": [
+   "#whatif",
+   "#story",
+   "#animation"
+  ],
+  "playlist": "What If You Could...? Hypothetical Scenarios"
+ },
+ "thumb": {
+  "kind": "tli",
+  "script": "huvudchatten bygger (thumbs_v3_all.py-stil; ny plats halsted_street + frozen=True)",
+  "klickfraga": "Tiden står still bara så länge han håller andan – lastbilen hänger 9 fot från en busskur med fem personer, och han har 41 sekunder luft. Hinner han?",
+  "hot_i_bild": "En stor box truck som sladdar snett i bild på blank svart is, fryst mitt i rörelsen med snöflingor som hänger i luften, och hörnet bara en meter från en glasbusskur med fem personer – lastbilen tar ~45 % av bilden (vänster–mitten).",
+  "skiljer_sig": "Förra TLI (tli-2026-11-21) var ett vertikalt hotelltorn med röken uppe till vänster och text nere till vänster. Nu: horisontell vintergata i dagsljus, hotet (lastbilen) i vänster–mitten, hjälten lugnt gående i förgrunden till höger med kinderna fulla av luft, gul text uppe till höger. Ny effekt: frusna snöflingor/blåaktig ton = superkraften syns i bild.",
+  "jamfor_ark": "chk/jamfor-tli-2026-11-22.png",
+  "forsta_scen_matchar": "Scen 1 (0–7 s) är A-miniatyren i rörelse: samma Halsted-gata i ljust vinterdagsljus, box trucken sladdar på svart is mot busskuren med fem personer (threat=truck_skid, drive_to). Scen 2 (7 s) fryser samma bild: snöflingorna stannar (frozen=True, tystnad). HUD 'AIR 0:41' = miniatyrens siffra.",
+  "variants": [
+   {
+    "id": "A",
+    "layout": "hotet vänster–mitten / hjälten höger förgrund / text uppe till höger",
+    "big": "41 SEC",
+    "label": "OF AIR LEFT",
+    "bild": "Lastbilen fryst i sladd 9 fot från glaskuren; snöflingor som hänger stilla; fem bifigurer i kuren med uppspärrade ögon (Hal längst fram, ler); hjälten (svart stickman, gröna ögon, cykelbudsjacka och hjälm) går lugnt framåt med kinderna fulla av luft. Gult '41 SEC' + röd etikett 'OF AIR LEFT'."
+   },
+   {
+    "id": "B",
+    "layout": "fråga, hjälten centrerad stort",
+    "big": "HOW LONG CAN YOU HOLD IT?",
+    "label": "",
+    "bild": "Hjälten i mitten med uppblåsta kinder och ett stort frusen-tid-ljus runt sig; bakom honom gatan helt stilla (bil, duva och kaffe i luften). Annan vinkel: själva begränsningen."
+   },
+   {
+    "id": "C",
+    "layout": "HUD-siffra, split",
+    "big": "AIR 0:41",
+    "label": "TIME: STOPPED",
+    "bild": "Vänster: stort HUD-instrument 'AIR 0:41' som en tryckmätare. Höger: lastbilens hjul låsta på isen och förarens fot på bromsen (gåtan som löser klimax)."
+   }
+  ]
+ },
+ "forbattring": {
+  "forra_videon": "tli-2026-11-21 'What If You Could Never Forget Anything for 30 Days?' (MANUS KLART 21/11, publiceringsstatus saknas i kö.md) och senast publicerade OOBnQjk7zV0 '1850' – 0 exponeringar (KANALANALYS_2026-11-22).",
+  "matt_forra": "TLI: 0–1 exponeringar per lång video; ingen tittarkurva än (TITTARTID_ANALYS_2026-11-22).",
+  "problem": "Distribution: titlarna har inte varit exakta sökförslag och kanalen har inga Shorts. Innehåll: tidigare TLI-manus hade verkliga fakta bara på 12 kort (en var ~75:e s) och långa stämningsstretcher – förlorarmönstret i TITTARTID_ANALYS.",
+  "andring": "TITTARTID_REGLER: TRENDORDER (titeln innehåller förslag nr 1 'what if you could stop time'), INNEHÅLLSORDER (DUI-mallen på What if: 7 numrerade nivåer med dom, en verklig fakta med källa på skärmen minst var 30:e s – 33 THAT'S REAL-kort + 28 faktaremsor + 2 säkerhetskort, största lucka 29,9 s, snitt 19 ord/replik, 0 repliker < 6 ord), FORMATORDER/TLI-raden (sökfras-titel) och DISTRIBUTIONSORDER 2 (första TLI-Shorten).",
+  "forvantat": "Exponeringar via sök på 'what if you could stop time' och via Shorten (mål ≥ 300 första veckan), CTR ≥ 3 %, ≥ 55 % kvar vid 0:30 och ≥ 35 % vid 2:00.",
+  "referens": "DOOMPERK 'What If You Had Infinite IQ in PRISON?' (X_wiaDTxSho, 894 932 visningar på 8 dagar, läst 17 nov) + trenden 22 nov: ConChaser 'What If You Could See Everyone's IQ?' 2 898 995 (månad), What If Effect 'What If You Were Born With Infinite IQ?' 890 222 (vecka).",
+  "vi_slår_den_med": "Kraften har en fysisk mätare som tittaren känner i sin egen kropp (håll andan medan du tittar), varje nivå lär ut en verklig sak om andning, tid eller is med källa, och klimaxet löses av två planterade fakta (låsta hjul kan inte styra – nivå 3; Hals regel 'never past the edge alone' – nivå 5) i stället för av kraften.",
+  "trend": "Ämne/titel ur TREND_2026-11-22 (TLI): 'What If You Could …'-superkraft. Sökförslag: 'what if you could stop time' (förslag nr 1, trend/tli.json). Trendande videor: ConChaser 'What If You Could See Everyone's IQ?' 2 898 995 visningar (månad), 'What If You Could See Everyone's Future Wealth?' 2 388 323 (månad), What If Effect 'What If You Were Born With Infinite IQ?' 890 222 (vecka). Ingen video med exakt vår titel hittad (webbsök 22/11); 'What If You Could Stop Time but Only for 1 Second' finns – vår begränsning (andan) är en annan."
+ },
+ "standard_check": {
+  "miniatyr": "A: kraften som siffra '41 SEC' i stor gul text (TLI_STANDARD 6), lugn hjälte på väg framåt, 5 bifigurer i kuren med uppspärrade ögon, ljus vinterdag. B = fråga, C = HUD 'AIR 0:41'.",
+  "krok": "0 s hotet (lastbil mot kur, 5 personer), 7 s kraften visas (andas in – snön stannar, tystnad), 12 s löftet i klartext ('every level of stopping time with one breath, and the real science of holding it'), 19 s insatsen med siffror (9 fot, 41 s) = slutlöfte, 26 s första verkliga faktakortet, 34 s gåtan (Hal lärde dig), 49 s titelfrågan. Ingen presentation före första händelsen.",
+  "nivåer": "LEVEL 1 The hiccups · 2 The rules · 3 Dex · 4 Marisol (stopwatch/GPS) · 5 Hal · 6 The fall · 7 The ice · Level 8: ??? (what if Earth stopped spinning). Dom efter varje nivå.",
+  "verkligt_faktum_per_nivå": "1: Mayo hicka ×2, Smithsonian CO2 · 2: Discovery ljus/ljud/luft · 3: NHTSA låsta hjul, IIHS 1 075 / 81 % · 4: GPS 38 µs/10 km (Pogge), Hafele–Keating 59/273 ns, OSU svimning/1 min · 5: CDC 16/4 + hyperventilation, dykreflex 10 %/90 %, fridykare 4–8 min, Mifsud 11:35, Guinness 24:37 + rent syre · 6: Eagleman 150 ft / 36 % / läste inte snabbare · 7: NHTSA vinter + ABS, CDC blackout, CO2-narkos, svart is (NatGeo/NWS), FMCSA 26 001 lb · Slut: IIHS 3:e högsta, kronostas.",
+  "planteringar_som_betalas": "1) Låsta hjul kan inte styra (nivå 3, Dex) → klimax: foten av bromsen + ratten · 2) Mississippi-räkningen (nivå 2) → '33 Mississippi, 34' och '20 Mississippi' · 3) Hals regel 'Breathe, kid. Never past the edge alone' (nivå 5) → valet · 4) Hal i glaslådan kl 4:40 (nivå 5) → busskuren dag 30 · 5) Marisols stoppur (nivå 1) → 4 minuter sen · 6) $500-paketet 4:45 (nivå 6) → valet pengar mot människor · 7) tomma lungor = ingen kraft (nivå 6) → sprinten tar luften dag 30. Återkommande skämt: 'Hiccup' / Hals mint.",
+  "känsloslag": "Dex säger ditt namn, Hal ler bakom glaset, 'Breathe, kid.' i snön, Hal sparar platsen längst från vägen.",
+  "moraliskt_val": "Mitt i: Marisols rush route ($40/$500) – kraften för pengar. Klimax: hålla förbi gränsen ensam (snabbare, risk för blackout) eller följa Hals regel; och $500-paketet mot fem personer. Speglar kroken.",
+  "slut": "Fråga A/B till tittaren + fäst kommentar, 'Level 8: ???', ett verkligt fenomen att prova i kväll (kronostas) och säkerhetskortet.",
+  "HUD": "DAY x / 30 · AIR (0:38 → 1:25 → 0:41 efter sprinten) · PAY ($0 → $1 840 → $4 100) på varje bild.",
+  "bilder": "Wide första 30 s (0 medium), 8 närbilder (ingen före 2:15), 3 tavlor, 4 ritningar, 33 THAT'S REAL-kort, scene-andel 47%. Tystnad (silence) vid varje frysning som är en vändning.",
+  "innehall": "Snitt 19.1 ord per say; 0 say under 6 ord; faktaskyltar på skärmen: 33 THAT'S REAL-kort + 28 faktaremsor (fact_strip) + 2 säkerhetskort = 63; största lucka mellan två faktaskyltar 29,9 s. Löftet i klartext vid 0:12. Högst ett icke-progressivt moment per nivå (hicka/skratt, tystnaden, 'Hiccup', –, Hals tupplur, –, soffan på isen).",
+  "längd": "2440 ord ≈ 16.6 min (TLI_STANDARD 14–18 min; granskning 2 000–2 800 ord)."
+ },
+ "experiment": {
+  "variable": "titel = exakt sökförslag nr 1 + faktaskylt var 30:e s + första TLI-Shorten",
+  "metric": "exponeringar från sök/Shorts och 0:30-andel mot tli-2026-11-21",
+  "decide_at": "48 h"
+ },
+ "notes": {
+  "påhittat": "Kraften (tiden stannar medan du håller andan), alla personer (Marisol Vance, Dex Moreau, Hal Benning, föraren, de fem i kuren), budfirman, alla belopp ($40, $500, $1 840, $4 100), klockslag, avstånd (9 fot) och andningstiderna 38 s / 1:25 / 41 s. Halsted, Madison, Jackson, Wacker och busslinje 8 Halsted är verkliga gatunamn i Chicago men inget som händer där är verkligt.",
+  "verkligt": "Bara THAT'S REAL-korten, faktaremsorna och säkerhetskorten. Verkliga personer (Budimir Šobat, Stéphane Mifsud, Sean Carroll, Richard Pogge) nämns bara på faktakort, aldrig i påhittade scener.",
+  "research": "vidIQ 0 krediter (återställs 23 nov 19:29 UTC). Ingen Chrome i molnkörningen → youtube-transcriber gick inte; TubeAlfred-nyckel saknas. Topplistan kommer från GitHub Action niche-trends (trend/tli.json i repot, 22 nov 03:05): ConChaser 'See Everyone's IQ?' 2 898 995 (mån), 'Future Wealth?' 2 388 323 (mån), What If Effect 'Born With Infinite IQ?' 890 222 (vecka), What1fy 'Pick Your Speed Every Morning?' 486 397 (vecka). Inget transkript i dag – krokens 0/5/10/20/30 s är från TLI_STANDARD (DOOMPERK, läst 17 nov): 0 s premiss + orättvisa, ~5 s kraften visas, ~10 s vändningen, ~20 s en regel som låter som visdom, ~30 s målet + tidslinjelöften. Källor öppnade 22 nov via web-fetch: Smithsonian, Mayo Clinic, OSU Wexner (health.osu.edu), Scientific American, Guinness 2021, CDC MMWR mm6419a3 + erratum mm6425a6, Discovery, Wikipedia Chronostasis, Pogge (Ohio State), HyperPhysics, National Geographic (Eagleman 2007; black ice 2026), NHTSA ABS + Winter Driving Tips, IIHS Fatality Facts 2024, NWS Ice Storms, FMCSA CDL. PLoS ONE-originalet (PMC2110887) blockerades av reCAPTCHA – siffrorna 150 ft/36 % är från National Geographics genomgång. Wikipedia anger kronostas 'upp till en halv sekund' med Yarrow et al. 2006 som källa (inte 2001).",
+  "krokvarianter": [
+   "A (VALD – visuell, fungerar utan ljud, matchar miniatyren): 'A box truck is sliding on black ice toward a bus shelter with five people inside.' + 'You breathe in and hold it. Every snowflake on Halsted Street stops in midair.'",
+   "B (kraften först): 'You can stop time. The catch is that it only lasts as long as you can hold your breath, and you just ran six blocks.'",
+   "C (tittaren deltar): 'Take a breath and hold it. Right now. However long you last is how long you'd get to stop the world.'"
+  ],
+  "hook_writer": "social-media-skills:hook-writer laddades inte i denna körning (tidsgräns mot render 13:47); tre varianter skrevs enligt TLI_STANDARD 2 och A valdes för att den matchar miniatyren och syns utan ljud.",
+  "humanizer": "humanizer:humanizer-reglerna tillämpade på alla say-repliker (inga tankstreck, 'truly'/'quietly'/'actually' bort, inga 'not X but Y' utom där källan själv rättar en vanlig missuppfattning (CO2, inte syrebrist)); siffror, källor och fakta oförändrade.",
+  "motor": "Nya platser som huvudchatten MÅSTE bygga (t.ex. tli1122.py, laddas efter dacli2, mönster som tli1850.py): halsted_street (ljus vintergata i Chicago, snö, tegelhus, gatuskyltar 'HALSTED', svart is som blank yta; sky='winter_day'), bus_shelter (glaskur med linjeskylt '8 HALSTED' och bänk; props bus_shelter people=0..5, cracked=True), courier_depot (budfirma med cyklar på väggen, radio, dispatchdisk), bathroom, apartment_window (lägenhet med fönster mot staden), intersection (korsning med trafikljus, cykelbana), dispatch_office, train_stairs (isig trappa upp till en tågperrong, räcke med nitar, duva), truck_cab (förarhytt: ratt, pedaler). FLAGGAN frozen=True är kärnan: snöflingor stilla i luften, lätt blå/avmättad ton på allt utom hjälten, figurer (frozen=True) och föremål helt stilla, och 'silence' i ljudet. Rekvisita: box_truck (skid, wheels='locked', steer, drive_to), sedan (skid, wheels, steer, drive_to), bus_shelter, snow_frozen, measure (text '9 FT'/'8 FT'), coffee_frozen/coffee_splash, phone (screen), count_bubble (text), window_city, bike, packages (flying), pigeon, snowpile, pedal (pressed), steering_wheel (turn), people_moved (n), snowbank, sink, street_clock. Kläder: hjälten outfit courier + cykelhjälm + budväska (ritas ovanpå, figurkoden orörd); Marisol dispatch + headset + stoppur; Dex orange_courier + orange cykel; Hal ymca_jacket, age='old', keps, mintpåse. NYTT FÄLT visual.fact_strip {head, text, source}: nedre tredjedel med 'THAT'S REAL' + text + SOURCE-rad (samma stil som real-kortets källrad) på 28 scener – den räknas i INNEHÅLLSORDER 2 och MÅSTE ritas, annars blir faktaluckan > 30 s. HUD som 21/11 (dacli2.hud) med a=['AIR', 'm:ss'] och b=['PAY', '$x']. Inga fallbacks till city_street för halsted_street/bus_shelter – miniatyrens scen måste synas i första bilden."
+ }
+}
