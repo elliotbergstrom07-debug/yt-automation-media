@@ -1,0 +1,230 @@
+{
+ "channel": "The Long If",
+ "title": "What If Earth Stopped Spinning... Just a Little? #shorts",
+ "style": "qm",
+ "look": "stickman_day",
+ "vertical": true,
+ "format": "1080x1920",
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lang": "en-us",
+ "music": "calm",
+ "music_level": 0.06,
+ "headline": "One second slower.",
+ "long_video": "automation/manus/tli-2026-11-23.json (What If Earth Stopped Spinning Because of You?)",
+ "scenes": [
+  {
+   "say": "You turn your watch back one second, and every day on Earth gets one second longer.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "shot": "wide",
+    "sky": "day",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.45,
+     "expr": "shock",
+     "arms": "down",
+     "walk_to": 0.52
+    },
+    "props": [
+     {
+      "type": "watch_big",
+      "x": 0.3,
+      "spin": "stutter"
+     }
+    ],
+    "hud": {
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "At midnight, every clock in a hospital downtown starts disagreeing with every other clock.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "shot": "wide",
+    "hero": {
+     "name": "Priya",
+     "outfit": "hospital_it",
+     "x": 0.4,
+     "expr": "shock",
+     "arms": "head",
+     "walk_to": 0.5
+    },
+    "props": [
+     {
+      "type": "server_racks",
+      "x": 0.8
+     }
+    ],
+    "hud": {
+     "a": [
+      "DAY",
+      "86,401 S"
+     ]
+    }
+   }
+  },
+  {
+   "say": "A day with a leap second really has 86,401 seconds instead of 86,400.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "86,401",
+    "text": "seconds in a day with a leap second",
+    "source": "timeanddate.com, 'Leap seconds'"
+   }
+  },
+  {
+   "say": "And one extra second has broken real computers. In 2012, Qantas and Mozilla reported problems.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "JUNE 30, 2012",
+    "text": "Qantas, Mozilla and Linux sites hit",
+    "source": "Wikipedia, 'Leap second'"
+   }
+  },
+  {
+   "say": "So you try to turn the watch forward again, and the crown won't move.",
+   "visual": {
+    "type": "closeup",
+    "location": "tower_platform",
+    "expr": "shock",
+    "look": -1,
+    "thought": "JAMMED",
+    "bad": true
+   }
+  },
+  {
+   "say": "The second hand starts turning backward on its own. Full video on the channel.",
+   "visual": {
+    "type": "scene",
+    "location": "street_16th",
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "shock",
+     "arms": "down",
+     "walk_to": 0.48
+    },
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "crowd_phones",
+      "x": 0.5,
+      "n": 30,
+      "expr": "shock"
+     }
+    ],
+    "hud": {
+     "a": [
+      "DAY",
+      "30 HRS"
+     ]
+    }
+   }
+  }
+ ],
+ "beats": [
+  {
+   "t": "0:00",
+   "typ": "vändning",
+   "text": "ett klick – jorden saktar in"
+  },
+  {
+   "t": "0:05",
+   "typ": "hot",
+   "text": "sjukhusets klockor går isär"
+  },
+  {
+   "t": "0:11",
+   "typ": "vändning",
+   "text": "verkligt: 86 401 sekunder"
+  },
+  {
+   "t": "0:16",
+   "typ": "hot",
+   "text": "verkligt: 2012-felen"
+  },
+  {
+   "t": "0:23",
+   "typ": "hot",
+   "text": "kronan sitter fast"
+  },
+  {
+   "t": "0:28",
+   "typ": "gåta",
+   "text": "cliffhanger: visaren går bakåt själv"
+  },
+  {
+   "t": "0:32",
+   "typ": "callback",
+   "text": "Full video on the channel"
+  }
+ ],
+ "seo": {
+  "title": "What If Earth Stopped Spinning... Just a Little? #shorts",
+  "sokfras": "what if earth stopped spinning",
+  "sokfras_kalla": "YouTubes sökförslag (trend/tli.json 23 nov: 'what would happen if the earth stopped spinning'; TREND_2026-11-22: 'what if earth stopped spinning')",
+  "summary": "Full video: https://youtu.be/<id>\n\nTurn a watch back one second and the whole Earth spins slower. One extra second sounds harmless, but a day with a leap second has 86,401 seconds, and the June 2012 leap second caused software problems at Qantas, Mozilla and many Linux sites. A fictional What If story with real facts (timeanddate.com, Wikipedia 'Leap second').",
+  "description": "Full video: https://youtu.be/<id>\n\nTurn a watch back one second and the whole Earth spins slower. One extra second sounds harmless, but a day with a leap second has 86,401 seconds, and the June 2012 leap second caused software problems at Qantas, Mozilla and many Linux sites. A fictional What If story with real facts (timeanddate.com, Wikipedia 'Leap second').",
+  "hashtags": [
+   "shorts",
+   "whatif",
+   "story"
+  ],
+  "keywords": [
+   "what if earth stopped spinning",
+   "leap second",
+   "what if",
+   "earth rotation"
+  ],
+  "sources": [
+   "https://www.timeanddate.com/time/leapseconds.html",
+   "https://en.wikipedia.org/wiki/Leap_second"
+  ],
+  "disclaimer": "Fictional What If story; the leap-second facts are real.",
+  "long_video_url": "https://youtu.be/<id>"
+ },
+ "thumb": {
+  "kind": "short_cover",
+  "text": "[gul] +1 SECOND|BROKE EVERYTHING",
+  "klickfraga": "Hur kan en enda extra sekund få ett sjukhus datorer att krascha – och varför sitter klockan fast?",
+  "hot_i_bild": "Den stora mässingsklockan med sekundvisaren som går bakåt, överst i vertikalt format, och solen som hänger kvar över gatan nederst.",
+  "skiljer_sig": "Förra TLI-Shorten (22/11) var en lastbil i sladd på is; nu en klocka i närbild + varm kvällsgata.",
+  "jamfor_ark": "chk/jamfor-tli-2026-11-23-short.png",
+  "forsta_scen_matchar": "Scen 1 visar hjälten på fönsterputsarplattformen med klockan som hackar – samma klocka och plattform som långa videons nivå 1."
+ },
+ "forbattring": {
+  "forra_videon": "tli-2026-11-22-short 'What If You Could Stop Time? (One Breath Only)' (första TLI-Shorten, i GitHub-grenen; ingen mätning än).",
+  "problem": "TLI:s långa videor får ~0 exponeringar; Shorts gav LS/STE/QM nästan all tidig trafik (TITTARTID_REGLER v48).",
+  "andring": "DISTRIBUTIONSORDER 2: titel med sökfrasen + #shorts, EN vändning (en extra sekund kraschar datorer, verkligt 2012), länk till långa videon först i beskrivningen, cliffhanger (kronan fast).",
+  "forvantat": "≥ 300 visningar i Shorts-flödet på 48 h och klick till den långa videon.",
+  "referens": "QM-Shorten 22/11 och TLI-Shorten 22/11 (samma mall: en vändning + 'Full video on the channel').",
+  "vi_slår_den_med": "Två verkliga fakta på 30 s (86 401 sekunder, Qantas/Mozilla 2012) och en tydlig cliffhanger som bara långa videon löser."
+ },
+ "notes": {
+  "moment": "Nivå 2 ur långa videon (en extra sekund, sjukhuset) + slutet av nivå 6 (kronan fastnar).",
+  "langd": "≈ 86 ord ≈ 36 s med am_puck 1,05 (20–45 s).",
+  "uppladdning": "Via Studio i ägarens Chrome (Create → Upload), kodad ≤ 3,7 MB (720×1280, ~550 kbit/s, 64 kbit/s ljud) – inte via vidIQ. Render-körningen ersätter <id> med den långa videons id.",
+  "kontroll": "monetisering.py GODKÄNT. granskning.py: se körningens rapport – spärren saknar Shorts-gren (TLI-ordgräns 2 000–2 800 och beats-krav per minut för långform), samma som TLI/QM-Shorten 22/11. Spärren ändrades inte."
+ }
+}

@@ -1,0 +1,4122 @@
+{
+ "channel": "The Long If",
+ "title": "What If Earth Stopped Spinning Because of You?",
+ "standard": "TLI_STANDARD",
+ "style": "qm",
+ "look": "stickman_day",
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lang": "en-us",
+ "music": "calm",
+ "music_level": 0.07,
+ "beats": [
+  {
+   "t": "0:00",
+   "typ": "hot",
+   "text": "solen står kvar kl 21, dagen blir 30 timmar"
+  },
+  {
+   "t": "0:06",
+   "typ": "vändning",
+   "text": "solnedgången som aldrig kom"
+  },
+  {
+   "t": "0:12",
+   "typ": "gåta",
+   "text": "löftet: varje nivå + verklig vetenskap"
+  },
+  {
+   "t": "0:18",
+   "typ": "hot",
+   "text": "kronan sitter fast, +4 min i timmen (slutlöfte)"
+  },
+  {
+   "t": "0:23",
+   "typ": "gåta",
+   "text": "Vole: $2 miljoner för att låta det vara"
+  },
+  {
+   "t": "0:36",
+   "typ": "gåta",
+   "text": "Abe och kritstrecken vid pendeln"
+  },
+  {
+   "t": "1:04",
+   "typ": "människor",
+   "text": "fönsterputsare, betalt per ruta"
+  },
+  {
+   "t": "1:14",
+   "typ": "humor",
+   "text": "Rosas replik (planterad)"
+  },
+  {
+   "t": "1:24",
+   "typ": "gåta",
+   "text": "mässingsklockan i blomlådan (planterad)"
+  },
+  {
+   "t": "1:34",
+   "typ": "vändning",
+   "text": "ett klick bakåt – staden suckar"
+  },
+  {
+   "t": "2:01",
+   "typ": "vändning",
+   "text": "rekorddagen 2022"
+  },
+  {
+   "t": "2:26",
+   "typ": "vändning",
+   "text": "testet vid köksbordet"
+  },
+  {
+   "t": "2:45",
+   "typ": "hot",
+   "text": "dom nivå 1"
+  },
+  {
+   "t": "3:16",
+   "typ": "människor",
+   "text": "Priya, sjukhusets nattdatorer"
+  },
+  {
+   "t": "3:24",
+   "typ": "hot",
+   "text": "sjukhusets klockor går isär"
+  },
+  {
+   "t": "3:50",
+   "typ": "vändning",
+   "text": "verkligt: 2012"
+  },
+  {
+   "t": "3:58",
+   "typ": "gåta",
+   "text": "lappen 86,401 (planterad)"
+  },
+  {
+   "t": "4:17",
+   "typ": "gåta",
+   "text": "Priyas regel: en sekund i taget (planterad)"
+  },
+  {
+   "t": "4:34",
+   "typ": "hot",
+   "text": "dom nivå 2"
+  },
+  {
+   "t": "4:57",
+   "typ": "gåta",
+   "text": "pendeln och pinnarna"
+  },
+  {
+   "t": "5:06",
+   "typ": "människor",
+   "text": "Abe och kritmärkena (planterad)"
+  },
+  {
+   "t": "5:42",
+   "typ": "vändning",
+   "text": "en minut längre"
+  },
+  {
+   "t": "5:51",
+   "typ": "gåta",
+   "text": "Abe tittar upp på dig"
+  },
+  {
+   "t": "6:01",
+   "typ": "hot",
+   "text": "LATE på golvet"
+  },
+  {
+   "t": "6:19",
+   "typ": "gåta",
+   "text": "avtalet med Abe (planterat)"
+  },
+  {
+   "t": "6:28",
+   "typ": "hot",
+   "text": "dom nivå 3"
+  },
+  {
+   "t": "6:52",
+   "typ": "vändning",
+   "text": "eftermiddagen töjer sig"
+  },
+  {
+   "t": "7:25",
+   "typ": "vändning",
+   "text": "372 dagar om året"
+  },
+  {
+   "t": "7:47",
+   "typ": "hot",
+   "text": "nyheterna: klockorna driver"
+  },
+  {
+   "t": "7:56",
+   "typ": "hot",
+   "text": "Grant Vole hittar dig"
+  },
+  {
+   "t": "8:23",
+   "typ": "gåta",
+   "text": "frestelsen"
+  },
+  {
+   "t": "8:30",
+   "typ": "hot",
+   "text": "dom nivå 4"
+  },
+  {
+   "t": "8:51",
+   "typ": "hot",
+   "text": "vinden från fel håll"
+  },
+  {
+   "t": "9:32",
+   "typ": "gåta",
+   "text": "kritlinjen kröker sig"
+  },
+  {
+   "t": "9:41",
+   "typ": "hot",
+   "text": "Abe: sedan haven"
+  },
+  {
+   "t": "9:59",
+   "typ": "vändning",
+   "text": "haven mot polerna"
+  },
+  {
+   "t": "10:16",
+   "typ": "hot",
+   "text": "dom nivå 5"
+  },
+  {
+   "t": "10:41",
+   "typ": "hot",
+   "text": "Vole vill ha 30 timmar"
+  },
+  {
+   "t": "10:50",
+   "typ": "vändning",
+   "text": "Vole: stoppa den helt"
+  },
+  {
+   "t": "11:17",
+   "typ": "vändning",
+   "text": "sex månader dag"
+  },
+  {
+   "t": "11:47",
+   "typ": "hot",
+   "text": "kronan har fastnat – klockan går bakåt själv"
+  },
+  {
+   "t": "11:55",
+   "typ": "hot",
+   "text": "+1 min i timmen och stigande"
+  },
+  {
+   "t": "12:18",
+   "typ": "hot",
+   "text": "nivå 7: kroken"
+  },
+  {
+   "t": "12:36",
+   "typ": "vändning",
+   "text": "du lägger på"
+  },
+  {
+   "t": "12:44",
+   "typ": "hot",
+   "text": "ett plötsligt hopp?"
+  },
+  {
+   "t": "12:55",
+   "typ": "callback",
+   "text": "Priyas lapp och regel"
+  },
+  {
+   "t": "13:12",
+   "typ": "callback",
+   "text": "Abe och kritan"
+  },
+  {
+   "t": "13:21",
+   "typ": "lösning",
+   "text": "ett sandkorn i kugghjulet"
+  },
+  {
+   "t": "13:30",
+   "typ": "hot",
+   "text": "kugghjulet vill slå tillbaka i ett hopp"
+  },
+  {
+   "t": "13:40",
+   "typ": "gåta",
+   "text": "valet: ett hopp eller ett klick i taget"
+  },
+  {
+   "t": "13:51",
+   "typ": "vändning",
+   "text": "du håller emot"
+  },
+  {
+   "t": "14:01",
+   "typ": "callback",
+   "text": "en sekund i taget"
+  },
+  {
+   "t": "14:18",
+   "typ": "vändning",
+   "text": "negativ skottsekund"
+  },
+  {
+   "t": "14:26",
+   "typ": "callback",
+   "text": "LATE blir OK"
+  },
+  {
+   "t": "14:35",
+   "typ": "vändning",
+   "text": "en vanlig dag igen"
+  },
+  {
+   "t": "14:51",
+   "typ": "callback",
+   "text": "solnedgångsbilden till Vole"
+  },
+  {
+   "t": "15:00",
+   "typ": "callback",
+   "text": "Rosas replik"
+  },
+  {
+   "t": "15:10",
+   "typ": "callback",
+   "text": "DO NOT WIND"
+  },
+  {
+   "t": "15:38",
+   "typ": "gåta",
+   "text": "frågan till tittaren"
+  },
+  {
+   "t": "15:49",
+   "typ": "gåta",
+   "text": "Level 8: ???"
+  },
+  {
+   "t": "15:57",
+   "typ": "callback",
+   "text": "solnedgången"
+  }
+ ],
+ "scenes": [
+  {
+   "say": "It's 9 p.m. in Denver, the sun is still up, and today will last 30 hours.",
+   "visual": {
+    "type": "scene",
+    "location": "street_16th",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "worried",
+     "arms": "point",
+     "walk_to": 0.48
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "crowd_phones",
+      "x": 0.5,
+      "n": 40,
+      "expr": "shock"
+     }
+    ],
+    "threat": "sun_stuck",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "chapter": "The sun that won't set",
+   "sfx": "crowd"
+  },
+  {
+   "say": "Thousands of people on 16th Street are filming a sunset that never came.",
+   "visual": {
+    "type": "scene",
+    "location": "street_16th",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.48,
+     "expr": "shock",
+     "arms": "down",
+     "walk_to": 0.56
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "crowd_phones",
+      "x": 0.5,
+      "n": 60,
+      "expr": "shock"
+     }
+    ],
+    "threat": "sun_stuck",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "This is every level of slowing the planet, and the real science behind each one.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your watch is stuck. The day keeps stretching, 4 more minutes every hour.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.46,
+     "expr": "worried",
+     "arms": "hold",
+     "walk_to": 0.52
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "watch_big",
+      "x": 0.3,
+      "spin": "backward"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Earth makes one full turn every 23 hours, 56 minutes and 4.09 seconds",
+     "source": "Live Science, 'What would happen if Earth stopped spinning?' (2021)"
+    }
+   }
+  },
+  {
+   "say": "Grant Vole is offering you 2 million dollars to leave the planet exactly like this.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "doubt",
+     "arms": "hold",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "phone",
+      "x": 0.42,
+      "screen": "GRANT VOLE"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The ground at the equator moves about 1,037 miles per hour. In New York City, about 794.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1,037 MPH",
+    "text": "Earth's spin at the equator (794 mph in New York City)",
+    "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And across town, an 82-year-old man named Abe is on his knees beside a pendulum, drawing chalk lines on the floor.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.25,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.32
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.66,
+      "kneel": true
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     },
+     {
+      "type": "chalk_lines",
+      "x": 0.6
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Léon Foucault first showed Earth turning with a pendulum on February 3, 1851, in Paris",
+     "source": "APS News, 'February 3, 1851: Léon Foucault Demonstrates That Earth Rotates'"
+    }
+   }
+  },
+  {
+   "say": "So, what if Earth stopped spinning because of you?",
+   "visual": {
+    "type": "label",
+    "big": "SLOWER",
+    "text": "the planet's brake is on your wrist",
+    "bad": false,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Day 1 is a short gray afternoon in November, 31 stories up the side of a glass tower in downtown Denver.",
+   "visual": {
+    "type": "daycard",
+    "day": 1,
+    "sub": "the watch",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "chapter": "Level 1: One millisecond"
+  },
+  {
+   "say": "Level one is a single millisecond, and it's so small that nobody on Earth can feel it.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 1",
+    "text": "ONE MILLISECOND: nobody notices",
+    "bad": true,
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You wash windows for a living, and you get paid by the pane, so every minute of daylight is money in your pocket.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "reach",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "squeegee",
+      "x": 0.34
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "NASA: the 2004 Sumatra earthquake shifted the mean North Pole about 1 inch",
+     "source": "NASA JPL, 'NASA Details Earthquake Effects on the Earth' (2005)"
+    }
+   }
+  },
+  {
+   "say": "Rosa Delgado runs the crew. Every afternoon she taps her hard hat at the sky and says the same four words. The sun's the boss.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Rosa",
+      "outfit": "crew_boss",
+      "hardhat": true,
+      "hair": "bun",
+      "x": 0.68,
+      "say": "The sun's the boss."
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "At lunch you find an old brass wristwatch in a planter box on the 31st floor, and nobody in the building has ever seen it.",
+   "visual": {
+    "type": "scene",
+    "location": "office_floor",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "reach",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "planter",
+      "x": 0.45,
+      "watch": true
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Earth's spin energy was gained as the planet formed 4.6 billion years ago",
+     "source": "Scientific American, 'If I stop the world, will I melt with you?'"
+    }
+   }
+  },
+  {
+   "say": "Out of habit, you wind the crown backward one click. The second hand stutters, and for a moment the whole city seems to sigh.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.35,
+     "expr": "shock",
+     "arms": "hold",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "watch_big",
+      "x": 0.3,
+      "spin": "stutter"
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "A normal day is already a little longer than 24 hours. On average, it runs about two thousandths of a second over.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "+0.002 SEC",
+    "text": "an average day, compared with exactly 24 hours",
+    "source": "timeanddate.com, 'Leap seconds' (Dr. Bruce Warrington)",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Nothing looks different. Rosa is still yelling about streaks on the 30th floor, and the sun goes down right on schedule.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "reach"
+    },
+    "shot": "wide",
+    "sky": "sunset",
+    "friends": [
+     {
+      "name": "Rosa",
+      "outfit": "crew_boss",
+      "hardhat": true,
+      "hair": "bun",
+      "x": 0.7,
+      "arms": "point"
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "The extra bit adds up to one whole second in about 1.5 years",
+     "source": "timeanddate.com, 'Leap seconds'"
+    },
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Earth's speed really does wobble. The shortest day ever recorded was June 29, 2022, at 1.59 milliseconds under 24 hours.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "JUNE 29, 2022",
+    "text": "the shortest day on record: 1.59 ms under 24 hours",
+    "source": "Wikipedia, 'Leap second'",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Big events nudge it too. NASA calculated that the 2004 Sumatra earthquake shortened every day by 2.68 microseconds.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "2.68 µs",
+    "text": "shorter days after the 2004 Sumatra earthquake",
+    "source": "NASA JPL, 'NASA Details Earthquake Effects on the Earth' (2005)",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "NASA compared it to a spinning skater pulling her arms closer to her body. Move mass toward the middle, and the spin speeds up.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "THE SKATER",
+    "text": "pull the mass in, spin faster",
+    "source": "NASA JPL, 'NASA Details Earthquake Effects on the Earth' (2005)",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That night you test it at your kitchen table. One click backward, and an atomic clock app on your phone shows the day stretch a hair.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_kitchen",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.35,
+     "expr": "shock",
+     "arms": "hold",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.45,
+      "screen": "+0.001 s"
+     }
+    ],
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Even a dam could do it. NASA worked out that filling China's Three Gorges reservoir would make the day 0.06 microseconds longer.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "0.06 µs",
+    "text": "the Three Gorges reservoir, filled (40 cubic km of water)",
+    "source": "NASA JPL, 'NASA Details Earthquake Effects on the Earth' (2005)",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level one verdict: one click makes the day a millisecond longer, and not one person on the planet notices a thing.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_kitchen",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "hud": {
+     "day": "1 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "A filled Three Gorges reservoir would also shift the pole about 0.8 inch",
+     "source": "NASA JPL, 'NASA Details Earthquake Effects on the Earth' (2005)"
+    }
+   }
+  },
+  {
+   "say": "Day 3, and you get a little greedy. You give the crown a thousand clicks backward before your morning coffee.",
+   "visual": {
+    "type": "daycard",
+    "day": 3,
+    "sub": "the extra second",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "chapter": "Level 2: One second"
+  },
+  {
+   "say": "Level two is one extra second, and it turns out that the world's computers really hate surprises.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 2",
+    "text": "ONE SECOND: 86,401",
+    "bad": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "A day with a leap second really has 86,401 seconds in it, instead of the usual 86,400.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "86,401",
+    "text": "seconds in a day with a leap second",
+    "source": "timeanddate.com, 'Leap seconds'",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your neighbor Priya Shah runs the night computers at a hospital downtown, and at midnight her phone starts ringing nonstop.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "laptop",
+      "x": 0.68,
+      "arms": "head",
+      "say": "Every screen?"
+     }
+    ],
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Every clock in her building now disagrees with every other clock, and the medicine carts are waiting on screens that freeze.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "point",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "laptop",
+      "x": 0.64,
+      "expr": "shock"
+     }
+    ],
+    "props": [
+     {
+      "type": "server_racks",
+      "x": 0.8
+     }
+    ],
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The first real leap second was added on June 30, 1972. There have been 27 so far, and the last was December 31, 2016.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "27 LEAP SECONDS",
+    "text": "June 30, 1972 to December 31, 2016",
+    "source": "NIST, 'Leap Seconds'; Wikipedia, 'Leap second'",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "They exist to keep atomic clock time within 0.9 seconds of the time set by the Earth's actual spin.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "±0.9 SEC",
+    "text": "how close UTC is kept to Earth's spin (UT1)",
+    "source": "NIST, 'Leap Seconds'",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Extra seconds have caused real trouble. After the June 2012 leap second, Qantas, Mozilla and many Linux sites reported problems.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "JUNE 30, 2012",
+    "text": "Qantas, Mozilla and Linux sites hit by flawed software",
+    "source": "Wikipedia, 'Leap second'",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "By 3 a.m. Priya has it fixed. She tapes a note above her desk that just says 86,401, and draws an angry face next to it.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "laptop",
+      "x": 0.66
+     }
+    ],
+    "props": [
+     {
+      "type": "note",
+      "x": 0.5,
+      "text": "86,401 >:("
+     }
+    ],
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Over coffee in the hallway you tell her the truth. She thinks you're joking, but she still gives you one rule.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "coffee",
+      "x": 0.66
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "In 2015, Netflix, Amazon and Apple's Beats 1 also had interruptions around a leap second",
+     "source": "Wikipedia, 'Leap second'"
+    },
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "If you ever touch a clock again, change it one second at a time, slowly, and never all in one big jump.",
+   "visual": {
+    "type": "closeup",
+    "location": "apartment_hall",
+    "expr": "doubt",
+    "look": -1,
+    "thought": "ONE SECOND AT A TIME",
+    "bad": true,
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The world's timekeepers have had enough too. In 2022 they voted to drop leap seconds in or before 2035.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "BY 2035",
+    "text": "leap seconds to be dropped (CGPM, 2022)",
+    "source": "Wikipedia, 'Leap second'",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level two verdict: one second is too small to feel, but big enough to make an entire hospital panic for three hours.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "hud": {
+     "day": "3 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 S"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "UTC currently runs 37 seconds behind atomic time (TAI)",
+     "source": "NIST, 'Leap Seconds'"
+    }
+   }
+  },
+  {
+   "say": "Day 6, at the science museum, where your crew is washing the big glass dome over the main hall.",
+   "visual": {
+    "type": "daycard",
+    "day": 6,
+    "sub": "the pendulum",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   },
+   "chapter": "Level 3: Abe"
+  },
+  {
+   "say": "Level three is one whole minute, and a very old man with a box of chalk.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 3",
+    "text": "ONE MINUTE: Abe notices",
+    "bad": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "In the middle of the hall, a heavy brass ball swings on a long wire above a ring of little wooden pegs.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.2,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.3
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "In 1851 Foucault also hung a 28 kg ball inside the dome of the Panthéon in Paris",
+     "source": "Britannica, 'Foucault pendulum'"
+    }
+   }
+  },
+  {
+   "say": "Abe Lindqvist has volunteered here for 31 years. Every hour, he marks on the floor which peg the pendulum just knocked over.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62,
+      "kneel": true
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     },
+     {
+      "type": "chalk_lines",
+      "x": 0.6
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That's a real experiment. In 1851, Léon Foucault hung a 28 kilogram brass bob on a 67 meter wire to show the Earth turning.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1851",
+    "text": "a 28 kg bob on a 67 m wire, Paris",
+    "source": "APS News, 'February 3, 1851: Léon Foucault Demonstrates That Earth Rotates'",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The swing keeps its direction while the floor turns underneath it. In Paris, that swing turns about 270 degrees in a day.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "270°",
+    "text": "how far Foucault's pendulum turns in a day in Paris",
+    "source": "APS News, 'February 3, 1851: Léon Foucault Demonstrates That Earth Rotates'",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "At the North Pole it would turn a full circle in 24 hours. At the equator, it wouldn't turn at all.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "360° IN 24 H",
+    "text": "at the North Pole. At the equator: never.",
+    "source": "APS News, 'February 3, 1851: Léon Foucault Demonstrates That Earth Rotates'",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That morning, hanging from the dome, you click the crown back sixty thousand times, and the day gets one minute longer.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_dome",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "smirk",
+     "arms": "hold",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "watch_big",
+      "x": 0.3,
+      "spin": "backward"
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Down below, Abe stares at his chalk marks. The pegs are falling late. He checks his pocket watch twice, then looks straight up at you.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.6,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.4,
+      "expr": "doubt",
+      "look": "up"
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "At the equator the ground moves about 1,000 to 1,100 mph, depending on the source",
+     "source": "Space.com (2024); Live Science (2021)"
+    }
+   }
+  },
+  {
+   "say": "He doesn't say a word. He writes LATE on the floor in chalk, underlines it twice, and keeps on watching you.",
+   "visual": {
+    "type": "closeup",
+    "location": "museum_hall",
+    "expr": "worried",
+    "look": -1,
+    "thought": "LATE?",
+    "bad": true,
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "At lunch he sits next to you on the museum steps and says the floor doesn't lie. Something slowed down, and it was you.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_steps",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62,
+      "say": "The floor doesn't lie."
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "At the poles, the ground's spinning speed drops to zero",
+     "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)"
+    },
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Then Abe makes you a deal. He'll keep chalk marks every hour, and you'll tell him every time you touch that watch.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_steps",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.32,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62
+     }
+    ],
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level three verdict: one minute is the first change a careful person can measure, and Abe is the most careful person you know.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_steps",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "hud": {
+     "day": "6 / 30",
+     "a": [
+      "DAY",
+      "24 HRS +1 M"
+     ],
+     "b": [
+      "PAY",
+      "$0"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "In 100 years, each day is predicted to be about 0.004 seconds longer on average",
+     "source": "timeanddate.com, 'Leap seconds'"
+    }
+   }
+  },
+  {
+   "say": "Day 10, and you finally do the thing you wanted on day 1. You turn the crown back a full hour.",
+   "visual": {
+    "type": "daycard",
+    "day": 10,
+    "sub": "the 25-hour day",
+    "hud": {
+     "day": "10 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   },
+   "chapter": "Level 4: The 25-hour day"
+  },
+  {
+   "say": "Level four is one whole hour, and a day that lasts 25 of them.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 4",
+    "text": "25 HOURS: more daylight",
+    "bad": true,
+    "hud": {
+     "day": "10 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The afternoon stretches out like taffy, and you squeeze in another 40 windows before it gets dark.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.2,
+     "expr": "smirk",
+     "arms": "reach",
+     "walk_to": 0.6
+    },
+    "shot": "wide",
+    "sky": "long_afternoon",
+    "props": [
+     {
+      "type": "squeegee",
+      "x": 0.4
+     }
+    ],
+    "hud": {
+     "day": "10 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "The rudist clam lived for over nine years in a shallow tropical seabed",
+     "source": "AGU, 'Ancient shell shows days were half-hour shorter 70 million years ago' (2020)"
+    }
+   }
+  },
+  {
+   "say": "Rosa does the math on a napkin. At three dollars a pane, the crew makes 120 dollars more every day, and she's thrilled.",
+   "visual": {
+    "type": "scene",
+    "location": "crew_van",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Rosa",
+      "outfit": "crew_boss",
+      "hardhat": true,
+      "hair": "bun",
+      "x": 0.66,
+      "hold": "napkin",
+      "say": "$120 a day!"
+     }
+    ],
+    "hud": {
+     "day": "10 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$310"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Earth really did spin faster once. 70 million years ago, a day lasted only about 23 and a half hours.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "23.5 HOURS",
+    "text": "the length of a day 70 million years ago",
+    "source": "AGU, 'Ancient shell shows days were half-hour shorter 70 million years ago' (2020)",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Scientists got that from a fossil rudist clam that lived more than nine years and grew a thin layer every single day.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1 LAYER A DAY",
+    "text": "a fossil rudist clam, 9+ years of growth",
+    "source": "AGU, 'Ancient shell shows days were half-hour shorter 70 million years ago' (2020)",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Counting those layers gave 372 days in a year back then, compared with our 365.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "372 DAYS",
+    "text": "in a year, 70 million years ago",
+    "source": "AGU, 'Ancient shell shows days were half-hour shorter 70 million years ago' (2020)",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The Moon is the brake. It drifts away from Earth by about 3.82 centimeters, or one and a half inches, every year.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1.5 INCHES",
+    "text": "how far the Moon moves away each year",
+    "source": "AGU, 'Ancient shell shows days were half-hour shorter 70 million years ago' (2020)",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Tidal friction from the Moon alone would lengthen the day by about 2.3 milliseconds every century.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "2.3 MS",
+    "text": "per century, from tidal friction alone",
+    "source": "Wikipedia, 'Leap second'",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Then the news picks it up. Atomic clocks all over the world are drifting, and the experts on TV don't have a good answer.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment_kitchen",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "tv",
+      "x": 0.66,
+      "screen": "WHY ARE CLOCKS DRIFTING?"
+     }
+    ],
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "The length of a day has been increasing by about 1.4 to 1.7 ms per century",
+     "source": "Wikipedia, 'Leap second'"
+    }
+   }
+  },
+  {
+   "say": "The next morning Grant Vole calls. He owns Vole Freight, all 9,000 trucks, and he saw a museum photo of you on the dome.",
+   "visual": {
+    "type": "scene",
+    "location": "vole_office",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Grant Vole",
+      "outfit": "suit",
+      "hair": "slick",
+      "hold": "phone",
+      "x": 0.68,
+      "say": "Nice watch."
+     }
+    ],
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "His offer is simple. Keep the day at 25 hours forever, and he'll pay you a million dollars a year to do it.",
+   "visual": {
+    "type": "board",
+    "title": "VOLE'S OFFER",
+    "lines": [
+     "the day stays 25 hours",
+     "$1,000,000 a year",
+     "more hours to drive"
+    ],
+    "result": "deal?",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "His trucks would get an extra hour every day, and so would his drivers, whether they wanted one or not.",
+   "visual": {
+    "type": "scene",
+    "location": "vole_office",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.32,
+     "expr": "worried",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Grant Vole",
+      "outfit": "suit",
+      "hair": "slick",
+      "hold": "phone",
+      "x": 0.66,
+      "expr": "smirk"
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "The day has gotten longer because of tidal forces from the Moon",
+     "source": "xkcd What If?, 'Leap Seconds' (Randall Munroe)"
+    },
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "A million dollars a year. You've never even seen one hundred thousand in one place.",
+   "visual": {
+    "type": "closeup",
+    "location": "vole_office",
+    "expr": "doubt",
+    "look": -1,
+    "thought": "$1,000,000?",
+    "bad": true,
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level four verdict: one extra hour feels like a gift, and somebody already wants to buy it from you.",
+   "visual": {
+    "type": "scene",
+    "location": "crew_van",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "hud": {
+     "day": "12 / 30",
+     "a": [
+      "DAY",
+      "25 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Half a billion years ago, each day was about 22 hours long",
+     "source": "xkcd What If?, 'Leap Seconds' (Randall Munroe)"
+    }
+   }
+  },
+  {
+   "say": "Day 18. Vole sends a bonus check anyway, and you click the crown back two more hours, just to see what happens.",
+   "visual": {
+    "type": "daycard",
+    "day": 18,
+    "sub": "the wind",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   },
+   "chapter": "Level 5: The weather"
+  },
+  {
+   "say": "Level five is a 27-hour day, and the sky starts acting strange.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 5",
+    "text": "27 HOURS: the wind changes",
+    "bad": true,
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Up on the tower, the wind keeps coming from directions Rosa has never seen, so she ties every line on the platform twice.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "reach",
+     "walk_to": 0.4
+    },
+    "shot": "wide",
+    "sky": "odd_clouds",
+    "friends": [
+     {
+      "name": "Rosa",
+      "outfit": "crew_boss",
+      "hardhat": true,
+      "hair": "bun",
+      "x": 0.7,
+      "arms": "reach"
+     }
+    ],
+    "wind": 0.7,
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Hurricanes and typhoons are low-pressure systems",
+     "source": "NOAA NESDIS, 'What is the Coriolis Effect?'"
+    }
+   },
+   "sfx": "wind"
+  },
+  {
+   "say": "Earth's spin shapes the weather. Air and ocean currents are strongly influenced by the planet's rotation.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "SPIN = WEATHER",
+    "text": "air and ocean currents follow Earth's rotation",
+    "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The spin is also why big storms twist. They spin counterclockwise in the Northern Hemisphere and clockwise in the Southern.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "THE TWIST",
+    "text": "storms: counterclockwise north, clockwise south",
+    "source": "NOAA SciJinks, 'A Powerful Force'",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The reason is that different parts of the Earth move at different speeds, which bends the air flowing into a storm.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "DIFFERENT SPEEDS",
+    "text": "that deflection is what makes cyclones spin",
+    "source": "NOAA NESDIS, 'What is the Coriolis Effect?'",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The slow, gentle change in this story is made up. Everything on a card like this one is real.",
+   "visual": {
+    "type": "label",
+    "big": "MADE UP",
+    "text": "the watch is fiction. the cards are real.",
+    "bad": false,
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Abe calls you to the museum at closing time. His hourly chalk marks have turned into a long, crooked line across the floor.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62,
+      "arms": "point"
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     },
+     {
+      "type": "chalk_lines",
+      "x": 0.6,
+      "crooked": true
+     }
+    ],
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "If Earth stopped, the poles would likely be the least affected places",
+     "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)"
+    }
+   }
+  },
+  {
+   "say": "He points at the pegs and says, every hour you add, my pendulum gets lazier. And after the pendulum, it's the oceans.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.32,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62,
+      "say": "Then the oceans."
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     }
+    ],
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Earth is fatter at the equator than at the poles. NOAA says that bulge comes from the force of the planet's constant spin.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "THE BULGE",
+    "text": "Earth's spin makes it bulge at the equator",
+    "source": "NOAA Ocean Service, 'Is the Earth round?'",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "If the spin stopped, that would fade, and Astronomy magazine says ocean water would migrate rapidly toward the poles.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "OCEANS MOVE",
+    "text": "toward the poles, if Earth stopped spinning",
+    "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Priya shows you the hospital logs. Every system she runs now has to be corrected by hand, three times a day.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "laptop",
+      "x": 0.66,
+      "expr": "angry"
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Earth's magnetic field is linked to flowing liquid metal in the outer core",
+     "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)"
+    },
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level five verdict: every hour you add makes the sky, the sea and every clock on Earth work harder to keep up with you.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "hud": {
+     "day": "18 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Earth's magnetic field protects us from harmful radiation from space",
+     "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)"
+    }
+   }
+  },
+  {
+   "say": "Day 24, and Vole wants more. He sends a black car to bring you up to his office on the 50th floor.",
+   "visual": {
+    "type": "daycard",
+    "day": 24,
+    "sub": "the offer",
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   },
+   "chapter": "Level 6: Grant Vole"
+  },
+  {
+   "say": "Level six is Grant Vole, a man who thinks a planet is just a very big truck.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 6",
+    "text": "GRANT VOLE: wants it to stop",
+    "bad": true,
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "He wants a 30-hour day, and he has done the math. Every extra hour means more deliveries out of every driver.",
+   "visual": {
+    "type": "scene",
+    "location": "vole_office",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Grant Vole",
+      "outfit": "suit",
+      "hair": "slick",
+      "hold": "phone",
+      "x": 0.66,
+      "arms": "point"
+     }
+    ],
+    "props": [
+     {
+      "type": "chart",
+      "x": 0.8
+     }
+    ],
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "A sudden stop would likely trigger tsunamis and earthquakes",
+     "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)"
+    }
+   }
+  },
+  {
+   "say": "Then he leans in and asks what happens if you just stop it, because a day that never ends could be very good for business.",
+   "visual": {
+    "type": "scene",
+    "location": "vole_office",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.32,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Grant Vole",
+      "outfit": "suit",
+      "hair": "slick",
+      "hold": "phone",
+      "x": 0.62,
+      "expr": "smirk",
+      "say": "Just stop it."
+     }
+    ],
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Scientists have worked that out. If Earth stopped suddenly, the equator would get winds of more than 1,000 miles per hour.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "1,000+ MPH",
+    "text": "winds at the equator after a sudden stop",
+    "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)",
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The air, water and buildings would all keep moving at their old speed, and almost all structures would collapse at once.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "EVERYTHING KEEPS MOVING",
+    "text": "almost all structures would collapse at once",
+    "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)",
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "If it slowed down gradually instead, days and nights would keep stretching until each one lasted six months.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "6 MONTHS",
+    "text": "of day, then 6 months of night",
+    "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)",
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Stopping Earth would take a lot of energy. Scientific American puts its spin energy at about 200 octillion joules.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "2 × 10²⁹ J",
+    "text": "the energy stored in Earth's spin",
+    "source": "Scientific American, 'If I stop the world, will I melt with you?'",
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That's roughly a million times the energy of the asteroid that hit Earth 66 million years ago.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "×1,000,000",
+    "text": "the dinosaur-killing asteroid's energy",
+    "source": "Scientific American, 'If I stop the world, will I melt with you?'",
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You say no and walk out. In the elevator, you try to click the crown forward, back toward 24 hours.",
+   "visual": {
+    "type": "scene",
+    "location": "elevator",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "hold",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "watch_big",
+      "x": 0.3,
+      "spin": "none"
+     }
+    ],
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "A Falcon 9 rocket can generate about a trillion joules of energy",
+     "source": "Scientific American, 'If I stop the world, will I melt with you?'"
+    }
+   }
+  },
+  {
+   "say": "It won't move. The crown is jammed tight, and the second hand is creeping backward all on its own.",
+   "visual": {
+    "type": "closeup",
+    "location": "elevator",
+    "expr": "shock",
+    "look": -1,
+    "thought": "JAMMED",
+    "bad": true,
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "Abe works it out from his chalk marks. The day is getting about a minute longer every hour, and the rate keeps climbing.",
+   "visual": {
+    "type": "plan",
+    "title": "THE CHALK MARKS",
+    "items": [
+     {
+      "box": [
+       0.08,
+       0.2,
+       0.38,
+       0.14
+      ],
+      "label": "DAY 24: 27 HOURS"
+     },
+     {
+      "box": [
+       0.08,
+       0.38,
+       0.38,
+       0.14
+      ],
+      "label": "+1 MIN EVERY HOUR"
+     },
+     {
+      "box": [
+       0.08,
+       0.56,
+       0.38,
+       0.14
+      ],
+      "label": "DAY 30: 30 HOURS"
+     },
+     {
+      "box": [
+       0.08,
+       0.74,
+       0.38,
+       0.14
+      ],
+      "label": "CROWN: JAMMED",
+      "hot": true
+     }
+    ],
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level six verdict: a sudden stop would wreck the planet, and now the watch is slowing it down without you.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_steps",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.66,
+      "expr": "worried"
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "There is no natural force that would stop the Earth from spinning",
+     "source": "Live Science (2021)"
+    },
+    "hud": {
+     "day": "24 / 30",
+     "a": [
+      "DAY",
+      "27 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Day 30, 9 p.m., and the sun still hasn't set over 16th Street.",
+   "visual": {
+    "type": "daycard",
+    "day": 30,
+    "sub": "the long day",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   },
+   "chapter": "Level 7: The longest day"
+  },
+  {
+   "say": "Level seven is the moment you saw at the very start of this video, and the watch is still turning backward.",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 7",
+    "text": "30 HOURS: and growing",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Down on the street, thousands of people are filming the sky. Up on your tower, Rosa holds the platform steady in the wind.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "hold",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "friends": [
+     {
+      "name": "Rosa",
+      "outfit": "crew_boss",
+      "hardhat": true,
+      "hair": "bun",
+      "x": 0.7
+     }
+    ],
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     }
+    ],
+    "wind": 0.5,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Earth will never actually stop rotating",
+     "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)"
+    }
+   }
+  },
+  {
+   "say": "Vole calls again. Two million dollars to stop at 30 hours. You hang up, because this was never his day to sell.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.34,
+     "expr": "neutral",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "phone",
+      "x": 0.4,
+      "screen": "GRANT VOLE"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You could smash the watch, but you have no idea what one sudden jump would do to a planet that has been slowing for a month.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.36,
+     "expr": "worried",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "stuck_evening",
+    "props": [
+     {
+      "type": "sun_stuck",
+      "x": 0.7,
+      "y": 0.28,
+      "clock": "9:00 PM"
+     },
+     {
+      "type": "watch_big",
+      "x": 0.3,
+      "spin": "backward"
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "A sudden stop: winds of more than 1,000 mph at the equator",
+     "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)"
+    },
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Then you remember the note above Priya's desk. 86,401. Change it one second at a time, and never in one big jump.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "props": [
+     {
+      "type": "note",
+      "x": 0.5,
+      "text": "86,401 >:("
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You call her, and she drives to the museum with a laptop and a tiny screwdriver from the hospital's repair kit.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.2,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "screwdriver",
+      "x": 0.8,
+      "walk_to": 0.6
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Abe is already there, on his knees beside the pendulum, with a fresh box of chalk and his old pocket watch.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62,
+      "kneel": true
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     },
+     {
+      "type": "chalk_lines",
+      "x": 0.6,
+      "crooked": true
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "In 1851, Foucault's pendulum showed the Earth turning, in Paris",
+     "source": "APS News, 'February 3, 1851: Léon Foucault Demonstrates That Earth Rotates'"
+    },
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Priya opens the back of the watch. The crown isn't broken at all. A single grain of grit is wedged against one gear.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "shock",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "screwdriver",
+      "x": 0.56
+     }
+    ],
+    "props": [
+     {
+      "type": "watch_open",
+      "x": 0.5,
+      "grit": true
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "She can pull it out, but then the gear will snap forward to 24 hours all at once, unless someone holds it back by hand.",
+   "visual": {
+    "type": "closeup",
+    "location": "museum_hall",
+    "expr": "worried",
+    "look": -1,
+    "thought": "ONE JUMP?",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "The 28th CGPM, set for 2026, is expected to review the new leap-second limit",
+     "source": "Wikipedia, 'Leap second'"
+    }
+   }
+  },
+  {
+   "say": "So that's the choice. Let the gear snap back in one jump, or hold it and let it creep forward one click at a time, all night.",
+   "visual": {
+    "type": "board",
+    "title": "THE CHOICE",
+    "lines": [
+     "A: one jump back to 24 hours",
+     "B: one click at a time, all night"
+    ],
+    "result": "Priya's rule?",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You hold the crown with your thumbnail. Priya pulls the grit free. The gear shoves hard against your thumb, and you don't let go.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.42,
+     "expr": "worried",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "tweezers",
+      "x": 0.6
+     }
+    ],
+    "props": [
+     {
+      "type": "watch_open",
+      "x": 0.5
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Russia asked to push the end of leap seconds back to 2040",
+     "source": "Wikipedia, 'Leap second'"
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "One click. Abe calls out the chalk mark. One more click, and he calls it again. You keep that rhythm for nine hours.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.66,
+      "kneel": true,
+      "say": "Mark."
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "30 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Earth's spin has been speeding up lately. In 2020 the planet had the 28 shortest days measured since 1960.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "28 SHORT DAYS",
+    "text": "in 2020, the most since 1960",
+    "source": "Wikipedia, 'Leap second'",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "26 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "That speed-up is why Astronomy magazine says a leap second might even have to be subtracted, possibly in 2029.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "2029?",
+    "text": "a negative leap second has never happened",
+    "source": "Astronomy magazine, 'What happens if Earth stops rotating?' (Feb 2026)",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "26 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Around 4 a.m. the pegs start falling on time again. Abe stops writing LATE. He writes OK, and then he writes it again.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62,
+      "kneel": true
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     },
+     {
+      "type": "chalk_lines",
+      "x": 0.6,
+      "text": "OK"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "26 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "At sunrise Priya checks the hospital clocks. 86,400 seconds. A normal day, give or take a couple of milliseconds.",
+   "visual": {
+    "type": "scene",
+    "location": "hospital_it",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Priya",
+      "outfit": "hospital_it",
+      "lanyard": true,
+      "hair": "long",
+      "hold": "laptop",
+      "x": 0.66,
+      "say": "86,400."
+     }
+    ],
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "An average day runs about 0.002 seconds over 24 hours",
+     "source": "timeanddate.com, 'Leap seconds'"
+    },
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The sun comes up over the Rocky Mountains right where it should, and down on 16th Street, people finally go to bed.",
+   "visual": {
+    "type": "scene",
+    "location": "street_16th",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "smirk",
+     "arms": "wave",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "sunrise",
+    "props": [
+     {
+      "type": "crowd_phones",
+      "x": 0.5,
+      "n": 10,
+      "expr": "sleepy"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "NASA: the 2004 quake made Earth about one part in 10 billion less flattened",
+     "source": "NASA JPL, 'NASA Details Earthquake Effects on the Earth' (2005)"
+    }
+   }
+  },
+  {
+   "say": "Vole sends one last message. He says you just threw away two million dollars. You send him a photo of the sunrise.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "hold"
+    },
+    "shot": "wide",
+    "sky": "sunrise",
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.4,
+      "screen": "SUNRISE.JPG"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   },
+   "chapter": "The choice"
+  },
+  {
+   "say": "Rosa taps her hard hat at the sky, exactly the way she did on day 1, and says it again. The sun's the boss.",
+   "visual": {
+    "type": "scene",
+    "location": "tower_platform",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Rosa",
+      "outfit": "crew_boss",
+      "hardhat": true,
+      "hair": "bun",
+      "x": 0.68,
+      "say": "The sun's the boss."
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    },
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "It takes about a decade for Earth's core to sync up with its crust",
+     "source": "xkcd What If?, 'Leap Seconds' (Randall Munroe)"
+    }
+   }
+  },
+  {
+   "say": "You give the watch to Abe. He locks it in the glass case next to the pendulum, with a little card that says do not wind.",
+   "visual": {
+    "type": "scene",
+    "location": "museum_hall",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "shot": "wide",
+    "sky": "day",
+    "friends": [
+     {
+      "name": "Abe",
+      "outfit": "cardigan",
+      "age": "old",
+      "hat": "flat_cap",
+      "hold": "chalk",
+      "x": 0.62
+     }
+    ],
+    "props": [
+     {
+      "type": "pendulum",
+      "x": 0.6,
+      "pegs": true
+     },
+     {
+      "type": "glass_case",
+      "x": 0.8,
+      "card": "DO NOT WIND"
+     }
+    ],
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Rosa, Priya, Abe, Grant Vole and the watch are made up. The spinning Earth, the clocks and the clam are all real.",
+   "visual": {
+    "type": "label",
+    "big": "MADE UP",
+    "text": "the people and the watch are fiction. the science is real.",
+    "bad": false,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And one more real one. Spinning in an office chair really does change Earth's rotation, just not enough to matter.",
+   "visual": {
+    "type": "real",
+    "head": "THAT'S REAL",
+    "big": "YOUR CHAIR",
+    "text": "temporarily alters Earth's spin, not enough to matter",
+    "source": "xkcd What If?, 'Leap Seconds' (Randall Munroe)",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Your turn. On day 30, would you let the gear snap back in one jump, or hold it all night, one click at a time? A or B.",
+   "visual": {
+    "type": "board",
+    "title": "WHAT WOULD YOU DO?",
+    "lines": [
+     "A: one jump",
+     "B: one click at a time"
+    ],
+    "result": "comment A or B",
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Level 8 is coming next. What if you were the last man on earth, and every clock still kept running?",
+   "visual": {
+    "type": "label",
+    "big": "LEVEL 8",
+    "text": "???",
+    "bad": true,
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Until then, watch a sunset tonight. Every one of them is the Earth turning at about a thousand miles an hour, right on time.",
+   "visual": {
+    "type": "scene",
+    "location": "street_16th",
+    "hero": {
+     "outfit": "window_washer",
+     "harness": true,
+     "hold": "brass_watch",
+     "x": 0.4,
+     "expr": "smirk",
+     "arms": "wave",
+     "walk_to": 0.46
+    },
+    "shot": "wide",
+    "sky": "sunset",
+    "fact_strip": {
+     "head": "THAT'S REAL",
+     "text": "Earth spins at around 1,000 mph at the equator",
+     "source": "Space.com, 'What would happen if Earth stopped spinning?' (2024)"
+    },
+    "hud": {
+     "day": "30 / 30",
+     "a": [
+      "DAY",
+      "24 HRS"
+     ],
+     "b": [
+      "PAY",
+      "$1,440"
+     ]
+    }
+   }
+  }
+ ],
+ "seo": {
+  "title": "What If Earth Stopped Spinning Because of You?",
+  "title_b": "What If You Could Slow Down the Earth? (Every Level)",
+  "sokfras": "what if earth stopped spinning",
+  "sokfras_kalla": "YouTubes sökförslag: 'what would happen if the earth stopped spinning' är förslag nr 2 för prefixet 'what would happen if' (trend/tli.json, GitHub Action niche-trends 23 nov 09:26 UTC) och 'what if earth stopped spinning' finns i TREND_2026-11-22.md (TLI) och ägarens lista 22 nov. Ingen video med exakt vår titel vid webbsök 23 nov.",
+  "hook": "It's 9 p.m. in Denver, the sun is still up, and today will last 30 hours. Thousands of people on 16th Street are filming a sunset that never came.",
+  "summary": "What if Earth started spinning slower, and you were the reason? You wash windows on a glass tower in downtown Denver, and one gray afternoon in November you find an old brass watch in a planter box. Turn the crown backward and the whole planet slows down. Level by level, you add a millisecond, then a second that crashes a hospital's computers, then a minute that an 82-year-old museum volunteer catches with a Foucault pendulum and a piece of chalk, then a whole hour. A freight boss offers you a million dollars a year to keep the 25-hour day. On day 30 the crown is jammed, the sun is still up at 9 p.m., and the day is getting longer every hour.\n\nThis is a fictional What If story. The watch and every character (Rosa, Priya, Abe, Grant Vole) are made up. The facts on screen are real:\n- The ground at the equator moves about 1,037 mph (794 mph in New York City); a sudden stop would mean winds over 1,000 mph and almost all structures collapsing; ocean water would migrate toward the poles; Earth will never actually stop rotating (Astronomy magazine, 2026)\n- A gradual stop would stretch day and night to six months each; air and ocean currents follow Earth's rotation (Space.com, 2024)\n- One rotation takes 23 h 56 min 4.09 s; no natural force would stop Earth spinning (Live Science, 2021)\n- Earth's spin energy is about 2 × 10^29 joules, about a million times the dinosaur-killing asteroid (Scientific American)\n- The 2004 Sumatra earthquake shortened the day by 2.68 microseconds; a filled Three Gorges reservoir would lengthen it by 0.06 microseconds (NASA JPL)\n- 27 leap seconds since June 30, 1972, the last on December 31, 2016; UTC is kept within 0.9 s of Earth's spin and is 37 s behind TAI (NIST, Wikipedia)\n- The June 2012 leap second caused problems at Qantas, Mozilla and many Linux sites; leap seconds are to be dropped in or before 2035 (Wikipedia)\n- The shortest day on record was June 29, 2022, 1.59 ms under 24 hours; an average day runs about 0.002 s over (Wikipedia, timeanddate.com)\n- Foucault's 1851 pendulum: 28 kg bob, 67 m wire, about 270° a day in Paris (APS News, Britannica)\n- Storms spin counterclockwise in the Northern Hemisphere because different parts of Earth move at different speeds (NOAA)\n- 70 million years ago a day was about 23.5 hours and a year had 372 days, from a fossil rudist clam; the Moon recedes 3.82 cm a year (AGU, 2020)\n- Earth bulges at the equator because of its spin (NOAA Ocean Service)\n- Spinning in an office chair changes Earth's rotation, but not enough to matter (xkcd What If?)",
+  "description": "What if Earth started spinning slower, and you were the reason? You wash windows on a glass tower in downtown Denver, and one gray afternoon in November you find an old brass watch in a planter box. Turn the crown backward and the whole planet slows down. Level by level, you add a millisecond, then a second that crashes a hospital's computers, then a minute that an 82-year-old museum volunteer catches with a Foucault pendulum and a piece of chalk, then a whole hour. A freight boss offers you a million dollars a year to keep the 25-hour day. On day 30 the crown is jammed, the sun is still up at 9 p.m., and the day is getting longer every hour.\n\nThis is a fictional What If story. The watch and every character (Rosa, Priya, Abe, Grant Vole) are made up. The facts on screen are real:\n- The ground at the equator moves about 1,037 mph (794 mph in New York City); a sudden stop would mean winds over 1,000 mph and almost all structures collapsing; ocean water would migrate toward the poles; Earth will never actually stop rotating (Astronomy magazine, 2026)\n- A gradual stop would stretch day and night to six months each; air and ocean currents follow Earth's rotation (Space.com, 2024)\n- One rotation takes 23 h 56 min 4.09 s; no natural force would stop Earth spinning (Live Science, 2021)\n- Earth's spin energy is about 2 × 10^29 joules, about a million times the dinosaur-killing asteroid (Scientific American)\n- The 2004 Sumatra earthquake shortened the day by 2.68 microseconds; a filled Three Gorges reservoir would lengthen it by 0.06 microseconds (NASA JPL)\n- 27 leap seconds since June 30, 1972, the last on December 31, 2016; UTC is kept within 0.9 s of Earth's spin and is 37 s behind TAI (NIST, Wikipedia)\n- The June 2012 leap second caused problems at Qantas, Mozilla and many Linux sites; leap seconds are to be dropped in or before 2035 (Wikipedia)\n- The shortest day on record was June 29, 2022, 1.59 ms under 24 hours; an average day runs about 0.002 s over (Wikipedia, timeanddate.com)\n- Foucault's 1851 pendulum: 28 kg bob, 67 m wire, about 270° a day in Paris (APS News, Britannica)\n- Storms spin counterclockwise in the Northern Hemisphere because different parts of Earth move at different speeds (NOAA)\n- 70 million years ago a day was about 23.5 hours and a year had 372 days, from a fossil rudist clam; the Moon recedes 3.82 cm a year (AGU, 2020)\n- Earth bulges at the equator because of its spin (NOAA Ocean Service)\n- Spinning in an office chair changes Earth's rotation, but not enough to matter (xkcd What If?)",
+  "disclaimer": "This is a fictional What If story. The watch and all characters are made up; the Earth, time and weather facts are real and sourced below.",
+  "chapters": "00:00 The sun that won't set · Level 1: One millisecond · Level 2: One second · Level 3: Abe · Level 4: The 25-hour day · Level 5: The weather · Level 6: Grant Vole · Level 7: The longest day · The choice",
+  "keywords": [
+   "what if earth stopped spinning",
+   "what would happen if the earth stopped spinning",
+   "what if",
+   "earth rotation",
+   "leap second",
+   "foucault pendulum",
+   "length of day",
+   "what if story",
+   "what if animation",
+   "stickman story",
+   "the long if",
+   "slow down the earth",
+   "coriolis effect",
+   "longest day"
+  ],
+  "sources": [
+   "https://www.astronomy.com/science/what-happens-if-earth-stops-rotating/",
+   "https://www.space.com/what-would-happen-if-earth-stopped-spinning",
+   "https://www.livescience.com/what-if-earth-stopped-spinning.html",
+   "https://www.scientificamerican.com/article/if-i-stop-the-world-will-i-melt-with-you/",
+   "https://what-if.xkcd.com/26",
+   "https://www.jpl.nasa.gov/news/nasa-details-earthquake-effects-on-the-earth/",
+   "https://www.nist.gov/pml/time-and-frequency-division/time-realization/leap-seconds",
+   "https://en.wikipedia.org/wiki/Leap_second",
+   "https://www.timeanddate.com/time/leapseconds.html",
+   "https://aps.org/apsnews/2007/02/foucault-earth-rotates",
+   "https://www.britannica.com/science/Foucault-pendulum",
+   "https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/what-the-coriolis-effect",
+   "https://scijinks.gov/coriolis",
+   "https://news.agu.org/press-release/ancient-shell-shows-days-were-half-hour-shorter-70-million-years-ago/",
+   "https://oceanservice.noaa.gov/facts/earth-round.html"
+  ],
+  "question": "On day 30, would you let the gear snap back in one jump, or hold it all night, one click at a time? A or B.",
+  "pinned_comment": "A or B: let the watch snap the planet back to 24 hours in one jump, or hold it all night, one click at a time? Level 8 is coming: what if you were the last man on earth?",
+  "hashtags": [
+   "#whatif",
+   "#story",
+   "#animation"
+  ],
+  "playlist": "What If You Could...? Hypothetical Scenarios"
+ },
+ "thumb": {
+  "kind": "tli",
+  "script": "huvudchatten bygger (thumbs_v4_mall.py-stil; nya platserna street_16th + tower_platform, rekvisita sun_stuck med gatuklocka 9:00 PM)",
+  "klickfraga": "Klockan är 21 och solen vägrar gå ner – han har saktat ner hela jorden med en armbandsklocka och nu sitter kronan fast. Hur får han tillbaka 24 timmar utan att förstöra planeten?",
+  "hot_i_bild": "En jättestor, lågt hängande sol över Denvers skyline som tar ~40 % av bilden (övre högra), och under den en gatuklocka som tydligt visar 9:00 PM – solen som inte går ner är hotet; folkmassan på gatan filmar den med uppspärrade ögon.",
+  "skiljer_sig": "Förra TLI (tli-2026-11-22) var en horisontell vintergata med en sladdande lastbil i vänster–mitten och blåaktig frusen ton. Nu: varm guld/orange kvällston, hotet (solen) uppe till höger, hjälten högt uppe på en fönsterputsarplattform till vänster med klockan i handen, gul text nere till vänster. Ingen bil, ingen snö.",
+  "jamfor_ark": "chk/jamfor-tli-2026-11-23.png",
+  "forsta_scen_matchar": "Scen 1 (0–7 s) är A-miniatyren i rörelse: 16th Street i varm kvällston, solen hänger kvar över skylinen (sun_stuck), gatuklockan visar 9:00 PM, folkmassan filmar, hjälten går framåt och pekar. Repliken säger '9 p.m.' och '30 hours' = miniatyrens text och HUD 'DAY 30 HRS'.",
+  "variants": [
+   {
+    "id": "A",
+    "layout": "hotet uppe till höger / hjälten vänster på plattformen / text nere till vänster",
+    "big": "30 HOURS",
+    "label": "THE SUN WON'T SET",
+    "bild": "Jättesol över skylinen kl 21 (gatuklocka 9:00 PM); hjälten (svart stickman, gröna ögon, fönsterputsarsele) lugn på plattformen med mässingsklockan uppsträckt; Rosa och två i folkmassan med uppspärrade ögon. Gult '30 HOURS' + röd etikett 'THE SUN WON'T SET'."
+   },
+   {
+    "id": "B",
+    "layout": "fråga, närbild på klockan",
+    "big": "WHY WON'T IT SET?",
+    "label": "",
+    "bild": "Mässingsklockan stor i förgrunden med sekundvisaren som går bakåt; solen speglad i glaset; liten stad i bakgrunden."
+   },
+   {
+    "id": "C",
+    "layout": "HUD-siffra, split",
+    "big": "DAY: 30 HRS",
+    "label": "AND GROWING",
+    "bild": "Vänster: stort HUD-instrument 'DAY 30:00:00'. Höger: Foucault-pendeln med Abes kritstreck 'LATE' på golvet (gåtan som löser klimax)."
+   }
+  ]
+ },
+ "forbattring": {
+  "forra_videon": "tli-2026-11-22 'What If You Could Stop Time While Holding Your Breath?' (MANUS KLART 22/11 i GitHub-grenen manus-tli-2026-11-22; publiceringsstatus saknas) och senast publicerade TLI OOBnQjk7zV0 '1850' – ~0 exponeringar (TITTARTID_REGLER PRIORITET 23 NOV: TLI ~0 på 28 d).",
+  "matt_forra": "TLI 28 d: ~0 exponeringar (TITTARTID_ANALYS_2026-11-23 via TITTARTID_REGLER). Ingen tittarkurva ännu.",
+  "problem": "Distribution: kanalen får inga exponeringar. Titlarna har varit superkrafter som få söker exakt; 22/11 var första sökfras-titeln. Innehåll: risk för för få nya verkliga fakta per minut.",
+  "andring": "TITTARTID_REGLER: TRENDORDER (titeln innehåller 'what if earth stopped spinning', förslag nr 2 under 'what would happen if' 23/11 – och utlovad i slutet av 22/11-videon), INNEHÅLLSORDER (DUI-mallen på What if: 7 numrerade nivåer med dom, 32 THAT'S REAL-kort + 32 faktaremsor, största lucka 29 s, snitt 21 ord/replik, 0 repliker < 6 ord), FORMATORDER/TLI-raden (sökfras-titel) och DISTRIBUTIONSORDER 2 (Short).",
+  "forvantat": "Exponeringar via sök ('what if earth stopped spinning' är en evig sökfras) och via Shorten (mål ≥ 300 första veckan), CTR ≥ 3 %, ≥ 55 % kvar vid 0:30 och ≥ 35 % vid 2:00.",
+  "referens": "DOOMPERK 'What If You Had Infinite IQ in PRISON?' (X_wiaDTxSho, 894 932 visningar på 8 dagar, läst 17 nov) + trenden 23 nov (trend/tli.json): 'What If You Were Born as Ghost?' 3 658 052 (vecka), What1fy 'What If U Could Pick Your Speed Every Morning?' 576 969 (vecka), Jeremy Bearimy 'What IF You Were HUNTED by The FBI, But Had Infinite IQ?' 448 595 (vecka).",
+  "vi_slår_den_med": "Sökfrasen är evig (inte en veckotrend), kraften har en mätare tittaren känner igen (solnedgången, klockan), varje nivå lär ut en verklig sak om jordens rotation med källa, och klimax löses av två planterade saker (Priyas regel 'en sekund i taget' + lappen 86,401 – nivå 2; Abes kritmärken vid Foucault-pendeln – nivå 3) i stället för av kraften.",
+  "trend": "Trend 23 nov (GitHub Action niche-trends, trend/tli.json 09:26 UTC): sökförslag för 'what would happen if' → 'what would happen if the earth stopped spinning' (nr 2), 'what would happen if you could freeze time'. Veckans största: 'What If You Were Born as Ghost?' 3 658 052, What1fy 'What If U Could Pick Your Speed Every Morning?' 576 969 (personlig kraft som ändrar fysiken = vår vinkel), Jeremy Bearimy 'Infinite IQ' 448 595. TREND_2026-11-22 (TLI) listar 'what if earth stopped spinning'. TREND_2026-11-23.md finns inte i projektet (projektet fullt) – analysen gjordes ur repots trend-data."
+ },
+ "standard_check": {
+  "miniatyr": "A: '30 HOURS' i stor gul text (kraftens följd som siffra, TLI_STANDARD 6), lugn hjälte med klockan, chockade bifigurer, ljus varm miljö. B = fråga, C = HUD 'DAY: 30 HRS'.",
+  "krok": "0 s hotet (solen uppe kl 21, 30 timmar), 6 s vändningen (solnedgången som aldrig kom), 11 s löftet i klartext ('every level of slowing the planet, and the real science behind each one'), 18 s slutlöfte + klocka (kronan fast, +4 min i timmen), 24 s gåta (Vole $2 M), 30 s första faktakortet (1 037 mph), 37 s gåta (Abe och kritan), 45 s titelfrågan. Ingen presentation före första händelsen.",
+  "nivåer": "LEVEL 1 One millisecond · 2 One second (Priya) · 3 One minute (Abe) · 4 The 25-hour day · 5 The weather · 6 Grant Vole · 7 The longest day · Level 8: ??? (last man on earth). Dom efter varje nivå.",
+  "verkligt_faktum_per_nivå": "1: dygnslängd +0,002 s, rekorddagen 2022, Sumatra 2,68 µs + skridskoåkaren, Three Gorges 0,06 µs · 2: 86 401, 27 skottsekunder 1972–2016, ±0,9 s, 2012-felen, 2035 · 3: Foucault 1851 (28 kg, 67 m, 270°, polerna) · 4: 23,5 h för 70 Ma, 372 dagar, rudistmusslan, Månen 3,82 cm/år, 2,3 ms/sekel · 5: rotation styr strömmar, Coriolis, ekvatorsvällningen, haven mot polerna · 6: 1 000 mph vindar, kollaps, 6 månaders dag, 2×10^29 J, ×1 000 000 asteroiden · 7: 2020 28 korta dagar, negativ skottsekund 2029? · Slut: kontorsstolen (xkcd).",
+  "planteringar_som_betalas": "1) Priyas regel 'one second at a time, never one big jump' (nivå 2) → valet i klimax · 2) lappen 86,401 (nivå 2) → 86,400 vid soluppgången · 3) Abes kritmärken varje timme (nivå 3) → han ropar ut varje klick, LATE blir OK · 4) Rosas 'The sun's the boss' (nivå 1) → sista repliken · 5) Volés erbjudande $1 M/år (nivå 4) → $2 M i klimax, du skickar soluppgångsbilden · 6) Sudden stop = 1 000 mph (nivå 6) → därför kan du inte krossa klockan · 7) klockan i blomlådan (nivå 1) → DO NOT WIND i montern.",
+  "känsloslag": "Abe skriver LATE och tittar upp på dig, Priyas arga ansikte på lappen, nio timmar med tummen mot kugghjulet, LATE blir OK.",
+  "moraliskt_val": "Mitt i: Voles miljon per år för att behålla 25-timmarsdygnet. Klimax: ett snabbt hopp tillbaka (risk för planeten) eller en sekund i taget hela natten; och $2 M mot en vanlig dag. Speglar kroken.",
+  "slut": "Fråga A/B till tittaren + fäst kommentar, 'Level 8: ???', ett verkligt fenomen att se i kväll (solnedgången = jorden som snurrar) och fiktionskortet.",
+  "HUD": "DAY x / 30 · DAY (24 HRS → +1 S → +1 M → 25 → 27 → 30 → 26 → 24 HRS) · PAY ($0 → $310 → $1 440) på varje bild.",
+  "bilder": "Wide första 30 s (0 medium), 5 närbilder (första vid ~6:12), 3 tavlor, 1 ritning, 32 THAT'S REAL-kort, scene-andel 49%. Tystnad (silence) vid klicket dag 1, kronan som fastnar och när du håller emot.",
+  "innehall": "Snitt 20.7 ord per say; 0 say under 6 ord; faktaskyltar på skärmen: 32 THAT'S REAL-kort + 32 faktaremsor = 64; största lucka mellan två faktaskyltar 29.0 s. Löftet i klartext vid 0:11. Högst ett icke-progressivt moment per nivå (Rosas replik, Priyas arga lapp, Abes LATE, taffy-eftermiddagen, –, –, –).",
+  "längd": "2380 ord ≈ 16.1 min (TLI_STANDARD 14–18 min; granskning 2 000–2 800 ord)."
+ },
+ "experiment": {
+  "variable": "evig sökfras ('what if earth stopped spinning') i stället för veckotrend-kraft",
+  "metric": "exponeringar från sök/Shorts och 0:30-andel mot tli-2026-11-22",
+  "decide_at": "48 h"
+ },
+ "notes": {
+  "påhittat": "Klockan och kraften (kronan saktar ner jorden), alla personer (Rosa Delgado, Priya Shah, Abe Lindqvist, Grant Vole och Vole Freight), museet (ospecificerat 'science museum' i Denver), alla belopp ($3/ruta, $120/dag, $1 M/år, $2 M), klockslag och dygnslängder i berättelsen (25/27/30 timmar, +1/+4 min i timmen) och att väder och hav följer med långsamt (sägs i MADE UP-kortet). 16th Street och Denver är verkliga platser men inget som händer där är verkligt.",
+  "verkligt": "Bara THAT'S REAL-korten och faktaremsorna. Verkliga personer (Léon Foucault, Dr. Bruce Warrington, Randall Munroe) nämns bara på faktakort/källrader, aldrig i påhittade scener.",
+  "research": "Ingen Chrome i molnkörningen → youtube-transcriber gick inte; vidIQ användes inte (krediter återställs 23 nov 19:29 UTC, efter körningen). Topplistan kommer från GitHub Action niche-trends (trend/tli.json i repot, 23 nov 09:26 UTC). Inget transkript i dag – krokens 0/5/10/20/30 s är från TLI_STANDARD (DOOMPERK, läst 17 nov): 0 s premiss + orättvisa, ~5 s kraften visas, ~10 s vändningen, ~20 s en regel som låter som visdom, ~30 s målet + tidslinjelöften. Källor öppnade 23 nov via web-fetch (verbatimcitat): Astronomy.com (feb 2026), Space.com (2024), Live Science (2021, via space.com-URL), Scientific American, xkcd What If 26, NASA JPL (2005), NIST Leap Seconds (ändrad 28 okt 2026), Wikipedia Leap second, timeanddate.com, APS News 2007, Britannica (delvis), NOAA NESDIS, NOAA SciJinks, AGU 2020, NOAA Ocean Service. Wikipedia-sidorna för Foucault/Coriolis/geostationär bana nekades (behörighet) – inga fakta därifrån. Källorna anger ekvatorhastigheten olika (1 000 / 1 037 / 1 100 mph) – vi använder Astronomy.com:s 1 037 och anger spannet på en remsa.",
+  "krokvarianter": [
+   "A (VALD – visuell, fungerar utan ljud, matchar miniatyren): 'It's 9 p.m. in Denver, the sun is still up, and today is going to last 30 hours.' + filmande folkmassa.",
+   "B (kraften först): 'Every time you turn this watch backward, the whole planet spins a little slower. Tonight the crown is stuck.'",
+   "C (tittaren deltar): 'Look at the time on your screen. Now imagine the sun is still up, and it's going to stay up for another 9 hours.'"
+  ],
+  "hook_writer": "social-media-skills:hook-writer laddades inte (tidsgräns mot render 13:47); tre varianter skrevs enligt TLI_STANDARD 2 och A valdes för att den matchar miniatyren och syns utan ljud.",
+  "humanizer": "humanizer:humanizer laddades och tillämpades på alla say-repliker (inga tankstreck, inga 'not X but Y', inga upprepande slutrepliker, inga AI-ord); automatisk sökning efter tankstreck/actually/quietly/crucial/key/Here's gav 0 träffar. Siffror, källor och fakta oförändrade.",
+  "jamfor": "monetisering.py kördes mot tli-2026-11-22 (lång + Short, från GitHub-grenen). tli-2026-11-20/-21 lästes ur projektet men skrevs inte ut lokalt; de är andra berättelser med annan bildföljd (många närbilder/daycards) – render-körningen kör spärren igen mot alla.",
+  "motor": "Nya platser som huvudchatten MÅSTE bygga (t.ex. tli1123.py, laddas efter dacli2, mönster som tli1850.py): street_16th (Denvers gågata med låga tegelhus och höghus, Klippiga bergen i bakgrunden; sky='stuck_evening' = varm guldorange kvällshimmel med solen kvar högt; sky='sunrise'/'sunset'), tower_platform (fönsterputsarplattform hängande på en glasfasad 31 våningar upp, rep och davit; wind 0..1 = rep som svänger), office_floor (kontorsvåning med blomlåda), apartment_kitchen, apartment_hall (trapphall i flerfamiljshus), hospital_it (serverrum/IT-kontor med skärmar och lapp på väggen), museum_hall (stor sal med Foucault-pendel: mässingskula på lång vajer över en ring av träpinnar; kritmärken på golvet, chalk_lines crooked/text), museum_dome (glaskupol sedd ovanifrån, hjälten i sele), museum_steps, crew_van, vole_office (kontor på 50:e våningen med stadsutsikt), elevator. Rekvisita: sun_stuck (x, y, clock='9:00 PM' = gatuklocka), crowd_phones (n, expr – folk som filmar med telefoner), watch_big (spin backward/stutter/none – stor mässingsklocka i bild), watch_open (grit), phone (screen), planter (watch), squeegee, note (text), server_racks, pendulum (pegs), chalk_lines, tv (screen), chart, glass_case (card). Kläder: hjälten window_washer + sele (ritas ovanpå, figurkoden orörd), hold brass_watch; Rosa crew_boss + gul hjälm; Priya hospital_it + nyckelband + laptop; Abe cardigan, age='old', flat_cap, krita, kneel=True; Grant Vole suit + bakåtkammat hår + telefon. visual.fact_strip {head, text, source} på 32 scener/närbilder MÅSTE ritas (nedre tredjedel, samma stil som 22/11) – annars blir faktaluckan > 30 s. HUD som 22/11 med a=['DAY', 'x HRS'] och b=['PAY', '$x']. Inga fallbacks till city_street för street_16th/tower_platform – miniatyrens scen måste synas i första bilden."
+ }
+}
