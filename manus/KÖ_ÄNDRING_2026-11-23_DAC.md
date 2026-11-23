@@ -1,0 +1,6 @@
+# KÖ-ändring 2026-11-23 – Day After Court (projektet fullt, kö.md kunde inte skrivas)
+Ny rad i automation/kö.md (nästa lediga nummer, efter rad 63):
+| 64 | Day After Court | Your Life at Every Level of Ignoring a $247 Speeding Ticket (Kalifornien; 79 i en 65, påminnelsen går till gamla adressen → failure to appear → indraget körkort → 30 dagars beslag; DUI-mallen + trendtiteln 'Your Life at Every Level of …') | MANUS KLART 2026-11-23 | GitHub manus/dac-2026-11-23.json (generator manus_src/dac_2026_11_23.py) – projektet fullt | |
+
+Logg: 2026-11-23 ~13:20 (manus, schemalagd, DAC): 114 scener, 2 415 ord (≈16 min), 91 beats, 10 nivåer + slut, 24 verkliga regelkort (21 källor: DMV, Judicial Council, länens 2026-bötesscheman Glenn/Tehama, CHP HPM 81.2, Rules of Court 4.335, Court Statistics Report 2026). granskning.py GODKÄNT utom jamfor_ark (skapas vid rendering; varning 10 nivåkort). monetisering.py GODKÄNT (varning 47 % scene) – jämförelse mot tidigare dac-*.json kunde inte köras (filerna ligger i projektet, inte lokalt) – render-körningen kör igen mot dem.
+Motor att bygga (se manusets notes.motor): highway + patrol_car med lights (MÅSTE finnas för scen 1/miniatyr A), car_interior + cup_holder, loading_dock, tow_truck, boxes, hero holding 'box'.

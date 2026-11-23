@@ -1,0 +1,2610 @@
+{
+ "channel": "Day After Court",
+ "title": "Your Life at Every Level of Ignoring a $247 Speeding Ticket",
+ "standard": "DAC_STANDARD",
+ "style": "qm",
+ "look": "stickman_day",
+ "voice": "am_michael",
+ "speed": 0.97,
+ "lang": "en-us",
+ "music": "calm",
+ "music_level": 0.06,
+ "beats": [
+  {
+   "t": "0:00",
+   "typ": "hot",
+   "text": "blåljus i backspegeln – 79 i en 65"
+  },
+  {
+   "t": "0:05",
+   "typ": "hot",
+   "text": "polisen går fram – 11 minuter till skiftet"
+  },
+  {
+   "t": "0:09",
+   "typ": "hot",
+   "text": "löftet: $247, indraget körkort, bärgad bil"
+  },
+  {
+   "t": "0:15",
+   "typ": "gåta",
+   "text": "hur ett vikt papper gjorde alla tre"
+  },
+  {
+   "t": "0:21",
+   "typ": "vändning",
+   "text": "79 skrivs in"
+  },
+  {
+   "t": "0:25",
+   "typ": "vändning",
+   "text": "65 är standardgränsen"
+  },
+  {
+   "t": "0:31",
+   "typ": "gåta",
+   "text": "underskriften"
+  },
+  {
+   "t": "0:48",
+   "typ": "vändning",
+   "text": "signatur = löfte att infinna sig"
+  },
+  {
+   "t": "1:04",
+   "typ": "gåta",
+   "text": "datumet längst ned"
+  },
+  {
+   "t": "1:14",
+   "typ": "människor",
+   "text": "Pruitts replik: Slow is cheaper"
+  },
+  {
+   "t": "1:23",
+   "typ": "gåta",
+   "text": "biljetten i mugghållaren"
+  },
+  {
+   "t": "1:40",
+   "typ": "gåta",
+   "text": "Dez: vänta på brevet"
+  },
+  {
+   "t": "1:51",
+   "typ": "hot",
+   "text": "rådet som kostar mest"
+  },
+  {
+   "t": "1:58",
+   "typ": "vändning",
+   "text": "nivå 2"
+  },
+  {
+   "t": "2:10",
+   "typ": "människor",
+   "text": "flytten"
+  },
+  {
+   "t": "2:19",
+   "typ": "gåta",
+   "text": "Mrs. Okafor frågar om adressen"
+  },
+  {
+   "t": "2:29",
+   "typ": "vändning",
+   "text": "10 dagar att anmäla adress"
+  },
+  {
+   "t": "2:39",
+   "typ": "hot",
+   "text": "dag 11 – fel adress kvar"
+  },
+  {
+   "t": "2:48",
+   "typ": "vändning",
+   "text": "påminnelsen kan ta 30+ dagar"
+  },
+  {
+   "t": "2:59",
+   "typ": "hot",
+   "text": "påminnelsen är inte fristen"
+  },
+  {
+   "t": "3:10",
+   "typ": "vändning",
+   "text": "lös fallet före datumet på lappen"
+  },
+  {
+   "t": "3:31",
+   "typ": "vändning",
+   "text": "nivå 3"
+  },
+  {
+   "t": "3:33",
+   "typ": "hot",
+   "text": "vad kostar 14 över?"
+  },
+  {
+   "t": "3:41",
+   "typ": "vändning",
+   "text": "grundboten $35"
+  },
+  {
+   "t": "3:50",
+   "typ": "hot",
+   "text": "$35 blir $247"
+  },
+  {
+   "t": "3:59",
+   "typ": "vändning",
+   "text": "varför $35 blir $247"
+  },
+  {
+   "t": "4:11",
+   "typ": "vändning",
+   "text": "grannlänet: $225"
+  },
+  {
+   "t": "4:18",
+   "typ": "hot",
+   "text": "en mil till: $364"
+  },
+  {
+   "t": "4:46",
+   "typ": "vändning",
+   "text": "nivå 4"
+  },
+  {
+   "t": "4:49",
+   "typ": "gåta",
+   "text": "tre dörrar"
+  },
+  {
+   "t": "4:58",
+   "typ": "hot",
+   "text": "betala = dom + 1 poäng"
+  },
+  {
+   "t": "5:07",
+   "typ": "vändning",
+   "text": "trafikskola – 18 månader"
+  },
+  {
+   "t": "5:16",
+   "typ": "vändning",
+   "text": "+$52, poängen döljs"
+  },
+  {
+   "t": "5:36",
+   "typ": "vändning",
+   "text": "kämpa = betala först"
+  },
+  {
+   "t": "5:48",
+   "typ": "vändning",
+   "text": "infraktion: ingen jury"
+  },
+  {
+   "t": "5:56",
+   "typ": "hot",
+   "text": "du väljer ingen dörr"
+  },
+  {
+   "t": "6:15",
+   "typ": "hot",
+   "text": "nivå 5 – datumet"
+  },
+  {
+   "t": "6:17",
+   "typ": "hot",
+   "text": "fredagen passerar"
+  },
+  {
+   "t": "6:25",
+   "typ": "vändning",
+   "text": "luckan stänger – fallet byter karaktär"
+  },
+  {
+   "t": "6:34",
+   "typ": "hot",
+   "text": "failure to appear"
+  },
+  {
+   "t": "6:44",
+   "typ": "vändning",
+   "text": "civil assessment upp till $100"
+  },
+  {
+   "t": "7:02",
+   "typ": "hot",
+   "text": "upp till 6 mån fängelse / $1 000"
+  },
+  {
+   "t": "7:20",
+   "typ": "gåta",
+   "text": "breven går till fel dörr"
+  },
+  {
+   "t": "7:27",
+   "typ": "vändning",
+   "text": "nivå 6"
+  },
+  {
+   "t": "7:30",
+   "typ": "hot",
+   "text": "fotot på brevhögen"
+  },
+  {
+   "t": "7:49",
+   "typ": "vändning",
+   "text": "påminnelsen kom – till fel adress"
+  },
+  {
+   "t": "7:59",
+   "typ": "vändning",
+   "text": "Dez hade rätt – nästan"
+  },
+  {
+   "t": "8:17",
+   "typ": "hot",
+   "text": "DMV-kuvertet"
+  },
+  {
+   "t": "8:25",
+   "typ": "hot",
+   "text": "körkortet indraget tills du infinner dig"
+  },
+  {
+   "t": "8:37",
+   "typ": "hot",
+   "text": "du har kört i 9 dagar"
+  },
+  {
+   "t": "8:44",
+   "typ": "människor",
+   "text": "Mrs. Okafor sätter på tevattnet"
+  },
+  {
+   "t": "8:53",
+   "typ": "vändning",
+   "text": "inte pengarna – löftet"
+  },
+  {
+   "t": "9:03",
+   "typ": "gåta",
+   "text": "underskriften var det"
+  },
+  {
+   "t": "9:11",
+   "typ": "hot",
+   "text": "nivå 7"
+  },
+  {
+   "t": "9:14",
+   "typ": "hot",
+   "text": "fyra kvarter för mjölk"
+  },
+  {
+   "t": "9:22",
+   "typ": "hot",
+   "text": "blåljusen igen"
+  },
+  {
+   "t": "9:40",
+   "typ": "vändning",
+   "text": "brott, inte förseelse"
+  },
+  {
+   "t": "9:48",
+   "typ": "hot",
+   "text": "30 dagars beslag"
+  },
+  {
+   "t": "9:58",
+   "typ": "hot",
+   "text": "bilen bärgas"
+  },
+  {
+   "t": "10:05",
+   "typ": "callback",
+   "text": "biljetten åker iväg i mugghållaren"
+  },
+  {
+   "t": "10:25",
+   "typ": "vändning",
+   "text": "Dez hade eftersändning"
+  },
+  {
+   "t": "10:36",
+   "typ": "vändning",
+   "text": "nivå 8"
+  },
+  {
+   "t": "10:38",
+   "typ": "hot",
+   "text": "kön är redan 20 personer"
+  },
+  {
+   "t": "10:48",
+   "typ": "vändning",
+   "text": "3 miljoner infraktioner per år"
+  },
+  {
+   "t": "11:13",
+   "typ": "vändning",
+   "text": "rätten måste pröva betalningsförmåga"
+  },
+  {
+   "t": "11:22",
+   "typ": "vändning",
+   "text": "fyra vägar"
+  },
+  {
+   "t": "11:32",
+   "typ": "gåta",
+   "text": "det fanns hela tiden"
+  },
+  {
+   "t": "11:53",
+   "typ": "vändning",
+   "text": "rätt adress den här gången"
+  },
+  {
+   "t": "12:02",
+   "typ": "hot",
+   "text": "brottet kräver advokat"
+  },
+  {
+   "t": "12:12",
+   "typ": "gåta",
+   "text": "advokaten frågar om adressen"
+  },
+  {
+   "t": "12:21",
+   "typ": "vändning",
+   "text": "nivå 9"
+  },
+  {
+   "t": "12:23",
+   "typ": "hot",
+   "text": "suspensionen kostar att lyfta"
+  },
+  {
+   "t": "12:31",
+   "typ": "vändning",
+   "text": "$55 för att få tillbaka körkortet"
+  },
+  {
+   "t": "12:52",
+   "typ": "callback",
+   "text": "adressbytet på fyra minuter"
+  },
+  {
+   "t": "13:13",
+   "typ": "callback",
+   "text": "biljetten ligger kvar"
+  },
+  {
+   "t": "13:33",
+   "typ": "vändning",
+   "text": "nivå 10"
+  },
+  {
+   "t": "13:35",
+   "typ": "hot",
+   "text": "poängen syns för försäkringsbolaget"
+  },
+  {
+   "t": "13:44",
+   "typ": "vändning",
+   "text": "36 månader"
+  },
+  {
+   "t": "13:52",
+   "typ": "hot",
+   "text": "4/6/8 poäng"
+  },
+  {
+   "t": "14:04",
+   "typ": "hot",
+   "text": "6 månaders indragning till"
+  },
+  {
+   "t": "14:15",
+   "typ": "vändning",
+   "text": "64 i en 65"
+  },
+  {
+   "t": "14:24",
+   "typ": "människor",
+   "text": "Pruitt vid vägkanten"
+  },
+  {
+   "t": "14:34",
+   "typ": "callback",
+   "text": "Pruitt lyfter två fingrar"
+  },
+  {
+   "t": "14:44",
+   "typ": "callback",
+   "text": "Slow is cheaper"
+  },
+  {
+   "t": "14:56",
+   "typ": "vändning",
+   "text": "slutet"
+  },
+  {
+   "t": "14:58",
+   "typ": "människor",
+   "text": "Jo får sin första lapp"
+  },
+  {
+   "t": "15:07",
+   "typ": "callback",
+   "text": "läs datumet högt"
+  },
+  {
+   "t": "15:30",
+   "typ": "callback",
+   "text": "adressfrågan"
+  },
+  {
+   "t": "15:38",
+   "typ": "vändning",
+   "text": "Jo flyttade i augusti"
+  },
+  {
+   "t": "15:47",
+   "typ": "callback",
+   "text": "inte i en mugghållare"
+  },
+  {
+   "t": "15:58",
+   "typ": "callback",
+   "text": "din lapp ligger kvar – platt"
+  }
+ ],
+ "scenes": [
+  {
+   "say": "79 in a 65, and red and blue lights fill your mirror.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.22,
+     "expr": "shock",
+     "arms": "head",
+     "walk_to": 0.32
+    },
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ]
+   },
+   "chapter": "Level 1: The stop",
+   "sfx": "siren"
+  },
+  {
+   "say": "Your shift starts in 11 minutes. The officer walks up slowly.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.32,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.28
+    },
+    "friends": [
+     {
+      "x": 0.82,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short",
+      "walk_to": 0.6
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ]
+   }
+  },
+  {
+   "say": "This one stop becomes a 247 dollar fine, a suspended license, and a towed car.",
+   "visual": {
+    "type": "real",
+    "head": "WHAT THIS STOP COSTS",
+    "big": "$247",
+    "text": "the real total for 1–15 mph over in Glenn County",
+    "source": "Glenn County Superior Court – 2026 Uniform Bail and Penalty Schedule"
+   }
+  },
+  {
+   "say": "By the end, you'll know how one folded paper did all three.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.28,
+     "expr": "worried",
+     "arms": "hold",
+     "holding": "card",
+     "walk_to": 0.34
+    },
+    "friends": [
+     {
+      "x": 0.6,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short"
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ]
+   }
+  },
+  {
+   "say": "He writes 79 where the speed limit sign says 65.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "friends": [
+     {
+      "x": 0.6,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short",
+      "say": "79 in a 65."
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ],
+    "note_card": {
+     "text": "79 MPH IN A 65 ZONE = 14 OVER"
+    }
+   }
+  },
+  {
+   "say": "In California, 65 is the top speed on most highways unless a sign says otherwise.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "65 MPH",
+    "text": "the top speed on most California highways unless posted",
+    "source": "CA DMV Driver's Handbook – 65 mph unless posted"
+   }
+  },
+  {
+   "say": "Then he turns the pad around and hands you a pen. Sign here, he says.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.34,
+     "expr": "worried",
+     "arms": "hold",
+     "holding": "letter",
+     "walk_to": 0.4
+    },
+    "friends": [
+     {
+      "x": 0.6,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short",
+      "say": "Sign here."
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ]
+   }
+  },
+  {
+   "say": "He says it the way he must say it all day. Your signature is a promise to show up, and it has a date on it.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.34,
+     "expr": "doubt",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "friends": [
+     {
+      "x": 0.6,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short"
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ],
+    "note_card": {
+     "text": "SIGNING = A PROMISE TO APPEAR"
+    }
+   }
+  },
+  {
+   "say": "The state's own court page puts it plainly. By signing the traffic citation, you have given your promise that you will appear.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "A PROMISE",
+    "text": "your signature means you promise to appear",
+    "source": "Judicial Council of California – Traffic Program FAQ"
+   }
+  },
+  {
+   "say": "You sign it fast. Your hand is shaking a little, so your name looks like someone else wrote it.",
+   "visual": {
+    "type": "closeup",
+    "location": "highway",
+    "expr": "worried",
+    "look": -1,
+    "thought": "SIGNED",
+    "bad": true
+   }
+  },
+  {
+   "say": "He tears off the pink copy and taps the bottom of it twice. There's a date down there, in small print, with a court address.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.34,
+     "expr": "doubt",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "friends": [
+     {
+      "x": 0.62,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short",
+      "say": "Date's at the bottom."
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ],
+    "note_card": {
+     "text": "THE DATE ON THE TICKET IS YOUR DEADLINE"
+    }
+   }
+  },
+  {
+   "say": "Then he says the thing he probably says twenty times a week. Slow is cheaper. And he walks back to his car.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.7,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short",
+      "say": "Slow is cheaper.",
+      "walk_to": 0.82
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ],
+    "note_card": {
+     "text": "A SPEEDING CONVICTION = 1 POINT ON YOUR RECORD"
+    }
+   }
+  },
+  {
+   "say": "You fold the ticket in half, then in half again, and push it into the cup holder under an old coffee lid.",
+   "visual": {
+    "type": "scene",
+    "location": "car_interior",
+    "shot": "wide",
+    "hero": {
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "cup_holder",
+      "x": 0.6,
+      "ticket": true
+     }
+    ]
+   }
+  },
+  {
+   "say": "You make it to work 6 minutes late. Your coworker Dez is already at the loading dock, holding two coffees.",
+   "visual": {
+    "type": "scene",
+    "location": "loading_dock",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.42
+    },
+    "friends": [
+     {
+      "x": 0.76,
+      "outfit": "orange",
+      "name": "Dez",
+      "hair": "short",
+      "cap": true,
+      "say": "You're late."
+     }
+    ]
+   }
+  },
+  {
+   "say": "Dez has had three tickets. He waves his hand at yours like it's a parking stub. They mail you a reminder, he says. Wait for the letter.",
+   "visual": {
+    "type": "scene",
+    "location": "loading_dock",
+    "shot": "wide",
+    "hero": {
+     "x": 0.32,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.72,
+      "outfit": "orange",
+      "name": "Dez",
+      "hair": "short",
+      "cap": true,
+      "say": "Wait for the letter."
+     }
+    ],
+    "note_card": {
+     "text": "1–15 MPH OVER: $35 BASE FINE"
+    }
+   }
+  },
+  {
+   "say": "It sounds like good advice. It's the advice that costs you the most in this whole story.",
+   "visual": {
+    "type": "label",
+    "big": "WAIT FOR THE LETTER",
+    "text": "the advice that costs the most",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "Level 2. The cup holder.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 2",
+    "sub": "the cup holder"
+   },
+   "chapter": "Level 2: The cup holder"
+  },
+  {
+   "say": "The ticket rides around with you for a week. It goes to the grocery store, the gym, and a gas station in Willows.",
+   "visual": {
+    "type": "scene",
+    "location": "car_interior",
+    "shot": "wide",
+    "hero": {
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "down"
+    },
+    "props": [
+     {
+      "type": "cup_holder",
+      "x": 0.6,
+      "ticket": true
+     }
+    ]
+   }
+  },
+  {
+   "say": "You're also moving that week. Your lease ended, so you carry boxes from your old apartment to a new place across town.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "hold",
+     "holding": "box",
+     "walk_to": 0.5
+    },
+    "props": [
+     {
+      "type": "boxes",
+      "x": 0.7
+     }
+    ]
+   }
+  },
+  {
+   "say": "Your old neighbor, Mrs. Okafor, watches from her door with a cup of tea. She asks if you've changed your address yet. You say, soon.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "hero": {
+     "x": 0.4,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "box"
+    },
+    "friends": [
+     {
+      "x": 0.78,
+      "outfit": "green",
+      "name": "Mrs. Okafor",
+      "hair": "bun",
+      "glasses": true,
+      "say": "Changed your address?"
+     }
+    ],
+    "note_card": {
+     "text": "CA DMV: NEW ADDRESS WITHIN 10 DAYS OF MOVING"
+    }
+   }
+  },
+  {
+   "say": "Soon isn't a date. The DMV handbook gives you an actual one. If you move, you must tell DMV your new address within ten days.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "10 DAYS",
+    "text": "to tell DMV your new address after you move",
+    "source": "CA DMV Driver's Handbook – changing your address"
+   }
+  },
+  {
+   "say": "Day 11 comes and goes. Your address with the DMV is still the old apartment, the one with Mrs. Okafor's tea next door.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "DMV ADDRESS|OLD APT|DAY 11"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Meanwhile you wait for the reminder, the way Dez told you. The court's self help page says it may take 30 days or longer to get one.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "30+ DAYS",
+    "text": "how long a courtesy notice can take to arrive",
+    "source": "selfhelp.courts.ca.gov – Traffic"
+   }
+  },
+  {
+   "say": "And here is the part nobody tells you at the side of the road. The reminder is not the deadline. The date on the ticket is.",
+   "visual": {
+    "type": "label",
+    "big": "NOT THE DEADLINE",
+    "text": "the reminder is a courtesy, the ticket date is the rule",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "County court pages say it the same way. Resolve your case on or before the date on your ticket, and if no notice has come by then, contact the court.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "THE TICKET DATE",
+    "text": "resolve on or before it, notice or no notice",
+    "source": "Santa Clara + Sacramento Superior Court traffic FAQs"
+   }
+  },
+  {
+   "say": "You don't know any of that yet. To you, the pink paper under the coffee lid is just a bill that hasn't arrived.",
+   "visual": {
+    "type": "closeup",
+    "location": "car_interior",
+    "expr": "neutral",
+    "look": -1,
+    "thought": "LATER",
+    "bad": false
+   }
+  },
+  {
+   "say": "Level 3. The price.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 3",
+    "sub": "the price"
+   },
+   "chapter": "Level 3: The price"
+  },
+  {
+   "say": "One night you finally unfold the ticket at the kitchen counter and look up what 14 miles over actually costs.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "summons",
+      "x": 0.64,
+      "title": "NOTICE TO APPEAR",
+      "tag": "14 OVER"
+     }
+    ]
+   }
+  },
+  {
+   "say": "The base fine for 1 to 15 miles per hour over the limit is 35 dollars. You almost laugh. Then you keep reading.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "$35",
+    "text": "base fine, 1–15 mph over",
+    "source": "Glenn County Superior Court – 2026 Uniform Bail and Penalty Schedule"
+   }
+  },
+  {
+   "say": "In Glenn County's 2026 schedule, that 35 dollar fine becomes a total of 247 dollars once everything else is added on.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "shock",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "BASE $35|TOTAL $247"
+     }
+    ]
+   }
+  },
+  {
+   "say": "The extras have names. A 40 dollar court operations fee, a 35 dollar conviction assessment, a 30 dollar fee for the county, and state and county penalty assessments on top.",
+   "visual": {
+    "type": "board",
+    "title": "79 IN A 65",
+    "lines": [
+     "base fine: $35",
+     "court operations: $40",
+     "conviction assessment: $35",
+     "county TAP fee: $30",
+     "penalty assessments: the rest"
+    ],
+    "result": "$247 total (Glenn County 2026)"
+   }
+  },
+  {
+   "say": "Every county adds its own penalty assessments. The same ticket in neighboring Tehama County totals 225 dollars.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "$225",
+    "text": "same speed, same base fine, Tehama County 2026",
+    "source": "Tehama County Superior Court – 2026 Uniform Bail and Penalty Schedule"
+   }
+  },
+  {
+   "say": "And the next step up is steep. At 16 to 25 over, the base fine doubles to 70 dollars, and the Glenn County total jumps to 364.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "$364",
+    "text": "16–25 mph over in Glenn County",
+    "source": "Glenn County Superior Court – 2026 Uniform Bail and Penalty Schedule"
+   }
+  },
+  {
+   "say": "You were going 79. Two more miles per hour and this exact piece of paper would cost you 117 dollars more.",
+   "visual": {
+    "type": "label",
+    "big": "+$117",
+    "text": "two more mph: 16 over = $364 in Glenn County",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "You fold it up again and put it back in the cup holder, which makes no sense, but it's where it lives now.",
+   "visual": {
+    "type": "closeup",
+    "location": "car_interior",
+    "expr": "sad",
+    "look": -1,
+    "thought": "AGAIN",
+    "bad": true
+   }
+  },
+  {
+   "say": "Level 4. The three doors.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 4",
+    "sub": "the three doors"
+   },
+   "chapter": "Level 4: The three doors"
+  },
+  {
+   "say": "Before the date on the ticket, you actually have choices. Most people only ever hear about the first one, which is just paying it.",
+   "visual": {
+    "type": "plan",
+    "title": "BEFORE THE DATE",
+    "items": [
+     {
+      "box": [
+       0.04,
+       0.3,
+       0.28,
+       0.4
+      ],
+      "label": "PAY IT"
+     },
+     {
+      "box": [
+       0.36,
+       0.3,
+       0.28,
+       0.4
+      ],
+      "label": "TRAFFIC SCHOOL",
+      "hot": true
+     },
+     {
+      "box": [
+       0.68,
+       0.3,
+       0.28,
+       0.4
+      ],
+      "label": "FIGHT IT"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Paying the bail counts as a conviction. And in California, a speeding conviction puts one point on your driving record.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "1 POINT",
+    "text": "for a speeding conviction",
+    "source": "CA DMV – Negligent operator (Vehicle Code 12810)"
+   }
+  },
+  {
+   "say": "Door two is traffic school. You can usually choose it if you haven't gone to traffic school in the last 18 months.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "18 MONTHS",
+    "text": "since your last traffic school",
+    "source": "selfhelp.courts.ca.gov – Traffic school"
+   }
+  },
+  {
+   "say": "You still pay the full bail, plus a 52 dollar traffic school fee to the court. In return, insurance companies can't see the point.",
+   "visual": {
+    "type": "scene",
+    "location": "dmv_office",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "summons",
+      "x": 0.64,
+      "title": "TRAFFIC SCHOOL",
+      "tag": "+$52"
+     }
+    ],
+    "note_card": {
+     "text": "TRAFFIC SCHOOL: FULL BAIL + $52 FEE – POINT HIDDEN FROM INSURERS"
+    }
+   }
+  },
+  {
+   "say": "Door three is fighting it. You can even do that on paper, with a trial by written declaration, without ever standing in front of a judge.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "summons",
+      "x": 0.64,
+      "title": "WRITTEN DECLARATION",
+      "tag": "TR-205"
+     }
+    ]
+   }
+  },
+  {
+   "say": "But the state's self help page warns you that you usually have to pay the full fine when you turn in that paperwork. You get it back if you win.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "PAY FIRST",
+    "text": "the usual rule for a trial by written declaration",
+    "source": "selfhelp.courts.ca.gov – Trial by written declaration"
+   }
+  },
+  {
+   "say": "And this isn't a criminal case yet. It's an infraction. That means no jury, and no lawyer appointed for you.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "NO JURY",
+    "text": "and no appointed lawyer for an infraction",
+    "source": "Calaveras Superior Court (Penal Code 19.6)"
+   }
+  },
+  {
+   "say": "Three doors, and every one of them is open until the date at the bottom of the pink paper. You don't pick any of them.",
+   "visual": {
+    "type": "label",
+    "big": "NO DOOR",
+    "text": "you wait for a letter instead",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "Dez asks you about it at lunch. You tell him you're still waiting for the reminder. He nods like that's the plan.",
+   "visual": {
+    "type": "scene",
+    "location": "loading_dock",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.72,
+      "outfit": "orange",
+      "name": "Dez",
+      "hair": "short",
+      "cap": true,
+      "say": "Still waiting? Smart."
+     }
+    ]
+   }
+  },
+  {
+   "say": "Level 5. The date.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 5",
+    "sub": "the date"
+   },
+   "chapter": "Level 5: The date"
+  },
+  {
+   "say": "The date on the ticket is a Friday. You're at work, loading a truck, and you don't think about it once.",
+   "visual": {
+    "type": "scene",
+    "location": "loading_dock",
+    "shot": "wide",
+    "hero": {
+     "x": 0.4,
+     "expr": "neutral",
+     "arms": "push"
+    },
+    "props": [
+     {
+      "type": "boxes",
+      "x": 0.7
+     }
+    ]
+   }
+  },
+  {
+   "say": "At 4 o'clock the clerk's window closes. Nobody calls you. Nothing beeps. The case just turns into a different kind of case.",
+   "visual": {
+    "type": "scene",
+    "location": "court_hall",
+    "shot": "wide",
+    "note_card": {
+     "text": "4:00 PM – THE WINDOW CLOSES"
+    }
+   },
+   "silence": true
+  },
+  {
+   "say": "Missing the date without a good reason is called a failure to appear. And it has its own price tag, separate from the ticket.",
+   "visual": {
+    "type": "label",
+    "big": "FAILURE TO APPEAR",
+    "text": "a new problem, stacked on the old one",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "The court can add a civil assessment of up to 100 dollars. Until July 2022, that number was as high as 300.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "UP TO $100",
+    "text": "civil assessment for missing the date (was $300 before July 1, 2022)",
+    "source": "Riverside Superior Court – AB 199 notice (Penal Code 1214.1)"
+   }
+  },
+  {
+   "say": "That's the money part. The Judicial Council's own FAQ also lists what can happen to you for missing a promise to appear.",
+   "visual": {
+    "type": "scene",
+    "location": "court_hall",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "FAILED TO APPEAR|CASE UPDATED"
+     }
+    ]
+   }
+  },
+  {
+   "say": "You may be arrested and punished with up to 6 months in jail and a fine of up to 1,000 dollars, and your license may be suspended.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "6 MONTHS",
+    "text": "jail and/or a $1,000 fine for failing to appear",
+    "source": "Judicial Council of California – Traffic Program FAQ"
+   }
+  },
+  {
+   "say": "All of that over a 247 dollar ticket, a pink piece of paper sitting under a coffee lid.",
+   "visual": {
+    "type": "closeup",
+    "location": "car_interior",
+    "expr": "shock",
+    "look": -1,
+    "thought": "$1,000?",
+    "bad": true
+   }
+  },
+  {
+   "say": "But you don't know any of this. Because every letter about it is going to the old apartment.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "props": [
+     {
+      "type": "envelope",
+      "x": 0.5,
+      "n": 1,
+      "stamp": "SUPERIOR COURT"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Level 6. The stack of mail.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 6",
+    "sub": "the stack of mail"
+   },
+   "chapter": "Level 6: The stack of mail"
+  },
+  {
+   "say": "Six weeks after the stop, Mrs. Okafor texts you a photo. It's a pile of envelopes on her hall table, held down by a jar of honey.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "MRS. OKAFOR|PHOTO|4 LETTERS"
+     }
+    ]
+   }
+  },
+  {
+   "say": "She writes, the new tenant keeps leaving these by my door. Some of them look official. I didn't open them.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "hero": {
+     "x": 0.32,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.46
+    },
+    "friends": [
+     {
+      "x": 0.78,
+      "outfit": "green",
+      "name": "Mrs. Okafor",
+      "hair": "bun",
+      "glasses": true,
+      "say": "These look official."
+     }
+    ],
+    "props": [
+     {
+      "type": "envelope",
+      "x": 0.6,
+      "n": 4,
+      "stamp": "COURT · DMV"
+     }
+    ]
+   }
+  },
+  {
+   "say": "You drive over that night. The top envelope is the courtesy notice. It arrived weeks ago, on time, at the address you never changed.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "hero": {
+     "x": 0.36,
+     "expr": "shock",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "friends": [
+     {
+      "x": 0.78,
+      "outfit": "green",
+      "name": "Mrs. Okafor",
+      "hair": "bun",
+      "glasses": true
+     }
+    ],
+    "props": [
+     {
+      "type": "envelope",
+      "x": 0.6,
+      "n": 3,
+      "stamp": "COURTESY NOTICE"
+     }
+    ]
+   },
+   "silence": true
+  },
+  {
+   "say": "So Dez was right, they do mail you a reminder. It just goes to wherever the DMV thinks you live.",
+   "visual": {
+    "type": "label",
+    "big": "IT CAME",
+    "text": "to the address you never changed",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "The second envelope is a notice that you failed to appear. The third is from the court again, with the civil assessment added on.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "hero": {
+     "x": 0.36,
+     "expr": "sad",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "summons",
+      "x": 0.64,
+      "title": "FAILURE TO APPEAR",
+      "tag": "+$100"
+     }
+    ]
+   }
+  },
+  {
+   "say": "The fourth one has the DMV seal on it. You open it right there in the hallway, under Mrs. Okafor's porch light.",
+   "visual": {
+    "type": "scene",
+    "location": "front_door",
+    "shot": "wide",
+    "hero": {
+     "x": 0.36,
+     "expr": "worried",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "friends": [
+     {
+      "x": 0.8,
+      "outfit": "green",
+      "name": "Mrs. Okafor",
+      "hair": "bun",
+      "glasses": true
+     }
+    ],
+    "props": [
+     {
+      "type": "envelope",
+      "x": 0.6,
+      "n": 1,
+      "stamp": "DMV"
+     }
+    ]
+   }
+  },
+  {
+   "say": "The DMV handbook says it in one line. If you get a ticket and fail to appear in court, DMV may suspend your driving privilege until you appear.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "UNTIL YOU APPEAR",
+    "text": "DMV may suspend your driving privilege after a missed court date",
+    "source": "CA DMV Driver's Handbook – laws and rules of the road"
+   }
+  },
+  {
+   "say": "Your license is suspended. The date on the letter was nine days ago. You drove here tonight.",
+   "visual": {
+    "type": "closeup",
+    "location": "front_door",
+    "expr": "shock",
+    "look": -1,
+    "thought": "9 DAYS",
+    "bad": true
+   },
+   "silence": true
+  },
+  {
+   "say": "Mrs. Okafor reads your face and puts the kettle on. She doesn't say I told you. She says, sit down before you drive anywhere.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "sad",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.74,
+      "outfit": "green",
+      "name": "Mrs. Okafor",
+      "hair": "bun",
+      "glasses": true,
+      "say": "Sit down first."
+     }
+    ]
+   }
+  },
+  {
+   "say": "There's one strange detail in the letter. California stopped suspending licenses just for unpaid tickets back in 2017. This one isn't about money.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "AB 103 (2017)",
+    "text": "ended suspensions for failure to PAY – not for failure to appear",
+    "source": "Mariposa Superior Court – AB 103 notice (2017)"
+   }
+  },
+  {
+   "say": "It's about the signature you gave on the side of the highway, the promise to appear, which you broke without noticing.",
+   "visual": {
+    "type": "label",
+    "big": "THE SIGNATURE",
+    "text": "the promise is what got you suspended",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "Level 7. The second stop.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 7",
+    "sub": "the second stop"
+   },
+   "chapter": "Level 7: The second stop"
+  },
+  {
+   "say": "You tell yourself you'll fix it Monday. On Saturday, you drive four blocks to the store for milk, because it's four blocks.",
+   "visual": {
+    "type": "scene",
+    "location": "city_street",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "down",
+     "walk_to": 0.42
+    }
+   }
+  },
+  {
+   "say": "Your rear tag light is out. Red and blue lights fill the mirror again, and this time your stomach knows before you do.",
+   "visual": {
+    "type": "scene",
+    "location": "city_street",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "shock",
+     "arms": "head"
+    },
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ]
+   },
+   "sfx": "siren"
+  },
+  {
+   "say": "A different officer this time. She runs your license, comes back, and asks you to step out of the car.",
+   "visual": {
+    "type": "scene",
+    "location": "city_street",
+    "shot": "wide",
+    "hero": {
+     "x": 0.32,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.38
+    },
+    "friends": [
+     {
+      "x": 0.72,
+      "outfit": "uniform",
+      "name": "Officer",
+      "hair": "bun",
+      "say": "Step out, please."
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ],
+    "note_card": {
+     "text": "MISSED COURT DATE: DMV MAY SUSPEND UNTIL YOU APPEAR"
+    }
+   }
+  },
+  {
+   "say": "Driving on a suspended license is a crime, not an infraction. And the car itself is now part of the problem.",
+   "visual": {
+    "type": "label",
+    "big": "NOT AN INFRACTION",
+    "text": "driving while suspended is a crime",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "The highway patrol's own manual says a vehicle is subject to a 30 day impound when the driver has a suspended or revoked license.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "30 DAYS",
+    "text": "possible impound when the driver's license is suspended",
+    "source": "CHP Highway Patrol Manual 81.2, chapter 2"
+   }
+  },
+  {
+   "say": "Some suspensions are treated differently, so it can happen, not that it always will. Tonight it happens.",
+   "visual": {
+    "type": "scene",
+    "location": "city_street",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "sad",
+     "arms": "down"
+    },
+    "props": [
+     {
+      "type": "tow_truck",
+      "x": 0.66,
+      "car": true
+     }
+    ]
+   },
+   "sfx": "crash"
+  },
+  {
+   "say": "You watch a tow truck winch your car onto its bed. The ticket is still in the cup holder, folded in four, riding away without you.",
+   "visual": {
+    "type": "scene",
+    "location": "city_street",
+    "shot": "wide",
+    "hero": {
+     "x": 0.28,
+     "expr": "sad",
+     "arms": "down"
+    },
+    "props": [
+     {
+      "type": "tow_truck",
+      "x": 0.7,
+      "car": true
+     }
+    ],
+    "note_card": {
+     "text": "DRIVING WHILE SUSPENDED: CAR CAN BE IMPOUNDED 30 DAYS"
+    }
+   }
+  },
+  {
+   "say": "You walk home with the milk. Four blocks feels a lot longer when you have a citation for a misdemeanor in your back pocket.",
+   "visual": {
+    "type": "closeup",
+    "location": "city_street",
+    "expr": "sad",
+    "look": -1,
+    "thought": "4 BLOCKS",
+    "bad": true
+   }
+  },
+  {
+   "say": "You call Dez. He's quiet for a long time. Then he says, I always had my mail forwarded. I didn't think to tell you that part.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "sad",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "DEZ|CALLING"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Level 8. The courthouse.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 8",
+    "sub": "the courthouse"
+   },
+   "chapter": "Level 8: The courthouse"
+  },
+  {
+   "say": "Monday morning you take two buses to the courthouse. You get there before the doors open and stand in a line that's already 20 people long.",
+   "visual": {
+    "type": "scene",
+    "location": "court_hall",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.4
+    },
+    "friends": [
+     {
+      "x": 0.6,
+      "outfit": "grey",
+      "name": ""
+     },
+     {
+      "x": 0.7,
+      "outfit": "blue",
+      "name": ""
+     },
+     {
+      "x": 0.8,
+      "outfit": "teal",
+      "name": ""
+     }
+    ]
+   }
+  },
+  {
+   "say": "Everyone in this line has a piece of paper. California courts handled more than 3 million infraction cases in one year.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA COURTS",
+    "big": "3,055,653",
+    "text": "infraction filings in California, fiscal year 2024–25",
+    "source": "Judicial Council – 2026 Court Statistics Report"
+   }
+  },
+  {
+   "say": "At the window, the clerk pulls up both cases. The speeding ticket, with the civil assessment. And the new one from Saturday night.",
+   "visual": {
+    "type": "scene",
+    "location": "court_hall",
+    "shot": "wide",
+    "hero": {
+     "x": 0.34,
+     "expr": "worried",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "friends": [
+     {
+      "x": 0.74,
+      "outfit": "teal",
+      "name": "Clerk",
+      "glasses": true,
+      "say": "Two cases."
+     }
+    ]
+   }
+  },
+  {
+   "say": "You ask her the only question you have left. Is there any way to make this smaller?",
+   "visual": {
+    "type": "closeup",
+    "location": "court_hall",
+    "expr": "worried",
+    "look": -1,
+    "thought": "SMALLER?",
+    "bad": true
+   }
+  },
+  {
+   "say": "There is. Under California Rules of Court, rule 4.335, the court must consider your ability to pay when you ask on an infraction.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "RULE 4.335",
+    "text": "on request, the court must consider your ability to pay",
+    "source": "California Rules of Court, rule 4.335"
+   }
+  },
+  {
+   "say": "The court can lower the fine, give you more time, set up a payment plan, or let you do community service instead of paying.",
+   "visual": {
+    "type": "scene",
+    "location": "court_hall",
+    "shot": "wide",
+    "hero": {
+     "x": 0.34,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.74,
+      "outfit": "teal",
+      "name": "Clerk",
+      "glasses": true,
+      "say": "You can ask."
+     }
+    ],
+    "note_card": {
+     "text": "ABILITY TO PAY: LOWER FINE · MORE TIME · PAYMENT PLAN · COMMUNITY SERVICE"
+    }
+   }
+  },
+  {
+   "say": "Many courts let you make that request online, through a program called MyCitations. You had that option the whole time, from your couch.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "MyCitations",
+    "text": "ask to lower the ticket online",
+    "source": "selfhelp.courts.ca.gov – Ask to lower your fine (MyCitations)"
+   }
+  },
+  {
+   "say": "Today you fill out the paper version at a counter with a pen chained to it. You list your rent, your pay, and the bus pass you now need.",
+   "visual": {
+    "type": "label",
+    "big": "THE FORM",
+    "text": "rent, pay, and the bus pass you now need",
+    "source": null,
+    "bad": false
+   }
+  },
+  {
+   "say": "A few weeks later, the answer comes. To the right address this time. A payment plan, and a hearing date for the misdemeanor.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "envelope",
+      "x": 0.7,
+      "n": 1,
+      "stamp": "NEW ADDRESS"
+     }
+    ]
+   }
+  },
+  {
+   "say": "The misdemeanor is the part you can't fix with a form. For that one, you get a lawyer, because now a lawyer can be appointed.",
+   "visual": {
+    "type": "label",
+    "big": "A LAWYER",
+    "text": "crimes get one, infractions don't",
+    "source": null,
+    "bad": true
+   }
+  },
+  {
+   "say": "Your appointed lawyer reads the file for about 40 seconds, then looks up and asks you one question. Did you change your address?",
+   "visual": {
+    "type": "scene",
+    "location": "courtroom",
+    "shot": "wide",
+    "hero": {
+     "x": 0.4,
+     "expr": "sad",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.78,
+      "outfit": "suit",
+      "name": "Your lawyer",
+      "hair": "short",
+      "say": "Address?"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Level 9. The DMV.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 9",
+    "sub": "the DMV"
+   },
+   "chapter": "Level 9: The DMV"
+  },
+  {
+   "say": "Once the court reports that you appeared, the DMV can lift the suspension. But lifting it isn't free either.",
+   "visual": {
+    "type": "scene",
+    "location": "dmv_office",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "hold",
+     "holding": "letter"
+    }
+   }
+  },
+  {
+   "say": "The DMV charges a 55 dollar reissue fee to restore a license that was suspended. You pay it with a card that's been working very hard lately.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "$55",
+    "text": "DMV reissue fee to restore a suspended license",
+    "source": "CA DMV – Reissue fees"
+   }
+  },
+  {
+   "say": "You take a number. It's G 212. The screen says G 140. A man next to you has brought a folding chair, which tells you everything.",
+   "visual": {
+    "type": "scene",
+    "location": "dmv_office",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "friends": [
+     {
+      "x": 0.78,
+      "outfit": "grey",
+      "name": ""
+     }
+    ],
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.7,
+      "text": "NOW SERVING|G 140|YOU: G 212"
+     }
+    ]
+   }
+  },
+  {
+   "say": "While you wait, you finally do the thing that would have saved all of this. You change your address with the DMV on your phone, in about four minutes.",
+   "visual": {
+    "type": "scene",
+    "location": "dmv_office",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "ADDRESS|UPDATED|4 MIN"
+     }
+    ],
+    "note_card": {
+     "text": "MOVED? TELL DMV WITHIN 10 DAYS"
+    }
+   }
+  },
+  {
+   "say": "Four minutes, against two cases, a tow, a 30 day impound, a bus pass, and a lawyer who asked the obvious question.",
+   "visual": {
+    "type": "closeup",
+    "location": "dmv_office",
+    "expr": "sad",
+    "look": -1,
+    "thought": "4 MIN",
+    "bad": true
+   }
+  },
+  {
+   "say": "Your car comes back from the impound lot a month later. You open the door, and the ticket is still in the cup holder, under the coffee lid.",
+   "visual": {
+    "type": "scene",
+    "location": "tow_yard",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down",
+     "walk_to": 0.44
+    },
+    "props": [
+     {
+      "type": "cup_holder",
+      "x": 0.62,
+      "ticket": true
+     }
+    ],
+    "note_card": {
+     "text": "IMPOUND: UP TO 30 DAYS FOR DRIVING WHILE SUSPENDED"
+    }
+   }
+  },
+  {
+   "say": "You unfold it one last time. The date at the bottom is in small print, exactly where the officer tapped it twice.",
+   "visual": {
+    "type": "closeup",
+    "location": "car_interior",
+    "expr": "sad",
+    "look": -1,
+    "thought": "THE DATE",
+    "bad": true
+   }
+  },
+  {
+   "say": "Level 10. The record.",
+   "visual": {
+    "type": "daycard",
+    "label": "LEVEL 10",
+    "sub": "the record"
+   },
+   "chapter": "Level 10: The record"
+  },
+  {
+   "say": "Because you never went to traffic school, the speeding point is on your record, where your insurance company can see it.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "sad",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "RECORD|SPEEDING|1 POINT"
+     }
+    ]
+   }
+  },
+  {
+   "say": "And the DMV handbook says traffic convictions stay on your record for 36 months or longer, depending on the type.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "36 MONTHS",
+    "text": "or longer – how long a conviction stays on your record",
+    "source": "CA DMV Driver's Handbook – laws and rules of the road"
+   }
+  },
+  {
+   "say": "The record now counts against you in a new way. California treats a driver as a negligent operator at 4 points in 12 months, 6 in 24, or 8 in 36.",
+   "visual": {
+    "type": "real",
+    "head": "CALIFORNIA RULE",
+    "big": "4 / 6 / 8",
+    "text": "points in 12 / 24 / 36 months = negligent operator",
+    "source": "CA DMV – Negligent operator actions (VC 12810.5)"
+   }
+  },
+  {
+   "say": "For a negligent operator, the usual action is a one year probation that includes a six month suspension. You do that math every time you merge.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "worried",
+     "arms": "down",
+     "walk_to": 0.36
+    },
+    "note_card": {
+     "text": "NEGLIGENT OPERATOR: 1-YEAR PROBATION INCLUDING A 6-MONTH SUSPENSION"
+    }
+   }
+  },
+  {
+   "say": "So you drive differently now. You drive 64 in a 65 and let the whole highway pass you, and you don't care who honks.",
+   "visual": {
+    "type": "label",
+    "big": "64 IN A 65",
+    "text": "the whole highway passes you",
+    "source": null,
+    "bad": false
+   }
+  },
+  {
+   "say": "Once, on the same stretch near Willows, a patrol car sits on the shoulder with its lights off. You recognize the man leaning against it.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "doubt",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.72,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short"
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": false
+     }
+    ]
+   }
+  },
+  {
+   "say": "Officer Pruitt doesn't recognize you. He's probably handed out a few thousand pink copies since then. He just raises two fingers off his coffee cup.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.34,
+     "expr": "smirk",
+     "arms": "down"
+    },
+    "friends": [
+     {
+      "x": 0.7,
+      "outfit": "uniform",
+      "name": "Officer Pruitt",
+      "hair": "short",
+      "say": "(two fingers)"
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.72,
+      "lights": false
+     }
+    ]
+   }
+  },
+  {
+   "say": "You think of the line he said twenty times a week. Slow is cheaper. It turned out to be the most accurate thing anyone said to you all year.",
+   "visual": {
+    "type": "label",
+    "big": "SLOW IS CHEAPER",
+    "text": "the one piece of advice that was true",
+    "source": null,
+    "bad": false
+   }
+  },
+  {
+   "say": "The ending. Your sister Jo.",
+   "visual": {
+    "type": "daycard",
+    "label": "THE END",
+    "sub": "your sister Jo"
+   },
+   "chapter": "The end: Your sister Jo"
+  },
+  {
+   "say": "The next spring your little sister Jo gets her first ticket. She calls you from the shoulder, still holding it, half laughing.",
+   "visual": {
+    "type": "scene",
+    "location": "highway",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "friends": [
+     {
+      "x": 0.74,
+      "outfit": "pink",
+      "name": "Jo",
+      "hair": "long",
+      "say": "It's just a ticket!"
+     }
+    ],
+    "props": [
+     {
+      "type": "patrol_car",
+      "x": 0.7,
+      "lights": true
+     }
+    ]
+   }
+  },
+  {
+   "say": "She says her friend told her not to worry, because they mail you a reminder. You tell her to read you the date at the bottom. Out loud. Right now.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "neutral",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "JO|THE DATE?"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Then you make her put it in her phone calendar while you're still on the call, with two alerts, a week before and the day before.",
+   "visual": {
+    "type": "label",
+    "big": "2 ALERTS",
+    "text": "a week before, and the day before",
+    "source": null,
+    "bad": false
+   }
+  },
+  {
+   "say": "And you ask the question that nobody asked you. Is the address on your license the place you actually live?",
+   "visual": {
+    "type": "closeup",
+    "location": "apartment",
+    "expr": "neutral",
+    "look": -1,
+    "thought": "ADDRESS?",
+    "bad": false
+   }
+  },
+  {
+   "say": "There's a long pause. Jo moved in August. She says, I'll do it tonight. You say, do it now, it takes four minutes.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "JO|MOVED IN AUGUST"
+     }
+    ]
+   }
+  },
+  {
+   "say": "She does it while you wait. Then she sends you a photo of her ticket, unfolded, flat on her kitchen table. Not in a cup holder.",
+   "visual": {
+    "type": "scene",
+    "location": "apartment",
+    "shot": "wide",
+    "hero": {
+     "x": 0.3,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "phone"
+    },
+    "props": [
+     {
+      "type": "phone",
+      "x": 0.72,
+      "text": "PHOTO|TICKET|ON THE TABLE"
+     }
+    ]
+   }
+  },
+  {
+   "say": "Your own pink copy is still in your car. You never threw it out. It's in the glove box now, flat, under the registration, where you can see the date.",
+   "visual": {
+    "type": "scene",
+    "location": "car_interior",
+    "shot": "wide",
+    "hero": {
+     "x": 0.4,
+     "expr": "smirk",
+     "arms": "hold",
+     "holding": "letter"
+    },
+    "props": [
+     {
+      "type": "summons",
+      "x": 0.64,
+      "title": "NOTICE TO APPEAR",
+      "tag": "KEPT"
+     }
+    ]
+   }
+  },
+  {
+   "say": "So tell us. Is the address on your driver's license the place you actually live right now? Check it, then tell us in the comments.",
+   "visual": {
+    "type": "label",
+    "big": "YOUR ADDRESS?",
+    "text": "is it the one on your license?",
+    "source": null,
+    "bad": false
+   }
+  }
+ ],
+ "seo": {
+  "title": "Your Life at Every Level of Ignoring a $247 Speeding Ticket",
+  "title_b": "What Happens If You Ignore a Speeding Ticket in California?",
+  "hook": "79 in a 65, one signature on the side of the highway, and a reminder letter sent to the wrong door. This is every level of what follows in California.",
+  "summary": "You get pulled over doing 79 in a 65 in California, sign the ticket, fold it into the cup holder and wait for the reminder letter your coworker says will come. This video follows every level in time order: what your signature actually means (a promise to appear), why the $35 base fine becomes $247 in Glenn County's 2026 bail schedule ($225 in Tehama County, $364 at 16–25 over), the three choices before the date on the ticket (pay and take 1 point, traffic school for the full bail plus a $52 fee if you haven't gone in 18 months, or a trial by written declaration where you usually pay first), why an infraction has no jury and no appointed lawyer, what happens on the day the date passes (failure to appear, a civil assessment of up to $100, and up to 6 months in jail and/or a $1,000 fine), why the DMV can suspend your license until you appear, the 10-day rule for changing your address, the possible 30-day impound for driving while suspended, asking the court to lower the fine under rule 4.335 or online with MyCitations, the $55 DMV reissue fee, and how points add up to a negligent operator action at 4, 6 or 8 points.\n\nEveryone in this story is made up, and so are the story's details (the 11 minutes, the dates, the queue numbers). The fines, fees and rules come from the California court, DMV and CHP pages listed below. Bail amounts differ by county and change every year.",
+  "disclaimer": "This video explains general California traffic rules for education and entertainment. It is not legal advice. Fines differ by county, and rules change. If you have a ticket, a failure-to-appear notice or a suspension letter, contact the court on your ticket, the California DMV, a legal aid office or a licensed California attorney.",
+  "keywords": [
+   "your life at every level",
+   "speeding ticket california",
+   "what happens if you ignore a speeding ticket",
+   "what happens if you don't pay a speeding ticket",
+   "failure to appear traffic ticket california",
+   "suspended license california",
+   "traffic school california",
+   "courtesy notice traffic ticket",
+   "trial by written declaration",
+   "mycitations",
+   "dmv points california",
+   "negligent operator",
+   "speeding ticket cost"
+  ],
+  "sources": [
+   {
+    "title": "CA DMV Driver's Handbook – 65 mph maximum on most highways unless posted",
+    "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont2/"
+   },
+   {
+    "title": "Judicial Council of California – Traffic Program FAQ (signing = promise to appear; failure to appear: arrest, up to 6 months jail and/or $1,000 fine, license may be suspended; written declaration: submit bail)",
+    "url": "https://courts.ca.gov/traffic-program-frequently-asked-questions"
+   },
+   {
+    "title": "Glenn County Superior Court – 2026 Uniform Bail and Penalty Schedule (speeding 1–15 over: $35 base / $247 total; 16–25 over: $70 / $364)",
+    "url": "https://www.glenn.courts.ca.gov/system/files/forms-and-filings/ubps-2026-final.pdf"
+   },
+   {
+    "title": "Tehama County Superior Court – 2026 Uniform Bail and Penalty Schedule (1–15 over: $225 total)",
+    "url": "https://www.tehama.courts.ca.gov/system/files/forms-and-filings/2026-ubps-final.pdf"
+   },
+   {
+    "title": "California Courts Self-Help – Traffic (courtesy notice may take 30 days or longer)",
+    "url": "https://selfhelp.courts.ca.gov/traffic"
+   },
+   {
+    "title": "Santa Clara Superior Court – Traffic FAQs (no courtesy notice by the date: contact the court)",
+    "url": "https://santaclara.courts.ca.gov/divisions/traffic-division/traffic-faqs"
+   },
+   {
+    "title": "Sacramento Superior Court – Traffic FAQs (resolve on or before the date on your ticket)",
+    "url": "https://www.saccourt.ca.gov/divisions/traffic/traffic-court-faqs"
+   },
+   {
+    "title": "CA DMV Driver's Handbook – Notify DMV of a new address within 10 days",
+    "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/changing-replacing-and-renewing-your-drivers-license/"
+   },
+   {
+    "title": "California Courts Self-Help – Traffic school (no traffic school in the last 18 months; point hidden from insurers)",
+    "url": "https://selfhelp.courts.ca.gov/traffic/traffic-school"
+   },
+   {
+    "title": "Calaveras Superior Court – Traffic division (bail + $52 traffic school fee; no jury trial or appointed counsel on infractions, PC 19.6)",
+    "url": "https://calaveras.courts.ca.gov/divisions/traffic-division-other-infractions"
+   },
+   {
+    "title": "California Courts Self-Help – Trial by written declaration (usually pay the full fine first)",
+    "url": "https://selfhelp.courts.ca.gov/traffic/trial-declaration"
+   },
+   {
+    "title": "CA DMV – Negligent operator (VC 12810: one point; VC 12810.5: 4/6/8 points)",
+    "url": "https://dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/negligence/"
+   },
+   {
+    "title": "CA DMV – Negligent operator actions (one-year probation including a six-month suspension)",
+    "url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/negligence/negligent-operator-actions/"
+   },
+   {
+    "title": "CA DMV Driver's Handbook – Laws and rules of the road (FTA → DMV may suspend until you appear; convictions stay 36 months or longer)",
+    "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/"
+   },
+   {
+    "title": "Riverside Superior Court – AB 199 notice (civil assessment max $300 → $100, effective July 1, 2022, PC 1214.1)",
+    "url": "https://riverside.courts.ca.gov/system/files/public-notice_ab-199-civil-assessment.pdf"
+   },
+   {
+    "title": "Mariposa Superior Court – AB 103 (2017): no more license suspensions for failure to pay",
+    "url": "https://www.mariposa.courts.ca.gov/system/files/dmvftp2018.pdf"
+   },
+   {
+    "title": "CHP Highway Patrol Manual 81.2, ch. 2 (30-day impoundment, suspended or revoked license)",
+    "url": "https://www.chp.ca.gov/siteassets/policy/hpm/hpm-81.2/hpm-81.2-ch-2-new.pdf"
+   },
+   {
+    "title": "California Rules of Court, rule 4.335 (ability-to-pay determinations for infractions)",
+    "url": "https://courts.ca.gov/cms/rules/index/four/rule4_335"
+   },
+   {
+    "title": "California Courts Self-Help – Ask to lower your fine (MyCitations)",
+    "url": "https://selfhelp.courts.ca.gov/traffic/ask-lower-fine"
+   },
+   {
+    "title": "CA DMV – Reissue fees ($55 to restore a suspended license)",
+    "url": "https://dmv.ca.gov/portal/dmv-virtual-office/reissue-fees/"
+   },
+   {
+    "title": "Judicial Council – 2026 Court Statistics Report (3,055,653 infraction filings, FY 2024–25)",
+    "url": "https://courts.ca.gov/system/files/file/csr_2026.pdf"
+   }
+  ],
+  "question": "Is the address on your driver's license the place you actually live right now?",
+  "hashtags": [
+   "#speedingticket",
+   "#lawexplained",
+   "#california"
+  ],
+  "playlist": "What Really Happens After... (Every Stage, U.S. Law Explained)",
+  "chapters_note": "kapitel = 'chapter'-fälten (Level 1–10 + The end)",
+  "sokfras": "your life at every level",
+  "sokfras_kalla": "trend/sammanfattning.md (GitHub, niche-trends 23 nov 09:25 UTC), DAC: YouTubes sökförslag för 'your life at every level' (förslag: 'your life at every level', '… of wealth', '… of fame'). TRENDANALYS.md v48: frasen VÄXER MEST (9 nya videor/9 kanaler). Webbsök 23 nov: ingen video 'Your Life at Every Level of … Speeding Ticket' hittad."
+ },
+ "thumb": {
+  "kind": "dac3",
+  "klickfraga": "Du skrev under en fortkörningslapp och väntar på påminnelsen – men den går till din gamla adress. Hur kan en lapp på 79 i en 65 sluta med att bilen bärgas?",
+  "hot_i_bild": "Bärgningsbilen som lyfter hjälten bil (≈50 % av bilden) under blåljus, i förgrunden en jättelik rosa fortkörningslapp med stort '79' i rutan för hastighet; hjälten liten i helfigur med mjölkpaket i handen.",
+  "skiljer_sig": "Förra DAC (crash, 21/11): korsning snett ovanifrån, krocken + telefonen 'POLICY CANCELED', siffra $11,900. Nu: kvällsgata i blåljus, hotet är bärgningsbilen + lappen (papper, inte skärm), siffran är hastigheten '79' i stället för ett belopp, och titelns belopp ($247) upprepas inte i bilden.",
+  "jamfor_ark": "chk/jamfor-dac-2026-11-23.png",
+  "jamfor_mot": [
+   "-2r1E9_4Dcc (Honest Life POV, Your Life at Every Level of Living Off the Grid, 678 751)",
+   "DAC DUI Arrest (vår bästa, 3,8 % CTR)",
+   "DAC Sued After an Uninsured Crash (21/11)"
+  ],
+  "forsta_scen_matchar": "Scen 1 (0–3 s) är motorvägen med polisbilen och blåljus bakom hjälten i helbild – samma blåljus och samma rosa lapp som i miniatyren; lappen syns i bild från scen 6–8 (≈0:20), bärgningen som miniatyr A lovar betalas av i nivå 7, och löftet ('$247 … a suspended license, and a car on a tow truck') sägs vid ~0:07.",
+  "variants": [
+   {
+    "id": "A",
+    "layout": "bärgningsbil störst, jättelapp i förgrunden, hjälten liten",
+    "text": "79 IN A 65 (på lappen)",
+    "label": "DAY 46",
+    "scene": "kvällsgata i blåljus: bärgningsbil som lyfter hjältens bil, hjälten (grå luvtröja) liten med mjölkpaket, i förgrunden en jättelik rosa lapp med '79'"
+   },
+   {
+    "id": "B",
+    "layout": "split vänster/höger",
+    "text": "DAY 1 | DAY 46",
+    "label": null,
+    "scene": "ANNAN bild: vänster = vägkant i solljus, polisen räcker fram pennan; höger = samma hjälte i en hall med en hög kuvert (COURT, DMV) under en burk honung"
+   },
+   {
+    "id": "C",
+    "layout": "närbild på hotet, hjälten liten",
+    "text": "WRONG DOOR?",
+    "label": null,
+    "scene": "ANNAN bild: en jättelik dörr med en hög officiella kuvert på tröskeln, hjälten liten på trottoaren med flyttkartong (DAC får ha fråga)"
+   }
+  ]
+ },
+ "forbattring": {
+  "forra_videon": "What Happens If You Get Sued After an Uninsured Crash? (publicerad 22/11 21:00, L2): 0 visningar, 1 exponering efter 2 h – ingen dom än (mäts 25/11). DUI Arrest (vår bästa, 3,8 % CTR, 4:50 snitt) har stannat på ~80 visningar.",
+  "problem": "Krockvideon hade bra innehåll men en frågetitel utan trendformat och 14 närbilder; DUI har slutat växa och DAC behöver en ny video i exakt DUI-mallen för att få nästa våg från startsidan (VECKA_2026-48).",
+  "andring": "Följer TITTARTID_REGLER FORMATORDER, raden Day After Court (DUI-formatet: vanlig händelse – en fortkörningsbot som man ignorerar – steg för steg i tidsordning, verkliga avgifter/frister med källa) + TRENDORDER (titelformatet 'Your Life at Every Level of …' med belopp i titeln). Numrerade nivåer 1–10 med dom efter varje (som DUI), trafik-ämne nära DUI-publiken, Kalifornien (största delstaten) i stället för Florida/Texas.",
+  "forvantat": "CTR ≥ 3,8 % (DUI-nivån), ≥ 55 % kvar vid 0:30 och ≥ 35 % vid 2:00, snittvisning ≥ 4:30; startsidetrafik från DUI-tittarna (samma ämnesområde: trafik + körkort).",
+  "referens": "Trend: 'Your Life at Every Level of Living Off the Grid' (Honest Life POV, -2r1E9_4Dcc, 678 751 visningar, 27:36, månad, +7 %/dygn) + 'How Getting Arrested on a Cruise Ship Destroys Your Life at Every Level' (Miles Unnoticed, uKBrXDWCWlw, 11 694, vecka). Egen: DAC DUI Arrest (3,8 % CTR, 4:50 snitt). DAC_STANDARD: Baldy POV DqyGPrK3LGQ. Transkript kunde inte hämtas: ingen Chrome i molnkörningen (youtube-transcriber kräver den) och vidIQ-transkript användes inte (krediter sparas). Krokstruktur 0/5/10/20/30 s ur DAC_STANDARD 2 (Baldy): 0 s nivån direkt, ~5 s sinnesdetaljer, ~10 s 'everyone starts here', ~20 s insatsen med pris, ~30 s insiderdetalj.",
+  "vi_slår_den_med": "Hotet i första bilden (blåljus, 79 i en 65) i stället för en lugn öppning, löftet med verklig siffra vid 0:07 ($247 → indraget körkort → bärgad bil), en verklig regel med källa på skärmen minst var 30:e s (20 öppnade källor: DMV, Judicial Council, länens bötesscheman 2026, CHP, Rules of Court), och en gåta som alla kan råka ut för (påminnelsen går till den gamla adressen) som löses av en verklig 10-dagarsregel.",
+  "trend": {
+   "fras": "your life at every level",
+   "kalla": "GitHub trend/sammanfattning.md 23 nov 09:25 UTC (TREND_2026-11-23.md kunde inte sparas i projektet – fullt) + TRENDANALYS.md v48",
+   "trendvideo": "Your Life at Every Level of Living Off the Grid – Honest Life POV – 678 751 visningar – månad (+7 %/dygn); veckan: Your Life at Every Level as a Rancher (Mateo POV Boy, 17 165), … of Financing a $71,850 Backyard Pool (Mr.Beanie, 17 021), Getting Arrested on a Cruise Ship … at Every Level (Miles Unnoticed, 11 694)",
+   "andrat": "Titelformatet 'Your Life at Every Level of …' + belopp i titeln (som '$71,850 Backyard Pool', '$650 a Month'); innehållet = DUI-mallen enligt TRENDORDER 5."
+  }
+ },
+ "experiment": {
+  "variable": "trendtiteln 'Your Life at Every Level of …' med belopp på DUI-mallen",
+  "metric": "CTR mot DAC-snittet 3,8 %, 0:30-andel, snittvisning",
+  "decide_at": "48 h (25–26/11)"
+ },
+ "hooks_kandidater": {
+  "A_vald": "79 in a 65. Red and blue lights fill your mirror, 11 minutes before your shift starts. (bild = blåljusen direkt, siffror, funkar utan ljud; mekanism: stakes + specificity)",
+  "B": "A reminder letter with your name on it is already going to the wrong door. (curiosity gap – men första bilden blir ett kuvert, inte hotet)",
+  "C": "One signature on the side of a highway costs you 247 dollars, your license and your car. (stakes – för mycket av slutet direkt)",
+  "val": "A – hotet i bildruta 0 (TITTARTID_REGLER 1); C:s löfte läggs som scen 3 och B:s gåta planteras i nivå 2 och löses i nivå 6."
+ },
+ "standard_check": {
+  "miniatyr": "DAC_STANDARD 6 + MINIATYR_REGLER: hotet (bärgningsbilen + jättelappen) störst, hjälten liten i helfigur, kväll i blåljus men ljus (ej mörk), 'DAY 46' som etikett; B split DAY 1 | DAY 46, C fråga 'WRONG DOOR?'; titelns $247 upprepas inte i bilden.",
+  "krok": "situationen direkt (79 i en 65, blåljus, 11 minuter), insats med siffra ($247, körkort, bil) vid ~0:07, slutlöfte före 0:20, insidersanning (signaturen är ett löfte, påminnelsen är inte fristen), gåta (rådet 'wait for the letter').",
+  "nivåer": "10 numrerade nivåer (The stop → The record) + slutet; varje nivå: första ögonblick → svåraste → verklig regel med källa (CALIFORNIA RULE-kort) → insidersanning → känsloslag → övergång.",
+  "motiv": "lappen i mugghållaren (nivå 1, 2, 3, 7, 9, slutet i handskfacket – platt), Pruitts 'Slow is cheaper' (nivå 1, 10), Dez 'Wait for the letter' (nivå 1, 4, 6, 7), adressen/Mrs. Okafor (nivå 2, 6, 8, 9, slutet), de fyra minuterna (nivå 9, slutet).",
+  "slut": "cykeln: lillasyster Jo får sin första lapp – samma 'they mail you a reminder' – du låter henne läsa datumet högt och byta adress på fyra minuter; fäst fråga till tittaren om adressen på körkortet.",
+  "källor": "21 källor i beskrivningen (DMV ×5, Judicial Council ×2, länsdomstolar ×7, CHP, Rules of Court, Court Statistics Report); källrad på varje regelkort.",
+  "miljöer": "highway (ny), car_interior (ny), loading_dock (ny), front_door, apartment, court_hall, courtroom, dmv_office, city_street, tow_yard.",
+  "tittartid": "första 30 s bara helbild/kort (ingen medium, ingen närbild), ingen presentation de första 12 s, byte var ~5 s, löftet i klartext vid ~0:07, slutlöfte före 0:20.",
+  "innehall": {
+   "snittord_per_say": 21.2,
+   "say_under_6_ord": 9,
+   "faktaskyltar": 73,
+   "verkliga_regelkort": 24,
+   "storsta_lucka_s": 29.8,
+   "kommentar": "≈16.3 min (2415 ord, 2,6 ord/s + 0,45 s/scen). Faktaskylt = real/label/board/plan, note_card eller föremål med siffra (telefon/lapp/kuvert). Korta repliker = nivåkorten ('Level 2. The cup holder.') – ett per nivå."
+  }
+ },
+ "notes": {
+  "påhittat": "alla personer (du, Officer Pruitt, Dez, Mrs. Okafor, Jo, den andra polisen, expediten, advokaten), 11 minuter, 6 minuter sen, dag 11/46, 'six weeks', fredagen, kö 20 personer, G 212/G 140, 40 sekunder, fyra minuter (adressbytet), honungsburken, 'Willows' som plats i Glenn County.",
+  "uträkningar": "79 − 65 = 14 över → nivån 1–15 ($247 Glenn 2026); 16–25 över = $364; $364 − $247 = $117. Glenn-summan innehåller $40 court operations, $35 conviction assessment, $30 TAP (resten = straffavgifter).",
+  "osäkert": "Lagtexten på leginfo.legislature.ca.gov kunde inte öppnas (blockerad) – reglerna citeras från DMV-, domstols- och CHP-sidor, inte paragraftexten. 'Driving while suspended is a crime' (VC 14601.1) är inte citerat ur lagtext – videon säger bara 'a crime, not an infraction' och 'a citation for a misdemeanor'; straffet för 14601.1 nämns inte. Avbetalningsplanen och advokaten i nivå 8 är berättelse, inte ett utfall som lagen lovar. 30-dagarsbeslaget: CHP-manualen undantar vissa suspensionstyper – därför 'can happen, not that it always will'. MyCitations finns i många men inte alla domstolar ('Many courts').",
+  "motor": "Nytt att bygga i huvudchatten (fallback inom parentes): platsen 'highway' – ljus Sacramento Valley-motorväg, 65-skylt, vägkant, fält (fallback city_street); rekvisitan 'patrol_car' med fältet lights true/false – blåljus (MÅSTE finnas för scen 1 och miniatyr A; fallback: ingen); 'car_interior' – förarplats, mugghållare (fallback apartment); rekvisitan 'cup_holder' med 'ticket': true (rosa vikt lapp under ett kaffelock); 'loading_dock' (lastkaj, fallback city_street); 'tow_truck' med 'car': true (finns kanske i tow_yard-modulen från 21/11; fallback: ingen); 'boxes'; hero 'holding': 'box'; outfit green/pink/teal finns. sfx siren/crash från 21/11."
+ }
+}
