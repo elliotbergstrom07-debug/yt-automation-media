@@ -1,8 +1,8 @@
-# kanal|sökfras  (en rad per fras; YouTube-sökning USA, sorterad på visningar)
+# kanal|sökfras  (en rad per fras; YouTube-sökning USA, sorterad på visningar) – veckoanalys 23 nov
 ls|zombie survival story
 ls|zombie apocalypse full story
-ls|night shift zombie
 ls|day 1 to day 100 zombie
+ls|trapped in for 100 days
 ste|could you survive
 ste|how long would you survive in
 ste|worst time to be alive history
@@ -12,10 +12,10 @@ qm|how much house can you afford
 qm|can you afford on salary
 qm|cost of living usa 2026
 dac|what happens after you get arrested
-dac|your life after every stage
+dac|your life at every level
 dac|what happens if you get sued
-dac|what really happens in court
+dac|every level of debt
 tli|what if you could
 tli|what if you were
-tli|what if earth
 tli|what would happen if
+tli|what if you never
